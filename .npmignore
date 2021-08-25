@@ -1,2 +1,4 @@
-.yarn/
-README.md
+.pnp.cjs
+.yarn
+.yarnrc.yml
+yarn.lock
