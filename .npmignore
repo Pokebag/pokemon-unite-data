@@ -2,3 +2,4 @@
 .yarn
 .yarnrc.yml
 yarn.lock
+yarn-error.log
