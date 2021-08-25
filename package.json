@@ -2,7 +2,9 @@
   "name": "@pokebag/pokemon-unite-data",
   "version": "1.0.0",
   "repository": "git@github.com:Pokebag/pokemon-unite-data.git",
-  "author": "Trezy <t@trezy.com>",
-  "contributors": [],
+  "author": "Trezy <t@trezy.com> (https://trezy.com)",
+  "contributors": [
+    "circa <hello.unite.db@gmail.com> (https://unite-db.com)"
+  ],
   "license": "BSD-3-Clause"
 }
