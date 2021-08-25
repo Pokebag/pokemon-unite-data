@@ -1,0 +1,130 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Novice",
+    "role": "Supporter"
+  },
+  "evolution": [
+    {
+      "name": "Gossifleur",
+      "level": "4"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Eldegoss",
+  "ratings": {
+    "combat": 3,
+    "resistance": 4,
+    "mobility": 5,
+    "scoring": 5,
+    "assistance": 8,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3278,
+      "attack": 130,
+      "defense": 40,
+      "spAttack": 40,
+      "spDefense": 30
+    },
+    {
+      "hp": 3383,
+      "attack": 134,
+      "defense": 44,
+      "spAttack": 54,
+      "spDefense": 33
+    },
+    {
+      "hp": 3503,
+      "attack": 139,
+      "defense": 48,
+      "spAttack": 70,
+      "spDefense": 36
+    },
+    {
+      "hp": 4114,
+      "attack": 162,
+      "defense": 69,
+      "spAttack": 152,
+      "spDefense": 52
+    },
+    {
+      "hp": 4274,
+      "attack": 168,
+      "defense": 74,
+      "spAttack": 173,
+      "spDefense": 56
+    },
+    {
+      "hp": 4457,
+      "attack": 175,
+      "defense": 80,
+      "spAttack": 198,
+      "spDefense": 61
+    },
+    {
+      "hp": 4668,
+      "attack": 183,
+      "defense": 87,
+      "spAttack": 226,
+      "spDefense": 66
+    },
+    {
+      "hp": 4911,
+      "attack": 192,
+      "defense": 95,
+      "spAttack": 258,
+      "spDefense": 72
+    },
+    {
+      "hp": 5190,
+      "attack": 203,
+      "defense": 104,
+      "spAttack": 295,
+      "spDefense": 79
+    },
+    {
+      "hp": 5511,
+      "attack": 215,
+      "defense": 115,
+      "spAttack": 338,
+      "spDefense": 87
+    },
+    {
+      "hp": 5880,
+      "attack": 229,
+      "defense": 128,
+      "spAttack": 387,
+      "spDefense": 96
+    },
+    {
+      "hp": 6305,
+      "attack": 245,
+      "defense": 142,
+      "spAttack": 444,
+      "spDefense": 107
+    },
+    {
+      "hp": 6794,
+      "attack": 264,
+      "defense": 159,
+      "spAttack": 509,
+      "spDefense": 119
+    },
+    {
+      "hp": 7356,
+      "attack": 285,
+      "defense": 178,
+      "spAttack": 584,
+      "spDefense": 133
+    },
+    {
+      "hp": 8002,
+      "attack": 310,
+      "defense": 200,
+      "spAttack": 670,
+      "spDefense": 149
+    }
+  ]
+}

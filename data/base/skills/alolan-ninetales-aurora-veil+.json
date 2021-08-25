@@ -1,0 +1,12 @@
+{
+  "cooldown": 13,
+  "displayName": "Aurora Veil+",
+  "description": "Create an aurora around the user, reducing damage received by the user and nearby allies in the area of effect. While the user is inside the aurora, its movement speed is increased and its basic attacks become boosted attacks.\n\nFurther reduces damage allies receive.",
+  "id": "alolan-ninetales-aurora-veil+",
+  "requires": [
+    "pokemon.hasSkill('alolan-ninetales-icy-wind')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 5
+}

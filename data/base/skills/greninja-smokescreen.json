@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Smokescreen",
+  "id": "greninja-smokescreen",
+  "requires": [
+    "pokemon.hasSkill('greninja-substitute')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 3,
+  "cooldown": 13,
+  "description": "Creates a smokescreen and has the user roll away from its current location. Immediately afterward, the user begins sneaking and has its movement speed increased for a short time. This also makes its next basic attack a boosted attack."
+}

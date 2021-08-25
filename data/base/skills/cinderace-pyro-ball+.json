@@ -1,0 +1,12 @@
+{
+  "cooldown": 7,
+  "displayName": "Pyro Ball+",
+  "description": "Kick a ball of flame in the designated direction, dealing damage to enemies and leaving them burned for a short time when this move hits.\n\nReduces the cooldown of Flame Charge or Feint when this move hits.",
+  "id": "cinderace-pyro-ball+",
+  "requires": [
+    "pokemon.hasSkill('cinderace-ember')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 4
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 5,
+  "displayName": "Double Slap+",
+  "description": "Perform a combo attack in front, dealing damage to enemies and decreasing their movement speed for a short time when the attack hits.\n\nIncreased number of attacks.",
+  "id": "wigglytuff-double-slap+",
+  "requires": [
+    "pokemon.hasSkill('wigglytuff-pound')",
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 2,
+  "type": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": 2,
+  "description": "Has the user fall asleep on the spot and restores its HP. Blocks the movement of all enemies while this move is in effect.",
+  "displayName": "Rest",
+  "id": "snorlax-rest",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 10
+}

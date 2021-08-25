@@ -1,0 +1,11 @@
+{
+  "type": 1,
+  "description": "Has the user unleash a powerful chain attack while dashing forward. The final attack throws enemies but also leaves the user unable to act for a short time.",
+  "displayName": "Livid Outrage",
+  "id": "garchomp-livid-outrage",
+  "requires": [
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

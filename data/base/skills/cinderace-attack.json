@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, dealing increased damage when it hits.",
+  "displayName": "Attack",
+  "id": "cinderace-attack",
+  "requires": [],
+  "slot": 1
+}

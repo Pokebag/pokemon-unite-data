@@ -1,0 +1,7 @@
+{
+  "description": "When losing a certain amount of HP, Defense and Sp. Defense are increased. (Stacks up to 10 times based on remaining HP).",
+  "displayName": "Sturdy",
+  "id": "crustle-sturdy",
+  "requires": [],
+  "slot": 0
+}

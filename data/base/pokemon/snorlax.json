@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Novice",
+    "role": "Defender"
+  },
+  "damageType": "physical",
+  "displayName": "Snorlax",
+  "ratings": {
+    "combat": 3,
+    "resistance": 10,
+    "mobility": 4,
+    "scoring": 3,
+    "assistance": 5,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3300,
+      "attack": 175,
+      "defense": 97,
+      "spAttack": 20,
+      "spDefense": 67
+    },
+    {
+      "hp": 3535,
+      "attack": 181,
+      "defense": 114,
+      "spAttack": 23,
+      "spDefense": 79
+    },
+    {
+      "hp": 3793,
+      "attack": 188,
+      "defense": 133,
+      "spAttack": 27,
+      "spDefense": 92
+    },
+    {
+      "hp": 4077,
+      "attack": 195,
+      "defense": 154,
+      "spAttack": 31,
+      "spDefense": 106
+    },
+    {
+      "hp": 4389,
+      "attack": 203,
+      "defense": 177,
+      "spAttack": 36,
+      "spDefense": 122
+    },
+    {
+      "hp": 4733,
+      "attack": 212,
+      "defense": 202,
+      "spAttack": 41,
+      "spDefense": 139
+    },
+    {
+      "hp": 5111,
+      "attack": 222,
+      "defense": 230,
+      "spAttack": 46,
+      "spDefense": 158
+    },
+    {
+      "hp": 5528,
+      "attack": 233,
+      "defense": 260,
+      "spAttack": 52,
+      "spDefense": 179
+    },
+    {
+      "hp": 5987,
+      "attack": 245,
+      "defense": 294,
+      "spAttack": 59,
+      "spDefense": 202
+    },
+    {
+      "hp": 6493,
+      "attack": 258,
+      "defense": 331,
+      "spAttack": 66,
+      "spDefense": 228
+    },
+    {
+      "hp": 7050,
+      "attack": 272,
+      "defense": 372,
+      "spAttack": 74,
+      "spDefense": 256
+    },
+    {
+      "hp": 7663,
+      "attack": 288,
+      "defense": 417,
+      "spAttack": 83,
+      "spDefense": 287
+    },
+    {
+      "hp": 8338,
+      "attack": 305,
+      "defense": 466,
+      "spAttack": 93,
+      "spDefense": 321
+    },
+    {
+      "hp": 9081,
+      "attack": 324,
+      "defense": 520,
+      "spAttack": 104,
+      "spDefense": 359
+    },
+    {
+      "hp": 9899,
+      "attack": 345,
+      "defense": 580,
+      "spAttack": 116,
+      "spDefense": 400
+    }
+  ]
+}

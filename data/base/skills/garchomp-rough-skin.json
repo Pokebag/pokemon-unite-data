@@ -1,0 +1,7 @@
+{
+  "description": "When struck by a melee attack, a portion of the damage received is reflected back at the attacker.",
+  "displayName": "Rough Skin",
+  "id": "garchomp-rough-skin",
+  "requires": [],
+  "slot": 0
+}

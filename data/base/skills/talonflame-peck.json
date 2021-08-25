@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Fly toward an enemy and attack 3 times.",
+  "displayName": "Peck",
+  "id": "talonflame-peck",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

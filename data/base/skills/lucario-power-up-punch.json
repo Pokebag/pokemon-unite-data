@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Power-Up Punch",
+  "id": "lucario-power-up-punch",
+  "requires": [
+    "pokemon.hasSkill('lucario-quick-attack')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 2,
+  "cooldown": 7,
+  "description": "Charges power before unleashing a powerful attack. While the user is charging power, its movement speed is decreased but its Attack slowly increases and the damage it receives is reduced. The user then charges in the designated direction and releases this move, dealing more damage the lower the enemies remaining HP is. The next basic attack becomes a boosted attack if the move hits. This move's cooldown is reduced every time one of the user's moves hits."
+}

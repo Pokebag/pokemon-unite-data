@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Double Team",
+  "id": "greninja-double-team",
+  "requires": [
+    "pokemon.hasSkill('greninja-substitute')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 3,
+  "cooldown": 9,
+  "description": "Quickly moves the user away from the current position, creating illusory copies of it to aid in battle."
+}

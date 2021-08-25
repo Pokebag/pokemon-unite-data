@@ -1,0 +1,12 @@
+{
+  "type": 6,
+  "displayName": "Giga Drain",
+  "id": "venusaur-giga-drain",
+  "requires": [
+    "pokemon.hasSkill('venusaur-seed-bomb')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 2,
+  "cooldown": 7,
+  "description": "Drain HP from enemies in the area of effect, dealing damage to them and restoring HP when this hits. Also reduces damage received for a short time."
+}

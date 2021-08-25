@@ -1,0 +1,12 @@
+{
+  "cooldown": 12,
+  "displayName": "Yawn+",
+  "description": "Has the user let loose a huge yawn that lulls enemies into a sleepy haze, putting enemies hit by this move to sleep.\n\nDecrease the movement speed of enemies for a short time when this move hits.",
+  "id": "snorlax-yawn+",
+  "requires": [
+    "pokemon.hasSkill('snorlax-rest')",
+    "pokemon.lvl >= 14"
+  ],
+  "slot": 3,
+  "type": 2
+}

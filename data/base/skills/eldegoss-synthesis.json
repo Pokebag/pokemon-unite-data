@@ -1,0 +1,9 @@
+{
+  "type": 6,
+  "description": "Restores the HP of the user and nearby allies.",
+  "displayName": "Synthesis",
+  "id": "eldegoss-synthesis",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

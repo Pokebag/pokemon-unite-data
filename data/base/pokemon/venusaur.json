@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Intermediate",
+    "role": "Attacker"
+  },
+  "evolution": [
+    {
+      "name": "Bulbasaur",
+      "level": "5"
+    },
+    {
+      "name": "Ivysaur",
+      "level": "9"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Venusaur",
+  "ratings": {
+    "combat": 9,
+    "resistance": 4,
+    "mobility": 4,
+    "scoring": 5,
+    "assistance": 2,
+    "total": 24
+  },
+  "stats": [
+    {
+      "hp": 3300,
+      "attack": 134,
+      "defense": 35,
+      "spAttack": 50,
+      "spDefense": 27
+    },
+    {
+      "hp": 3343,
+      "attack": 136,
+      "defense": 37,
+      "spAttack": 63,
+      "spDefense": 29
+    },
+    {
+      "hp": 3395,
+      "attack": 139,
+      "defense": 39,
+      "spAttack": 79,
+      "spDefense": 31
+    },
+    {
+      "hp": 3457,
+      "attack": 142,
+      "defense": 42,
+      "spAttack": 98,
+      "spDefense": 33
+    },
+    {
+      "hp": 3683,
+      "attack": 154,
+      "defense": 52,
+      "spAttack": 166,
+      "spDefense": 41
+    },
+    {
+      "hp": 3773,
+      "attack": 159,
+      "defense": 56,
+      "spAttack": 193,
+      "spDefense": 44
+    },
+    {
+      "hp": 3881,
+      "attack": 165,
+      "defense": 61,
+      "spAttack": 226,
+      "spDefense": 48
+    },
+    {
+      "hp": 4011,
+      "attack": 172,
+      "defense": 67,
+      "spAttack": "265",
+      "spDefense": 53
+    },
+    {
+      "hp": 4469,
+      "attack": 196,
+      "defense": 88,
+      "spAttack": 403,
+      "spDefense": 69
+    },
+    {
+      "hp": 4655,
+      "attack": 206,
+      "defense": 97,
+      "spAttack": 459,
+      "spDefense": 76
+    },
+    {
+      "hp": 4879,
+      "attack": 218,
+      "defense": 107,
+      "spAttack": "527",
+      "spDefense": 84
+    },
+    {
+      "hp": 5148,
+      "attack": 232,
+      "defense": 119,
+      "spAttack": 608,
+      "spDefense": 94
+    },
+    {
+      "hp": 5470,
+      "attack": 249,
+      "defense": 134,
+      "spAttack": "705",
+      "spDefense": 106
+    },
+    {
+      "hp": 5857,
+      "attack": 269,
+      "defense": 152,
+      "spAttack": "822",
+      "spDefense": 120
+    },
+    {
+      "hp": 6321,
+      "attack": 293,
+      "defense": 174,
+      "spAttack": "962",
+      "spDefense": 137
+    }
+  ]
+}

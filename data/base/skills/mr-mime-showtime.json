@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Jump to the designated location and start a pantomime performance, dealing damage over time to enemies in the area of effect and leaving them unable to act for a short time.",
+  "displayName": "Showtime",
+  "id": "mr-mime-showtime",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

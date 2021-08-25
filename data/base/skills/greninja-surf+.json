@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "Surf+",
+  "description": "Ride a wave, dealing damage to enemies and restoring the user's HP. If this move knocks out an enemy, its cooldown is reset. In addition, this move deals increased damage to enemies with low HP.\n\nIncreases the amount of HP restored.",
+  "id": "greninja-surf+",
+  "requires": [
+    "pokemon.hasSkill('greninja-bubble')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 1
+}

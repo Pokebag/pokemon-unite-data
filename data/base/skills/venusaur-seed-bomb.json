@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Hurl a large seed at the designated area, dealing damage to enemies in the area of effect.",
+  "displayName": "Seed Bomb",
+  "id": "venusaur-seed-bomb",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

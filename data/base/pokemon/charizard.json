@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Novice",
+    "role": "All-Rounder"
+  },
+  "evolution": [
+    {
+      "name": "Charmander",
+      "level": "5"
+    },
+    {
+      "name": "Charmeleon",
+      "level": "9"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Charizard",
+  "ratings": {
+    "combat": 7,
+    "resistance": 6,
+    "mobility": 5,
+    "scoring": 6,
+    "assistance": 1,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3200,
+      "attack": 161,
+      "defense": 70,
+      "spAttack": 20,
+      "spDefense": 34
+    },
+    {
+      "hp": 3264,
+      "attack": 165,
+      "defense": 74,
+      "spAttack": 21,
+      "spDefense": 57
+    },
+    {
+      "hp": 3341,
+      "attack": 170,
+      "defense": 79,
+      "spAttack": 23,
+      "spDefense": 61
+    },
+    {
+      "hp": 3434,
+      "attack": 175,
+      "defense": 85,
+      "spAttack": 25,
+      "spDefense": 65
+    },
+    {
+      "hp": 3771,
+      "attack": 199,
+      "defense": 106,
+      "spAttack": 32,
+      "spDefense": 81
+    },
+    {
+      "hp": 3905,
+      "attack": 208,
+      "defense": 114,
+      "spAttack": 35,
+      "spDefense": 87
+    },
+    {
+      "hp": 4066,
+      "attack": 219,
+      "defense": 124,
+      "spAttack": 38,
+      "spDefense": 95
+    },
+    {
+      "hp": 4259,
+      "attack": 232,
+      "defense": 136,
+      "spAttack": 42,
+      "spDefense": 104
+    },
+    {
+      "hp": 4941,
+      "attack": 278,
+      "defense": 178,
+      "spAttack": 56,
+      "spDefense": 137
+    },
+    {
+      "hp": 5219,
+      "attack": 297,
+      "defense": 195,
+      "spAttack": 62,
+      "spDefense": 150
+    },
+    {
+      "hp": 5553,
+      "attack": 319,
+      "defense": 216,
+      "spAttack": 69,
+      "spDefense": 166
+    },
+    {
+      "hp": 5953,
+      "attack": 346,
+      "defense": 241,
+      "spAttack": 77,
+      "spDefense": 185
+    },
+    {
+      "hp": 6433,
+      "attack": 378,
+      "defense": 271,
+      "spAttack": 87,
+      "spDefense": 208
+    },
+    {
+      "hp": 7009,
+      "attack": 417,
+      "defense": 307,
+      "spAttack": 99,
+      "spDefense": 236
+    },
+    {
+      "hp": 7700,
+      "attack": 463,
+      "defense": 350,
+      "spAttack": 114,
+      "spDefense": 269
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 11,
+  "displayName": "Fly+",
+  "description": "Fly up into the sky. Using this move again will cause you to dive to the designated area and attack, dealing damage to enemies in the area of effect. Your next basic attack becomes a boosted attack.\n\nAlso throws enemies when this move hits.",
+  "id": "talonflame-fly+",
+  "requires": [
+    "pokemon.hasSkill('talonflame-acrobatics')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 0
+}

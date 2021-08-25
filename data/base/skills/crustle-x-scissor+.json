@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "X-Scissor+",
+  "description": "Dash forward with crossed claws, dealing damage to enemies multiple times and shoving them. Leaves enemies unable to act if they hit an object when shoved.\n\nReduced cooldown.",
+  "id": "crustle-x-scissor+",
+  "requires": [
+    "pokemon.hasSkill('crustle-fury-cutter')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 1
+}

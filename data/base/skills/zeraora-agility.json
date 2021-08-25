@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Perform a quick dash and increase basic attack speed for a short time afterward.",
+  "displayName": "Agility",
+  "id": "zeraora-agility",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

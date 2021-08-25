@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Fly toward the designated area and attack multiple times. Escape in a direction of your choice after using this move.",
+  "displayName": "Acrobatics",
+  "id": "talonflame-acrobatics",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

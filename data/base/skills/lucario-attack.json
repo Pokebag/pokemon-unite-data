@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, performing a combo attack with a bone. Deals damage to enemies in the area of effect and throws them.",
+  "displayName": "Attack",
+  "id": "lucario-attack",
+  "requires": [],
+  "slot": 1
+}

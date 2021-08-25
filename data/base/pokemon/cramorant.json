@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Expert",
+    "role": "Attacker"
+  },
+  "damageType": "special",
+  "displayName": "Cramorant",
+  "ratings": {
+    "combat": 8,
+    "resistance": 6,
+    "mobility": 6,
+    "scoring": 3,
+    "assistance": 2,
+    "total": "25"
+  },
+  "stats": [
+    {
+      "hp": 3292,
+      "attack": 134,
+      "defense": 60,
+      "spAttack": 50,
+      "spDefense": 40
+    },
+    {
+      "hp": 3399,
+      "attack": 139,
+      "defense": 69,
+      "spAttack": 75,
+      "spDefense": 46
+    },
+    {
+      "hp": 3517,
+      "attack": 145,
+      "defense": 78,
+      "spAttack": 102,
+      "spDefense": 52
+    },
+    {
+      "hp": 3647,
+      "attack": 151,
+      "defense": 88,
+      "spAttack": 132,
+      "spDefense": 59
+    },
+    {
+      "hp": 3789,
+      "attack": 158,
+      "defense": 99,
+      "spAttack": 165,
+      "spDefense": 67
+    },
+    {
+      "hp": 3946,
+      "attack": 166,
+      "defense": 112,
+      "spAttack": 201,
+      "spDefense": 75
+    },
+    {
+      "hp": 4118,
+      "attack": 175,
+      "defense": 126,
+      "spAttack": 240,
+      "spDefense": 84
+    },
+    {
+      "hp": 4308,
+      "attack": 185,
+      "defense": 141,
+      "spAttack": 283,
+      "spDefense": 94
+    },
+    {
+      "hp": 4517,
+      "attack": 196,
+      "defense": 158,
+      "spAttack": 331,
+      "spDefense": 105
+    },
+    {
+      "hp": 4748,
+      "attack": 208,
+      "defense": 176,
+      "spAttack": 384,
+      "spDefense": 117
+    },
+    {
+      "hp": 5002,
+      "attack": 221,
+      "defense": 196,
+      "spAttack": 442,
+      "spDefense": 131
+    },
+    {
+      "hp": 5281,
+      "attack": 235,
+      "defense": 218,
+      "spAttack": 506,
+      "spDefense": 146
+    },
+    {
+      "hp": 5589,
+      "attack": 250,
+      "defense": 243,
+      "spAttack": 576,
+      "spDefense": 162
+    },
+    {
+      "hp": 5928,
+      "attack": 267,
+      "defense": 270,
+      "spAttack": 654,
+      "spDefense": 180
+    },
+    {
+      "hp": 6301,
+      "attack": 286,
+      "defense": 300,
+      "spAttack": 739,
+      "spDefense": 200
+    }
+  ]
+}

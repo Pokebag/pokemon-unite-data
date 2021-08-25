@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Make a swift low sweep in the designated direction, dealing damage to any enemy it hits.",
+  "displayName": "Low Sweep",
+  "id": "cinderace-low-sweep",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 7.5
+}

@@ -1,0 +1,130 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Novice",
+    "role": "Supporter"
+  },
+  "evolution": [
+    {
+      "name": "Chansey",
+      "level": "4"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Blissey",
+  "ratings": {
+    "combat": 2,
+    "resistance": 7,
+    "mobility": 3,
+    "scoring": 3,
+    "assistance": 9,
+    "total": 24
+  },
+  "stats": [
+    {
+      "hp": 3278,
+      "attack": 143,
+      "defense": 40,
+      "spAttack": 40,
+      "spDefense": 30
+    },
+    {
+      "hp": 3427,
+      "attack": 147,
+      "defense": 44,
+      "spAttack": 52,
+      "spDefense": 33
+    },
+    {
+      "hp": 3598,
+      "attack": 152,
+      "defense": 48,
+      "spAttack": 66,
+      "spDefense": 36
+    },
+    {
+      "hp": 4467,
+      "attack": 178,
+      "defense": 69,
+      "spAttack": 138,
+      "spDefense": 52
+    },
+    {
+      "hp": 4694,
+      "attack": 184,
+      "defense": 74,
+      "spAttack": 157,
+      "spDefense": 56
+    },
+    {
+      "hp": 4955,
+      "attack": 192,
+      "defense": 80,
+      "spAttack": 179,
+      "spDefense": 61
+    },
+    {
+      "hp": 5255,
+      "attack": 201,
+      "defense": 87,
+      "spAttack": 204,
+      "spDefense": 66
+    },
+    {
+      "hp": 5600,
+      "attack": 211,
+      "defense": 95,
+      "spAttack": 233,
+      "spDefense": 72
+    },
+    {
+      "hp": 5997,
+      "attack": 223,
+      "defense": 104,
+      "spAttack": 266,
+      "spDefense": 79
+    },
+    {
+      "hp": 6454,
+      "attack": 236,
+      "defense": 115,
+      "spAttack": 304,
+      "spDefense": 87
+    },
+    {
+      "hp": 6980,
+      "attack": 251,
+      "defense": 128,
+      "spAttack": 348,
+      "spDefense": 96
+    },
+    {
+      "hp": 7585,
+      "attack": 269,
+      "defense": 142,
+      "spAttack": 398,
+      "spDefense": 107
+    },
+    {
+      "hp": 8281,
+      "attack": 290,
+      "defense": 159,
+      "spAttack": 456,
+      "spDefense": 119
+    },
+    {
+      "hp": 9081,
+      "attack": 313,
+      "defense": 178,
+      "spAttack": 523,
+      "spDefense": 133
+    },
+    {
+      "hp": 10000,
+      "attack": 341,
+      "defense": 200,
+      "spAttack": 600,
+      "spDefense": 149
+    }
+  ]
+}

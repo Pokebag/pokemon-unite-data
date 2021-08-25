@@ -1,0 +1,7 @@
+{
+  "description": "When Slowbro receives damage, the HP loss is gradual. When damaging an opponent with a move, restore some of the remaining gradual HP loss and decrease the target's Sp. Defense.",
+  "displayName": "Oblivious",
+  "id": "slowbro-oblivious",
+  "requires": [],
+  "slot": 0
+}

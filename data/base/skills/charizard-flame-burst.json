@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Attack with a bursting flame. When this move hits, it leaves enemies burned and increases the user's movement speed for a short time.",
+  "displayName": "Flame Burst",
+  "id": "charizard-flame-burst",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

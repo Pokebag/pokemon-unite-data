@@ -1,0 +1,7 @@
+{
+  "description": "When Cramorant uses a move, it catches some form of prey in its mouth. Afterward, when Cramorant receives damage, it spits the prey out as a counterattack at an enemy. The type of prey and effect differ based on the user's HP.",
+  "displayName": "Gulp Missle",
+  "id": "cramorant-gulp-missle",
+  "requires": [],
+  "slot": 0
+}

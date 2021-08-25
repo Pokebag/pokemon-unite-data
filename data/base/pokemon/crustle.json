@@ -1,0 +1,130 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Novice",
+    "role": "Defender"
+  },
+  "evolution": [
+    {
+      "name": "Dwebble",
+      "level": "4"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Crustle",
+  "ratings": {
+    "combat": 3,
+    "resistance": 8,
+    "mobility": 3,
+    "scoring": 4,
+    "assistance": 6,
+    "total": "24"
+  },
+  "stats": [
+    {
+      "hp": 3300,
+      "attack": 175,
+      "defense": 97,
+      "spAttack": 20,
+      "spDefense": 67
+    },
+    {
+      "hp": 3447,
+      "attack": 179,
+      "defense": 108,
+      "spAttack": 22,
+      "spDefense": 74
+    },
+    {
+      "hp": 3615,
+      "attack": 183,
+      "defense": 120,
+      "spAttack": "24",
+      "spDefense": 82
+    },
+    {
+      "hp": 4469,
+      "attack": 205,
+      "defense": 182,
+      "spAttack": "36",
+      "spDefense": 125
+    },
+    {
+      "hp": 4692,
+      "attack": 211,
+      "defense": 198,
+      "spAttack": "39",
+      "spDefense": 136
+    },
+    {
+      "hp": 4948,
+      "attack": 218,
+      "defense": 217,
+      "spAttack": 43,
+      "spDefense": 149
+    },
+    {
+      "hp": 5242,
+      "attack": 226,
+      "defense": 239,
+      "spAttack": 47,
+      "spDefense": 164
+    },
+    {
+      "hp": 5581,
+      "attack": 235,
+      "defense": 264,
+      "spAttack": 52,
+      "spDefense": 181
+    },
+    {
+      "hp": 5971,
+      "attack": 245,
+      "defense": 293,
+      "spAttack": 58,
+      "spDefense": 201
+    },
+    {
+      "hp": 6420,
+      "attack": 256,
+      "defense": 326,
+      "spAttack": 65,
+      "spDefense": 224
+    },
+    {
+      "hp": 6936,
+      "attack": 269,
+      "defense": 364,
+      "spAttack": 73,
+      "spDefense": 250
+    },
+    {
+      "hp": 7530,
+      "attack": 284,
+      "defense": 407,
+      "spAttack": 82,
+      "spDefense": 280
+    },
+    {
+      "hp": 8213,
+      "attack": 301,
+      "defense": 457,
+      "spAttack": 92,
+      "spDefense": 314
+    },
+    {
+      "hp": 8998,
+      "attack": 321,
+      "defense": 514,
+      "spAttack": 103,
+      "spDefense": 354
+    },
+    {
+      "hp": 9900,
+      "attack": 344,
+      "defense": 580,
+      "spAttack": "116",
+      "spDefense": 400
+    }
+  ]
+}

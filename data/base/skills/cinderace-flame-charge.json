@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Flame Charge",
+  "id": "cinderace-flame-charge",
+  "requires": [
+    "pokemon.hasSkill('cinderace-low-sweep')",
+    "pokemon.lvl >= 8"
+  ],
+  "slot": 3,
+  "cooldown": 6,
+  "description": "Charge forward cloaked in flame, dealing damage to any enemy hit."
+}

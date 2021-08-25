@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Expert",
+    "role": "Speedster"
+  },
+  "damageType": "physical",
+  "displayName": "Absol",
+  "ratings": {
+    "combat": 7,
+    "resistance": 4,
+    "mobility": 8,
+    "scoring": 5,
+    "assistance": 1,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3000,
+      "attack": 170,
+      "defense": 52,
+      "spAttack": 20,
+      "spDefense": 36
+    },
+    {
+      "hp": 3107,
+      "attack": 186,
+      "defense": 59,
+      "spAttack": 23,
+      "spDefense": 41
+    },
+    {
+      "hp": 3224,
+      "attack": 204,
+      "defense": 67,
+      "spAttack": 27,
+      "spDefense": 47
+    },
+    {
+      "hp": 3353,
+      "attack": 223,
+      "defense": 76,
+      "spAttack": 31,
+      "spDefense": 53
+    },
+    {
+      "hp": 3495,
+      "attack": 244,
+      "defense": 86,
+      "spAttack": 36,
+      "spDefense": 60
+    },
+    {
+      "hp": 3651,
+      "attack": 267,
+      "defense": 97,
+      "spAttack": 41,
+      "spDefense": 68
+    },
+    {
+      "hp": 3823,
+      "attack": 293,
+      "defense": 109,
+      "spAttack": 47,
+      "spDefense": 76
+    },
+    {
+      "hp": 4012,
+      "attack": 321,
+      "defense": 122,
+      "spAttack": 53,
+      "spDefense": 85
+    },
+    {
+      "hp": 4221,
+      "attack": 352,
+      "defense": 136,
+      "spAttack": 60,
+      "spDefense": 95
+    },
+    {
+      "hp": 4451,
+      "attack": 387,
+      "defense": 152,
+      "spAttack": 58,
+      "spDefense": 106
+    },
+    {
+      "hp": 4704,
+      "attack": 425,
+      "defense": 170,
+      "spAttack": 76,
+      "spDefense": 118
+    },
+    {
+      "hp": 4983,
+      "attack": 467,
+      "defense": 189,
+      "spAttack": 85,
+      "spDefense": 131
+    },
+    {
+      "hp": 5290,
+      "attack": 513,
+      "defense": 210,
+      "spAttack": 95,
+      "spDefense": 146
+    },
+    {
+      "hp": 5628,
+      "attack": 564,
+      "defense": 233,
+      "spAttack": 106,
+      "spDefense": 162
+    },
+    {
+      "hp": 6000,
+      "attack": 620,
+      "defense": 259,
+      "spAttack": 118,
+      "spDefense": 180
+    }
+  ]
+}

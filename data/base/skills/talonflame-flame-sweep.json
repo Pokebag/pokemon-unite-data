@@ -1,0 +1,11 @@
+{
+  "type": 0,
+  "description": "Perform an aerial somersault before charging forawrd, dealing damage to enemies in this move's path and shoving them.",
+  "displayName": "Flame Sweep",
+  "id": "talonflame-flame-sweep",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Leaves behind a substitute doll for the user while it's moving forward.",
+  "displayName": "Substitute",
+  "id": "greninja-substitute",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

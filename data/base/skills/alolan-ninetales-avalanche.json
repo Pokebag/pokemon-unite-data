@@ -1,0 +1,12 @@
+{
+  "type": 3,
+  "displayName": "Avalanche",
+  "id": "alolan-ninetales-avalanche",
+  "requires": [
+    "pokemon.hasSkill('alolan-ninetales-powder-snow')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 7,
+  "description": "Attack with a gush of chilly ice toward the designated area. The ice forms a wall that cannot be passed through on land. After a short time this wall melts and collapses, dealing damage to enemies in the area of effect."
+}

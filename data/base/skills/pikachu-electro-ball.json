@@ -1,0 +1,12 @@
+{
+  "type": 7,
+  "displayName": "Electro Ball",
+  "id": "pikachu-electro-ball",
+  "requires": [
+    "pokemon.hasSkill('pikachu-thunder-shock')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 5,
+  "description": "Hurl an electric orb, dealing damage to enemies in the area of effect and leaving them paralyzed for a short time. This move's damage increases the lower the enemies remaining HP is."
+}

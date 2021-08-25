@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Attacks straight in the designated direction.",
+  "displayName": "Confusion",
+  "id": "gardevoir-confusion",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 4.5
+}

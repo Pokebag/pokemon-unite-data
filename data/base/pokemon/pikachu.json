@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Novice",
+    "role": "Attacker"
+  },
+  "damageType": "special",
+  "displayName": "Pikachu",
+  "ratings": {
+    "combat": 9,
+    "resistance": 3,
+    "mobility": 5,
+    "scoring": 4,
+    "assistance": 3,
+    "total": 24
+  },
+  "stats": [
+    {
+      "hp": 3292,
+      "attack": 134,
+      "defense": 35,
+      "spAttack": 50,
+      "spDefense": 27
+    },
+    {
+      "hp": 3399,
+      "attack": 140,
+      "defense": 40,
+      "spAttack": 82,
+      "spDefense": 31
+    },
+    {
+      "hp": 3517,
+      "attack": 146,
+      "defense": 45,
+      "spAttack": 117,
+      "spDefense": 35
+    },
+    {
+      "hp": 3646,
+      "attack": 153,
+      "defense": 51,
+      "spAttack": "156",
+      "spDefense": 40
+    },
+    {
+      "hp": 3788,
+      "attack": 160,
+      "defense": 58,
+      "spAttack": "199",
+      "spDefense": 45
+    },
+    {
+      "hp": 3945,
+      "attack": 168,
+      "defense": 65,
+      "spAttack": "246",
+      "spDefense": 51
+    },
+    {
+      "hp": 4117,
+      "attack": 177,
+      "defense": 73,
+      "spAttack": 298,
+      "spDefense": 57
+    },
+    {
+      "hp": 4307,
+      "attack": 187,
+      "defense": 82,
+      "spAttack": 355,
+      "spDefense": 64
+    },
+    {
+      "hp": 4516,
+      "attack": 198,
+      "defense": 92,
+      "spAttack": 418,
+      "spDefense": 72
+    },
+    {
+      "hp": 4747,
+      "attack": 210,
+      "defense": 103,
+      "spAttack": 487,
+      "spDefense": 80
+    },
+    {
+      "hp": 5001,
+      "attack": 223,
+      "defense": 115,
+      "spAttack": 563,
+      "spDefense": 89
+    },
+    {
+      "hp": 5280,
+      "attack": 237,
+      "defense": 128,
+      "spAttack": 647,
+      "spDefense": 99
+    },
+    {
+      "hp": 5588,
+      "attack": 253,
+      "defense": 142,
+      "spAttack": 740,
+      "spDefense": 110
+    },
+    {
+      "hp": 5927,
+      "attack": 271,
+      "defense": 158,
+      "spAttack": 842,
+      "spDefense": 122
+    },
+    {
+      "hp": 6300,
+      "attack": 290,
+      "defense": 175,
+      "spAttack": "954",
+      "spDefense": 135
+    }
+  ]
+}

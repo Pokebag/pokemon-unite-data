@@ -1,0 +1,9 @@
+{
+  "type": 6,
+  "description": "Lay down and take a rest, continuously regaining health. Damage taken will reduce the recovery effect.",
+  "displayName": "Slack Off",
+  "id": "slowbro-slack-off",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 11
+}

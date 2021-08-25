@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Flame Charge",
+  "id": "talonflame-flame-charge",
+  "requires": [
+    "pokemon.hasSkill('talonflame-peck')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 2,
+  "cooldown": 6.5,
+  "description": "Fly in the designated direction while cloaked in flame, attacking enemies in the path. This also increases the movement speed for a short time."
+}

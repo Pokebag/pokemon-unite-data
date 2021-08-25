@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Blast forward with a punch like a comet, dealing damage to enemies and shoving them.",
+  "displayName": "Meteor Mash",
+  "id": "lucario-meteor-mash",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 7
+}

@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Drops large rocks on the designated area. When this move hits, it deals damage to enemies in the area of effect and leaves them unable to act for a short time.",
+  "displayName": "Rock Slide",
+  "id": "crustle-rock-slide",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

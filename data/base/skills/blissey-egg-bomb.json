@@ -1,0 +1,12 @@
+{
+  "type": 4,
+  "displayName": "Egg Bomb",
+  "id": "blissey-egg-bomb",
+  "requires": [
+    "pokemon.hasSkill('blissey-pound')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 7.5,
+  "description": "Hurls an egg at the designated location. The egg then explodes, dealing damage to enemies in the area of effect and throwing them."
+}

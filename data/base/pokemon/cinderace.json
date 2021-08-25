@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Novice",
+    "role": "Attacker"
+  },
+  "evolution": [
+    {
+      "name": "Scorbunny",
+      "level": "5"
+    },
+    {
+      "name": "Raboot",
+      "level": "7"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Cinderace",
+  "ratings": {
+    "combat": 8,
+    "resistance": 3,
+    "mobility": 6,
+    "scoring": 5,
+    "assistance": 1,
+    "total": "23"
+  },
+  "stats": [
+    {
+      "hp": 3000,
+      "attack": 135,
+      "defense": 50,
+      "spAttack": 20,
+      "spDefense": 30
+    },
+    {
+      "hp": 3034,
+      "attack": 140,
+      "defense": 53,
+      "spAttack": 21,
+      "spDefense": 32
+    },
+    {
+      "hp": 3124,
+      "attack": 151,
+      "defense": 60,
+      "spAttack": 25,
+      "spDefense": 36
+    },
+    {
+      "hp": 3304,
+      "attack": 174,
+      "defense": 75,
+      "spAttack": 32,
+      "spDefense": 45
+    },
+    {
+      "hp": 3304,
+      "attack": 174,
+      "defense": 75,
+      "spAttack": 32,
+      "spDefense": 45
+    },
+    {
+      "hp": 3376,
+      "attack": 183,
+      "defense": 81,
+      "spAttack": 35,
+      "spDefense": 49
+    },
+    {
+      "hp": 3702,
+      "attack": 221,
+      "defense": 108,
+      "spAttack": 49,
+      "spDefense": 65
+    },
+    {
+      "hp": 3805,
+      "attack": 233,
+      "defense": 117,
+      "spAttack": 53,
+      "spDefense": 70
+    },
+    {
+      "hp": 3929,
+      "attack": 247,
+      "defense": 127,
+      "spAttack": 58,
+      "spDefense": 76
+    },
+    {
+      "hp": 4077,
+      "attack": 264,
+      "defense": 139,
+      "spAttack": 64,
+      "spDefense": 83
+    },
+    {
+      "hp": 4225,
+      "attack": 284,
+      "defense": 154,
+      "spAttack": 71,
+      "spDefense": 92
+    },
+    {
+      "hp": 4468,
+      "attack": 309,
+      "defense": 172,
+      "spAttack": 80,
+      "spDefense": 103
+    },
+    {
+      "hp": 4724,
+      "attack": 339,
+      "defense": 193,
+      "spAttack": 91,
+      "spDefense": 116
+    },
+    {
+      "hp": 5031,
+      "attack": 375,
+      "defense": 219,
+      "spAttack": 104,
+      "spDefense": 131
+    },
+    {
+      "hp": 5400,
+      "attack": 418,
+      "defense": 250,
+      "spAttack": 119,
+      "spDefense": 149
+    }
+  ]
+}

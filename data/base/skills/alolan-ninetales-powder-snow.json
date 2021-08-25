@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Attack with a chilly gust of powdery snow, decreasing the movement speed of enemies for a short time when it hits.",
+  "displayName": "Powder Snow",
+  "id": "alolan-ninetales-powder-snow",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Paralyzes all enemies nearby for a short time when receiving damage. This ability goes on cooldown after it's triggered.",
+  "displayName": "Static",
+  "id": "pikachu-static",
+  "requires": [],
+  "slot": 0
+}

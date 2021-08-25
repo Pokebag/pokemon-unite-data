@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Intermediate",
+    "role": "Attacker"
+  },
+  "evolution": [
+    {
+      "name": "Ralts",
+      "level": "6"
+    },
+    {
+      "name": "Kirlia",
+      "level": "10"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Gardevoir",
+  "ratings": {
+    "combat": 9,
+    "resistance": 3,
+    "mobility": 3,
+    "scoring": 6,
+    "assistance": 3,
+    "total": 24
+  },
+  "stats": [
+    {
+      "hp": 3200,
+      "attack": 134,
+      "defense": 35,
+      "spAttack": 50,
+      "spDefense": 27
+    },
+    {
+      "hp": 3245,
+      "attack": 136,
+      "defense": 37,
+      "spAttack": 64,
+      "spDefense": 29
+    },
+    {
+      "hp": 3299,
+      "attack": 139,
+      "defense": 39,
+      "spAttack": 80,
+      "spDefense": 31
+    },
+    {
+      "hp": 3363,
+      "attack": 142,
+      "defense": 42,
+      "spAttack": "100",
+      "spDefense": 33
+    },
+    {
+      "hp": 3440,
+      "attack": 146,
+      "defense": 45,
+      "spAttack": 124,
+      "spDefense": 36
+    },
+    {
+      "hp": 3689,
+      "attack": 158,
+      "defense": 56,
+      "spAttack": "200",
+      "spDefense": 45
+    },
+    {
+      "hp": 3801,
+      "attack": 164,
+      "defense": 61,
+      "spAttack": 234,
+      "spDefense": 49
+    },
+    {
+      "hp": 3935,
+      "attack": 171,
+      "defense": 67,
+      "spAttack": "275",
+      "spDefense": 54
+    },
+    {
+      "hp": 4096,
+      "attack": 179,
+      "defense": 74,
+      "spAttack": 324,
+      "spDefense": 60
+    },
+    {
+      "hp": 4601,
+      "attack": 204,
+      "defense": 97,
+      "spAttack": 478,
+      "spDefense": 77
+    },
+    {
+      "hp": 4832,
+      "attack": 216,
+      "defense": 107,
+      "spAttack": 548,
+      "spDefense": 85
+    },
+    {
+      "hp": 5109,
+      "attack": 230,
+      "defense": 119,
+      "spAttack": "632",
+      "spDefense": 95
+    },
+    {
+      "hp": 5442,
+      "attack": 247,
+      "defense": 134,
+      "spAttack": 733,
+      "spDefense": 107
+    },
+    {
+      "hp": 5841,
+      "attack": 267,
+      "defense": 152,
+      "spAttack": "855",
+      "spDefense": 121
+    },
+    {
+      "hp": 6320,
+      "attack": 291,
+      "defense": 174,
+      "spAttack": 1001,
+      "spDefense": 138
+    }
+  ]
+}

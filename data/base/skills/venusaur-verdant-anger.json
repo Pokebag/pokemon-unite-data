@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Launches a giant seed toward the designated area. The seed then splits apart, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time.",
+  "displayName": "Verdant Anger",
+  "id": "venusaur-verdant-anger",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

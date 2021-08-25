@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Expert",
+    "role": "Attacker"
+  },
+  "evolution": [
+    {
+      "name": "Froakie",
+      "level": "5"
+    },
+    {
+      "name": "Frogadier",
+      "level": "7"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Greninja",
+  "ratings": {
+    "combat": 8,
+    "resistance": 4,
+    "mobility": 6,
+    "scoring": 6,
+    "assistance": 1,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3000,
+      "attack": 156,
+      "defense": 50,
+      "spAttack": 20,
+      "spDefense": 30
+    },
+    {
+      "hp": 3034,
+      "attack": 161,
+      "defense": 53,
+      "spAttack": 21,
+      "spDefense": 32
+    },
+    {
+      "hp": 3075,
+      "attack": 167,
+      "defense": 56,
+      "spAttack": 23,
+      "spDefense": 34
+    },
+    {
+      "hp": 3124,
+      "attack": 174,
+      "defense": 60,
+      "spAttack": 25,
+      "spDefense": 36
+    },
+    {
+      "hp": 3304,
+      "attack": 198,
+      "defense": 75,
+      "spAttack": 32,
+      "spDefense": 45
+    },
+    {
+      "hp": 3376,
+      "attack": 208,
+      "defense": 81,
+      "spAttack": 35,
+      "spDefense": 49
+    },
+    {
+      "hp": 3702,
+      "attack": 252,
+      "defense": 108,
+      "spAttack": 49,
+      "spDefense": 65
+    },
+    {
+      "hp": 3805,
+      "attack": 266,
+      "defense": 117,
+      "spAttack": 53,
+      "spDefense": 70
+    },
+    {
+      "hp": 3929,
+      "attack": 283,
+      "defense": 127,
+      "spAttack": 58,
+      "spDefense": 76
+    },
+    {
+      "hp": 4077,
+      "attack": 303,
+      "defense": 139,
+      "spAttack": 64,
+      "spDefense": 83
+    },
+    {
+      "hp": 4255,
+      "attack": 327,
+      "defense": 154,
+      "spAttack": 74,
+      "spDefense": 92
+    },
+    {
+      "hp": 4468,
+      "attack": 356,
+      "defense": 172,
+      "spAttack": 80,
+      "spDefense": 103
+    },
+    {
+      "hp": 4724,
+      "attack": 391,
+      "defense": 193,
+      "spAttack": 91,
+      "spDefense": 116
+    },
+    {
+      "hp": 5031,
+      "attack": 432,
+      "defense": 219,
+      "spAttack": 104,
+      "spDefense": 131
+    },
+    {
+      "hp": 5400,
+      "attack": 482,
+      "defense": 250,
+      "spAttack": 119,
+      "spDefense": 149
+    }
+  ]
+}

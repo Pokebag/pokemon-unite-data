@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, dealing increased damage and paralyzing the enemy while restoring some of Zeraora's HP.",
+  "displayName": "Attack",
+  "id": "zeraora-attack",
+  "requires": [],
+  "slot": 1
+}

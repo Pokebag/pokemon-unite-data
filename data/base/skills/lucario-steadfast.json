@@ -1,0 +1,7 @@
+{
+  "description": "While at low HP, gain a shield and increased movement speed.",
+  "displayName": "Steadfast",
+  "id": "lucario-steadfast",
+  "requires": [],
+  "slot": 0
+}

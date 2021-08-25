@@ -1,0 +1,9 @@
+{
+  "type": 7,
+  "description": "Release electricity, dealing damage to enemies in the area of effect. Also paralyzes enemies for a short time.",
+  "displayName": "Thunder Shock",
+  "id": "pikachu-thunder-shock",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

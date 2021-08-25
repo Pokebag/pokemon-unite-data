@@ -1,0 +1,12 @@
+{
+  "cooldown": 5,
+  "displayName": "Rock Tomb+",
+  "description": "Splits open the ground toward the designated area, dealing damage to enemies in the area of effect and creating a barricade of rock. Activating this move again removes the barricade.\n\nDecreases the movement speed of enemies for a short time when this move hits.",
+  "id": "crustle-rock-tomb+",
+  "requires": [
+    "pokemon.hasSkill('crustle-rock-slide')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 3
+}

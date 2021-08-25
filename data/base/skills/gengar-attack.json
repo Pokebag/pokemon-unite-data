@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, lunging at an enemy and dealing damage.",
+  "displayName": "Attack",
+  "id": "gengar-attack",
+  "requires": [],
+  "slot": 1
+}

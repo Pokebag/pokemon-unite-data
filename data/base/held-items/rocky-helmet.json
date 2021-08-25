@@ -1,0 +1,29 @@
+{
+  "displayName": "Rocky Helmet",
+  "description": "Deals damage to nearby opposing Pokémon when the holder receives damage.",
+  "tags": ["defense"],
+  "special": {
+    "description": "When the Pokémon receives a certain amount of damage, damage is dealt to nearby opposing Pokémon equal to {dmg} of those Pokémon's max HP.",
+    "boons": {
+      "1": {
+        "dmg": "3%"
+      },
+      "10": {
+        "dmg": "4%"
+      },
+      "20": {
+        "dmg": "5%"
+      }
+    }
+  },
+  "stats": {
+    "defense": {
+      "formula": "(Math.floor({lvl} / 2) * 2.8).toFixed(1)",
+      "type": "flat"
+    },
+    "hp": {
+      "formula": "Math.ceil({lvl} / 2) * 18",
+      "type": "flat"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": 7,
+  "description": "Shoot out a small flame, dealing damage to enemies, leaving them burned and decreasing their Attack for a short time.",
+  "displayName": "Ember",
+  "id": "cinderace-ember",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

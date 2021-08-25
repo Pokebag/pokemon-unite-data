@@ -1,0 +1,12 @@
+{
+  "type": 4,
+  "displayName": "Psychic",
+  "id": "gardevoir-psychic",
+  "requires": [
+    "pokemon.hasSkill('gardevoir-confusion')",
+    "pokemon.lvl >= 8"
+  ],
+  "slot": 2,
+  "cooldown": 7,
+  "description": "After hitting an enemy or traveling its maximum distance, deals damage over time to enemies in the area of effect and decreases their movement speed and Sp. Defense by 20%, stacking up to 3 times."
+}

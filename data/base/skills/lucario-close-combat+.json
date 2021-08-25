@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "Close Combat+",
+  "description": "Unleash a combo attack, dealing multiple blows to enemies and shoving them.\n\nIncreased damage.",
+  "id": "lucario-close-combat+",
+  "requires": [
+    "pokemon.hasSkill('lucario-meteor-mash')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 1
+}

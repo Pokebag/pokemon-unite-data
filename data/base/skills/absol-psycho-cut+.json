@@ -1,0 +1,12 @@
+{
+  "cooldown": 7,
+  "displayName": "Psycho Cut+",
+  "description": "Attack with blades formed by psychic power that decrease the movement speed of enemies for a short time when this move hits. Also increases basic attack damage dealt to the affected enemy for up to 3 attacks after this move hits.\n\nAlso increases movement speed for a short time when the user gets close to the enemy that this move hit.",
+  "id": "absol-psycho-cut+",
+  "requires": [
+    "pokemon.hasSkill('absol-slash')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 1
+}

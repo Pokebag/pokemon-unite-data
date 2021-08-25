@@ -1,0 +1,12 @@
+{
+  "cooldown": 7.5,
+  "displayName": "Egg Bomb+",
+  "description": "Hurls an egg at the designated location. The egg then explodes, dealing damage to enemies in the area of effect and throwing them.\n\nAlso decreases the movement speed of enemies for a short time when they are thrown by this move.",
+  "id": "blissey-egg-bomb+",
+  "requires": [
+    "pokemon.hasSkill('blissey-pound')",
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 2,
+  "type": 4
+}

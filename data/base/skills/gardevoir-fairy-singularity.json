@@ -1,0 +1,11 @@
+{
+  "type": 2,
+  "description": "Warps Space in the designated area, drawing in enemies to the center. Shoves and deals damage to enemies the instant the warped space disappears.",
+  "displayName": "Fairy Singularity",
+  "id": "gardevoir-fairy-singularity",
+  "requires": [
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

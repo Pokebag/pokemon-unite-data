@@ -1,0 +1,12 @@
+{
+  "cooldown": 4.5,
+  "displayName": "Shadow Ball+",
+  "description": "Hurl a shadowy blob at the target, decreasing the movement speed and Sp. Defense of enemies for a short time when it hits.\n\nIncreased damage.",
+  "id": "gengar-shadow-ball+",
+  "requires": [
+    "pokemon.hasSkill('gengar-will-o-wisp')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 4
+}

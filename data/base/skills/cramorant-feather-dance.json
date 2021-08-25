@@ -1,0 +1,9 @@
+{
+  "type": 2,
+  "description": "Decreases the Attack and movement speed of enemies for a short time.",
+  "displayName": "Feather Dance",
+  "id": "cramorant-feather-dance",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

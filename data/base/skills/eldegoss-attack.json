@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, attaching a bit of cotton fluff to the enemy. The user's basic attacks against an enemy with cotton fluff on it deal increased damage and decreases the enemies movement speed for a short time.",
+  "displayName": "Attack",
+  "id": "eldegoss-attack",
+  "requires": [],
+  "slot": 1
+}

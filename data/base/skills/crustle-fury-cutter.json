@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Slashes enemies with claws, dealing damage to them. Hitting the same enemy multiple times in succession with this move increases the damage dealt.",
+  "displayName": "Fury Cutter",
+  "id": "crustle-fury-cutter",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 3.5
+}

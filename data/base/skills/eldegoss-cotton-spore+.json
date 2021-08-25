@@ -1,0 +1,12 @@
+{
+  "cooldown": 7.5,
+  "displayName": "Cotton Spore+",
+  "description": "Gathers spores around the user, increasing the user's movement speed while this move is in effect. The spores burst after a short time, dealing damage to enemies in the area of effect, throwing them, and decreasing their movement speed for a short time.\n\nReduced damage taken while using this move.",
+  "id": "eldegoss-cotton-spore+",
+  "requires": [
+    "pokemon.hasSkill('eldegoss-synthesis')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 3
+}

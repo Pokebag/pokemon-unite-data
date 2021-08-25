@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Solar Beam+",
+  "description": "Blast a bundled beam of light, dealing damage to enemies in a line.\n\nReduced cooldown.",
+  "id": "venusaur-solar-beam+",
+  "requires": [
+    "pokemon.hasSkill('venusaur-razor-leaf')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 3
+}

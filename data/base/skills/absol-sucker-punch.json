@@ -1,0 +1,12 @@
+{
+  "type": 8,
+  "displayName": "Sucker Punch",
+  "id": "absol-sucker-punch",
+  "requires": [
+    "pokemon.hasSkill('absol-slash')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 3,
+  "cooldown": 7,
+  "description": "Look for an opening to attack an enemy, decreasing the movement speed of the user and the target enemy for the duration. After a short time, charge forward to attack the enemy. However, if the user receives damage or gets attacked before it charges, attack immediately and shove the enemy."
+}

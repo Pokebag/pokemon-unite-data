@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Intermediate",
+    "role": "All-Rounder"
+  },
+  "evolution": [
+    {
+      "name": "Machop",
+      "level": "5"
+    },
+    {
+      "name": "Machoke",
+      "level": "9"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Machamp",
+  "ratings": {
+    "combat": 8,
+    "resistance": 5,
+    "mobility": 5,
+    "scoring": 5,
+    "assistance": 2,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3250,
+      "attack": 165,
+      "defense": 98,
+      "spAttack": 20,
+      "spDefense": 64
+    },
+    {
+      "hp": 3313,
+      "attack": 170,
+      "defense": 104,
+      "spAttack": 21,
+      "spDefense": 68
+    },
+    {
+      "hp": 3389,
+      "attack": 175,
+      "defense": 111,
+      "spAttack": 23,
+      "spDefense": 72
+    },
+    {
+      "hp": 3480,
+      "attack": 181,
+      "defense": 119,
+      "spAttack": 25,
+      "spDefense": 77
+    },
+    {
+      "hp": 3809,
+      "attack": 205,
+      "defense": 148,
+      "spAttack": 32,
+      "spDefense": 96
+    },
+    {
+      "hp": 3940,
+      "attack": 214,
+      "defense": 160,
+      "spAttack": 35,
+      "spDefense": 104
+    },
+    {
+      "hp": 4097,
+      "attack": 225,
+      "defense": 174,
+      "spAttack": 38,
+      "spDefense": 113
+    },
+    {
+      "hp": 4286,
+      "attack": 239,
+      "defense": 191,
+      "spAttack": 42,
+      "spDefense": 124
+    },
+    {
+      "hp": 4953,
+      "attack": 287,
+      "defense": 250,
+      "spAttack": 56,
+      "spDefense": 163
+    },
+    {
+      "hp": 5225,
+      "attack": 306,
+      "defense": 274,
+      "spAttack": 62,
+      "spDefense": 179
+    },
+    {
+      "hp": 5551,
+      "attack": 329,
+      "defense": 303,
+      "spAttack": 69,
+      "spDefense": 198
+    },
+    {
+      "hp": 5942,
+      "attack": 357,
+      "defense": 338,
+      "spAttack": 77,
+      "spDefense": 221
+    },
+    {
+      "hp": 6411,
+      "attack": 391,
+      "defense": 380,
+      "spAttack": 87,
+      "spDefense": 248
+    },
+    {
+      "hp": 6974,
+      "attack": 431,
+      "defense": 430,
+      "spAttack": 99,
+      "spDefense": 281
+    },
+    {
+      "hp": 7650,
+      "attack": 479,
+      "defense": 490,
+      "spAttack": 114,
+      "spDefense": 320
+    }
+  ]
+}

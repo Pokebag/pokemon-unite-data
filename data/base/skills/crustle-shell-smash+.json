@@ -1,0 +1,12 @@
+{
+  "cooldown": 7,
+  "displayName": "Shell Smash+",
+  "description": "Convert a set percentage of Defense and Sp. Defense into Attack and Sp. Attack and increase movement speed for a short time.\n\nIncreased conversion rate.",
+  "id": "crustle-shell-smash+",
+  "requires": [
+    "pokemon.hasSkill('crustle-rock-slide')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 5
+}

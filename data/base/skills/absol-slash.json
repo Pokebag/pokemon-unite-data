@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Slash with sharp claws in front of the user, increasing this move's critical-hit rate.",
+  "displayName": "Slash",
+  "id": "absol-slash",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 6
+}

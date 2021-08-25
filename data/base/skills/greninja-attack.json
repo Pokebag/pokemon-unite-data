@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack every third attack. At long range, a boosted attack deals increased damage to enemies and decreases their movement speed for a short time. At close range, a boosted attack deals more damage the lower the enemies remaining HP is.",
+  "displayName": "Attack",
+  "id": "greninja-attack",
+  "requires": [],
+  "slot": 1
+}

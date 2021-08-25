@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Attacks enemies near the user with tremendous bolts of lightning.",
+  "displayName": "Thunderstorm",
+  "id": "pikachu-thunderstorm",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

@@ -1,0 +1,131 @@
+{
+  "tier_change": "Down",
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Intermediate",
+    "role": "Defender"
+  },
+  "evolution": [
+    {
+      "name": "Slowpoke",
+      "level": "4"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Slowbro",
+  "ratings": {
+    "combat": 3,
+    "resistance": 8,
+    "mobility": 3,
+    "scoring": 3,
+    "assistance": 8,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3225,
+      "attack": 150,
+      "defense": 70,
+      "spAttack": 50,
+      "spDefense": 60
+    },
+    {
+      "hp": 3362,
+      "attack": 153,
+      "defense": 78,
+      "spAttack": 58,
+      "spDefense": 67
+    },
+    {
+      "hp": 3519,
+      "attack": 157,
+      "defense": 87,
+      "spAttack": 67,
+      "spDefense": 75
+    },
+    {
+      "hp": 4318,
+      "attack": 175,
+      "defense": 132,
+      "spAttack": 114,
+      "spDefense": 114
+    },
+    {
+      "hp": 4527,
+      "attack": 180,
+      "defense": 144,
+      "spAttack": 126,
+      "spDefense": 124
+    },
+    {
+      "hp": 4767,
+      "attack": 186,
+      "defense": 158,
+      "spAttack": 140,
+      "spDefense": 136
+    },
+    {
+      "hp": 5042,
+      "attack": 192,
+      "defense": 174,
+      "spAttack": 156,
+      "spDefense": 149
+    },
+    {
+      "hp": 5359,
+      "attack": 199,
+      "defense": 192,
+      "spAttack": 175,
+      "spDefense": 164
+    },
+    {
+      "hp": 5724,
+      "attack": 207,
+      "defense": 213,
+      "spAttack": 196,
+      "spDefense": 182
+    },
+    {
+      "hp": 6144,
+      "attack": 217,
+      "defense": 237,
+      "spAttack": 221,
+      "spDefense": 202
+    },
+    {
+      "hp": 6627,
+      "attack": 228,
+      "defense": 264,
+      "spAttack": 249,
+      "spDefense": 225
+    },
+    {
+      "hp": 7183,
+      "attack": 241,
+      "defense": 295,
+      "spAttack": 282,
+      "spDefense": 252
+    },
+    {
+      "hp": 7822,
+      "attack": 256,
+      "defense": 331,
+      "spAttack": 319,
+      "spDefense": 283
+    },
+    {
+      "hp": 8556,
+      "attack": 273,
+      "defense": 373,
+      "spAttack": 362,
+      "spDefense": 319
+    },
+    {
+      "hp": 9400,
+      "attack": 292,
+      "defense": 421,
+      "spAttack": 411,
+      "spDefense": 360
+    }
+  ]
+}

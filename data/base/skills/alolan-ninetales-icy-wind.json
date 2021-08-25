@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Attack with a gust of freezing air, dealing damage to enemies in the area of effect and decreases their movement speed for a short time when it hits.",
+  "displayName": "Icy Wind",
+  "id": "alolan-ninetales-icy-wind",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

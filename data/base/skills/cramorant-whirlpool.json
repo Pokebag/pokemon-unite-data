@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Creates a whirlpool that deals damage to enemies in the area of effect. The area of effect slowly shrinks, but the damage dealt slowly increases. Just before the whirlpool disappears, it decreases the movement speed of enemies in the area of effect for a short time. The user can also catch Arrokuda or other prey by entering the whirlpool.",
+  "displayName": "Whirlpool",
+  "id": "cramorant-whirlpool",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

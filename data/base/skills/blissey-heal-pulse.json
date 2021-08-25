@@ -1,0 +1,9 @@
+{
+  "type": 7,
+  "description": "Continually restores the user's and designated ally HP for a short time.",
+  "displayName": "Heal Pulse",
+  "id": "blissey-heal-pulse",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 10
+}

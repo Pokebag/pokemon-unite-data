@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, deal damage to nearby opposing Pokémon and decrease their movement speed.",
+  "displayName": "Attack",
+  "id": "slowbro-attack",
+  "requires": [],
+  "slot": 1
+}

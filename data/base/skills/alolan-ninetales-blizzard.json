@@ -1,0 +1,12 @@
+{
+  "type": 4,
+  "displayName": "Blizzard",
+  "id": "alolan-ninetales-blizzard",
+  "requires": [
+    "pokemon.hasSkill('alolan-ninetales-icy-wind')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 11,
+  "description": "Summons a howling blizzard in two blasts in front of the user. The first blast deals damage to enemies in the area of effect and decreases their movement speed for a short time. The second blast deals damage to enemies in the area of effect and shoves them. If the second blast hits an obstacle, it also deals damage to enemies near the point of impact."
+}

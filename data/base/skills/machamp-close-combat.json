@@ -1,0 +1,12 @@
+{
+  "type": 1,
+  "displayName": "Close Combat",
+  "id": "machamp-close-combat",
+  "requires": [
+    "pokemon.hasSkill('machamp-karate-chop')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Unleash a series of punches in the designated direction, dealing increased damage with the last punch. The user can move while using this move and becomes immune to hindrances."
+}

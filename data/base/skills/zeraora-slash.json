@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Pounce at an enemy and attack with sharp claws. This move's final attack throws enemies.",
+  "displayName": "Slash",
+  "id": "zeraora-slash",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8.5
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 6,
+  "displayName": "Dragon Rush+",
+  "description": "Back up to create distance before diving to attack in the designated direction, shoving enemies. The user can use Dragon Claw while creating distance at the start of this move to create a combo attack.\n\nDecreases the movement speed of enemies for a short time when they are shoved the maximum distance.",
+  "id": "garchomp-dragon-rush+",
+  "requires": [
+    "pokemon.hasSkill('garchomp-sand-attack')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 2,
+  "type": 0
+}

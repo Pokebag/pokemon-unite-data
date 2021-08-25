@@ -1,0 +1,12 @@
+{
+  "cooldown": 11,
+  "displayName": "Submission+",
+  "description": "Increases movement speed and become immune to hindrances. When the next basic attack hits, the attack deals increased damage and slams the enemy onto the ground, leaving it unable to act. Once this move ends, the user's critical-hit rate and basic attack speed are increased for a short time.\n\nIncreased critical-hit rate and basic attack speed.",
+  "id": "machamp-submission+",
+  "requires": [
+    "pokemon.hasSkill('machamp-bulk-up')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 3,
+  "type": 2
+}

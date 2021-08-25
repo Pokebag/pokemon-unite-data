@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to nearby enemies and decreases their movement speed for a short time.",
+  "displayName": "Attack",
+  "id": "alolan-ninetales-attack",
+  "requires": [],
+  "slot": 1
+}

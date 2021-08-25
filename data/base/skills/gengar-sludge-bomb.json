@@ -1,0 +1,12 @@
+{
+  "type": 3,
+  "displayName": "Sludge Bomb",
+  "id": "gengar-sludge-bomb",
+  "requires": [
+    "pokemon.hasSkill('gengar-will-o-wisp')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 2,
+  "cooldown": 8,
+  "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits."
+}

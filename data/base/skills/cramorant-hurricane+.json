@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "Hurricane+",
+  "description": "Creates a fierce wind, dealing damage to enemies that get caught in it and throws them.\n\nIncreases the user's movement speed for a short time.",
+  "id": "cramorant-hurricane+",
+  "requires": [
+    "pokemon.hasSkill('cramorant-feather-dance')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 3,
+  "type": 4
+}

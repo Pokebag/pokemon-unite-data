@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Psyshock+",
+  "description": "Attacks the designated location three times. This move's cooldown is reduced each time one of these attacks hits an enemy.\n\nIncrease the damage this move deals each time one of its attacks hits.",
+  "id": "gardevoir-psyshock+",
+  "requires": [
+    "pokemon.hasSkill('gardevoir-teleport')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 3,
+  "type": 3
+}

@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Float into the air and become invincible. If used again, pound the ground, attacking and shoving enemies and restoring HP to allies in the area of effect.",
+  "displayName": "Cotton Cloud Crash",
+  "id": "eldegoss-cotton-cloud-crash",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

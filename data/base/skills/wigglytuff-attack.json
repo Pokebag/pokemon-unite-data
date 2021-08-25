@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, dealing damage to enemies and spinning them around when it hits.",
+  "displayName": "Attack",
+  "id": "wigglytuff-attack",
+  "requires": [],
+  "slot": 1
+}

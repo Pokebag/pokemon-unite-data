@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Expert",
+    "role": "All-Rounder"
+  },
+  "damageType": "physical",
+  "displayName": "Lucario",
+  "ratings": {
+    "combat": 6,
+    "resistance": 5,
+    "mobility": 7,
+    "scoring": 6,
+    "assistance": 1,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3250,
+      "attack": 165,
+      "defense": 78,
+      "spAttack": 20,
+      "spDefense": 60
+    },
+    {
+      "hp": 3392,
+      "attack": 175,
+      "defense": 89,
+      "spAttack": 23,
+      "spDefense": 69
+    },
+    {
+      "hp": 3549,
+      "attack": 186,
+      "defense": 101,
+      "spAttack": 27,
+      "spDefense": 78
+    },
+    {
+      "hp": 3721,
+      "attack": 198,
+      "defense": 114,
+      "spAttack": 31,
+      "spDefense": 88
+    },
+    {
+      "hp": 3910,
+      "attack": 211,
+      "defense": 129,
+      "spAttack": 36,
+      "spDefense": 99
+    },
+    {
+      "hp": 4118,
+      "attack": 225,
+      "defense": 145,
+      "spAttack": 41,
+      "spDefense": 112
+    },
+    {
+      "hp": 4347,
+      "attack": 241,
+      "defense": 163,
+      "spAttack": 46,
+      "spDefense": 126
+    },
+    {
+      "hp": 4599,
+      "attack": 258,
+      "defense": 183,
+      "spAttack": 52,
+      "spDefense": 141
+    },
+    {
+      "hp": 4877,
+      "attack": 277,
+      "defense": 205,
+      "spAttack": 59,
+      "spDefense": 158
+    },
+    {
+      "hp": 5184,
+      "attack": 298,
+      "defense": 229,
+      "spAttack": 66,
+      "spDefense": 176
+    },
+    {
+      "hp": 5522,
+      "attack": 321,
+      "defense": 255,
+      "spAttack": 74,
+      "spDefense": 196
+    },
+    {
+      "hp": 5894,
+      "attack": 347,
+      "defense": 284,
+      "spAttack": 83,
+      "spDefense": 218
+    },
+    {
+      "hp": 6303,
+      "attack": 375,
+      "defense": 316,
+      "spAttack": 93,
+      "spDefense": 243
+    },
+    {
+      "hp": 6753,
+      "attack": 406,
+      "defense": 351,
+      "spAttack": 104,
+      "spDefense": 270
+    },
+    {
+      "hp": 7249,
+      "attack": 440,
+      "defense": 390,
+      "spAttack": 116,
+      "spDefense": 300
+    }
+  ]
+}

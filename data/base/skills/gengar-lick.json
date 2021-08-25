@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Attacks with the user's tongue and pulls enemies toward the user.",
+  "displayName": "Lick",
+  "id": "gengar-lick",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 7
+}

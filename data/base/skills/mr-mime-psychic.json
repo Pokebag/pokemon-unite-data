@@ -1,0 +1,12 @@
+{
+  "type": 8,
+  "displayName": "Psychic",
+  "id": "mr-mime-psychic",
+  "requires": [
+    "pokemon.hasSkill('mr-mime-fake-out')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Centers one telekinetic blast each on the user, any guard-swapped enemies, and any Light Screen or Barrier walls created by the user, damaging all enemies caught in the blasts and lowering their Sp. Defense for a short time. If an enemy is hit by multiple overlapping blasts, that enemy is also left unable to act for a short time."
+}

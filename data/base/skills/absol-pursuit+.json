@@ -1,0 +1,12 @@
+{
+  "cooldown": 5,
+  "displayName": "Pursuit+",
+  "description": "Dash to the designated location and quickly charge an enemy with the next basic attack. (Basic attack range is doubled while this effect is active). If the basic attack lands from behind, its damage is increased and this move's cooldown is reduced.\n\nIncreased movement speed.",
+  "id": "absol-pursuit+",
+  "requires": [
+    "pokemon.hasSkill('absol-feint')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 0
+}

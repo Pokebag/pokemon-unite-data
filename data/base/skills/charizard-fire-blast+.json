@@ -1,0 +1,12 @@
+{
+  "cooldown": 8,
+  "displayName": "Fire Blast+",
+  "description": "Blasts intense, all-consuming fire, dealing damage over time to enemies while the flames continue to burn on the ground and decreasing the movement speed of enemies for a short time.\n\nIncreased damage.",
+  "id": "charizard-fire-blast+",
+  "requires": [
+    "pokemon.hasSkill('charizard-fire-spin')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 3
+}

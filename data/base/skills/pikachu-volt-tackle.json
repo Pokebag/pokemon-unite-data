@@ -1,0 +1,12 @@
+{
+  "type": 2,
+  "displayName": "Volt Tackle",
+  "id": "pikachu-volt-tackle",
+  "requires": [
+    "pokemon.hasSkill('pikachu-electro-web')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 10,
+  "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon."
+}

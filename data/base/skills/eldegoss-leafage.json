@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Pelt the target with leaves, decreasing the movement speed of enemies for a short time when it hits.",
+  "displayName": "Leafage",
+  "id": "eldegoss-leafage",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 4.5
+}

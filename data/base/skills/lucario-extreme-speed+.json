@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "Extreme Speed+",
+  "description": "Charge forward with breathtaking speed. If this move hits an enemy from point-blank range, its cooldown is reset and it restores the user's HP. However, the cooldown cannot be continually reset by using this move on the same enemy multiple times in succession.\n\nIncreases Attack for a short time when this move is used.",
+  "id": "lucario-extreme-speed+",
+  "requires": [
+    "pokemon.hasSkill('lucario-quick-attack')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 0
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Increases the effects gained from eating Berries.",
+  "displayName": "Gluttony",
+  "id": "snorlax-gluttony",
+  "requires": [],
+  "slot": 0
+}

@@ -1,0 +1,130 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Intermediate",
+    "role": "Supporter"
+  },
+  "evolution": [
+    {
+      "name": "Jigglypuff",
+      "level": "4"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Wigglytuff",
+  "ratings": {
+    "combat": 2,
+    "resistance": 5,
+    "mobility": 5,
+    "scoring": 4,
+    "assistance": 9,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3278,
+      "attack": 130,
+      "defense": 90,
+      "spAttack": 40,
+      "spDefense": 80
+    },
+    {
+      "hp": 3415,
+      "attack": 134,
+      "defense": 100,
+      "spAttack": 53,
+      "spDefense": 89
+    },
+    {
+      "hp": 3573,
+      "attack": 139,
+      "defense": 111,
+      "spAttack": 68,
+      "spDefense": 99
+    },
+    {
+      "hp": 4372,
+      "attack": 162,
+      "defense": 169,
+      "spAttack": 144,
+      "spDefense": 151
+    },
+    {
+      "hp": 4581,
+      "attack": 168,
+      "defense": 184,
+      "spAttack": 164,
+      "spDefense": 165
+    },
+    {
+      "hp": 4821,
+      "attack": 175,
+      "defense": 201,
+      "spAttack": 187,
+      "spDefense": 181
+    },
+    {
+      "hp": 5097,
+      "attack": 183,
+      "defense": 221,
+      "spAttack": 213,
+      "spDefense": 199
+    },
+    {
+      "hp": 5414,
+      "attack": 192,
+      "defense": 244,
+      "spAttack": 243,
+      "spDefense": 220
+    },
+    {
+      "hp": 5779,
+      "attack": 203,
+      "defense": 271,
+      "spAttack": 278,
+      "spDefense": 244
+    },
+    {
+      "hp": 6199,
+      "attack": 215,
+      "defense": 302,
+      "spAttack": 318,
+      "spDefense": 271
+    },
+    {
+      "hp": 6681,
+      "attack": 229,
+      "defense": 337,
+      "spAttack": 364,
+      "spDefense": 302
+    },
+    {
+      "hp": 7236,
+      "attack": 245,
+      "defense": 377,
+      "spAttack": 417,
+      "spDefense": 338
+    },
+    {
+      "hp": 7874,
+      "attack": 264,
+      "defense": 424,
+      "spAttack": 477,
+      "spDefense": 379
+    },
+    {
+      "hp": 8608,
+      "attack": 285,
+      "defense": 477,
+      "spAttack": 547,
+      "spDefense": 427
+    },
+    {
+      "hp": 9452,
+      "attack": 310,
+      "defense": 539,
+      "spAttack": 627,
+      "spDefense": 482
+    }
+  ]
+}

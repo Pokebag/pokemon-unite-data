@@ -1,0 +1,25 @@
+{
+  "displayName": "Score Shield",
+  "description": "Grants a shield while the Pokémon is attempting to score a goal.",
+  "tags": ["score"],
+  "special": {
+    "description": "While the Pokémon is attempting to score a goal, it is granted a shield equal to {maxHP} of its mac HP and its goals cannot be interrupted while it is shielded.",
+    "boons": {
+      "1": {
+        "maxHP": "5%"
+      },
+      "10": {
+        "maxHP": "7.5%"
+      },
+      "20": {
+        "maxHP": "10%"
+      }
+    }
+  },
+  "stats": {
+    "hp": {
+      "formula": "{lvl} * 15",
+      "type": "flat"
+    }
+  }
+}

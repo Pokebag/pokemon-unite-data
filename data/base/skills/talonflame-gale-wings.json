@@ -1,0 +1,7 @@
+{
+  "description": "While at high HP, movement speed is increased.",
+  "displayName": "Gale Wings",
+  "id": "talonflame-gale-wings",
+  "requires": [],
+  "slot": 0
+}

@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Launch many sharp-edged leaves in a quick succession of attacks, dealing damage to enemies in the area of effect.",
+  "displayName": "Razor Leaf",
+  "id": "venusaur-razor-leaf",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 9
+}

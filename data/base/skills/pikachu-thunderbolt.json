@@ -1,0 +1,12 @@
+{
+  "type": 2,
+  "displayName": "Thunderbolt",
+  "id": "pikachu-thunderbolt",
+  "requires": [
+    "pokemon.hasSkill('pikachu-electro-web')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 8,
+  "description": "Attack with a strong electric blast, dealing damage to enemies in the area of effect and leaving them unable to act."
+}

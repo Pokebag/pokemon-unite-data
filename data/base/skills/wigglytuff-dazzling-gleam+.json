@@ -1,0 +1,12 @@
+{
+  "cooldown": 4.5,
+  "displayName": "Dazzling Gleam+",
+  "description": "Emit a powerful flash in the designated direction, dealing damage to enemies in the area of effect twice.\n\nAlso decreases the movement speed of enemies for a short time when the first hit of this move deals damage to them.",
+  "id": "wigglytuff-dazzling-gleam+",
+  "requires": [
+    "pokemon.hasSkill('wigglytuff-pound')",
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 2,
+  "type": 3
+}

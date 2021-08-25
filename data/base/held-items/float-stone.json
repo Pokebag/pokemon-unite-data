@@ -1,0 +1,29 @@
+{
+  "displayName": "Float Stone",
+  "description": "Increases movement speed when not in combat.",
+  "tags": ["other"],
+  "special": {
+    "description": "Increases movement speed by {movementSpeed} when the Pokémon is not in combat.",
+    "boons": {
+      "1": {
+        "movementSpeed": "10%"
+      },
+      "10": {
+        "movementSpeed": "15%"
+      },
+      "20": {
+        "movementSpeed": "20%"
+      }
+    }
+  },
+  "stats": {
+    "attack": {
+      "formula": "(Math.ceil({lvl} / 2) * 1.6).toFixed(1)",
+      "type": "flat"
+    },
+    "movementSpeed": {
+      "formula": "Math.floor({lvl} / 2) * 8",
+      "type": "flat"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": 8,
+  "displayName": "Guard Swap",
+  "id": "mr-mime-guard-swap",
+  "requires": [
+    "pokemon.hasSkill('mr-mime-light-screen')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 4.5,
+  "description": "Swaps the user's Defense and Sp. Defense stats with those of another Pokémon for a short time when it hits. Swapping with an enemy deals damage over time and decreases their movement speed while increasing the user's movement speed for a short time. Swapping with an ally increases the movement speed of that ally and the user for a short time."
+}

@@ -1,0 +1,11 @@
+{
+  "type": 5,
+  "description": "Increases the user's movement speed, Attack, Defense, and Sp. Defense for a short time. If used again, unleash a combo attack, dealing damage to enemies in the area of effect and shoving them. The final blow deals an especially large amount of damage.",
+  "displayName": "Barrage Blow",
+  "id": "machamp-barrage-blow",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

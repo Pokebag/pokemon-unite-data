@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every fifth attack, dealing increased damage and restoring the user's HP. Every time a basic attack or move hits an enemy, basic attack speed is increased.",
+  "displayName": "Attack",
+  "id": "garchomp-attack",
+  "requires": [],
+  "slot": 1
+}

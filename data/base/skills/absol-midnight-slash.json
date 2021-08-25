@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Unleashes a flurry of slashes in front of the user. This move ends by unleashing powerful blades of energy, dealing increased damage to enemies and shoves them.",
+  "displayName": "Midnight Slash",
+  "id": "absol-midnight-slash",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

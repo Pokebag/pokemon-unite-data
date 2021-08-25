@@ -1,0 +1,12 @@
+{
+  "type": 1,
+  "displayName": "Bone Rush",
+  "id": "lucario-bone-rush",
+  "requires": [
+    "pokemon.hasSkill('lucario-meteor-mash')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 3,
+  "cooldown": 10,
+  "description": "Performs a combo attack with a bone, dealing multiple damaging blows to enemies and shoving them. The final attack sends the bone flying. If used again while the bone is traveling, the user rushes to the location of the bone, dealing damage to nearby enemies."
+}

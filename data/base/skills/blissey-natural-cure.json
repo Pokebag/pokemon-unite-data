@@ -1,0 +1,7 @@
+{
+  "description": "Removes all status condition from the Pokémon. This ability goes on cooldown after it's triggered.",
+  "displayName": "Natural Cure",
+  "id": "blissey-natural-cure",
+  "requires": [],
+  "slot": 0
+}

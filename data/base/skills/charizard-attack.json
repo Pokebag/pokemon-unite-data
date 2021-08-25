@@ -1,0 +1,7 @@
+{
+  "description": "Deals continual damage. Deals increased damage to enemies that are burned and increases range when the user evolves.",
+  "displayName": "Attack",
+  "id": "charizard-attack",
+  "requires": [],
+  "slot": 1
+}

@@ -1,0 +1,11 @@
+{
+  "type": 5,
+  "description": "Go to sleep and begin snoring, dealing damage over time to enemies in the area of effect and throw them. While sleeping, become immune to hindrances and continually restore HP.",
+  "displayName": "Power Nap",
+  "id": "snorlax-power-nap",
+  "requires": [
+    "pokemon.lvl >= 10"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

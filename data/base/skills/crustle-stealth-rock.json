@@ -1,0 +1,12 @@
+{
+  "type": 3,
+  "displayName": "Stealth Rock",
+  "id": "crustle-stealth-rock",
+  "requires": [
+    "pokemon.hasSkill('crustle-fury-cutter')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 6,
+  "description": "Throws many small rocks. When a rock hits an enemy or when the rocks have flown their full distance, a zone of many levitating rocks is created dealing slowly-increasing damage over time to enemies in the area of effect."
+}

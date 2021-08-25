@@ -1,0 +1,11 @@
+{
+  "type": 0,
+  "description": "Jump to the designated area and start sneaking with increased movement speed. If this move is used again, it deals damage to enemies in the area of effect and decreases their movement speed for a short time.",
+  "displayName": "Phantom Ambush",
+  "id": "gengar-phantom-ambush",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Dash in an arc, attacking enemies that come in contact with Absol. This move ignores the defense stat and shield effects of enemies.",
+  "displayName": "Feint",
+  "id": "absol-feint",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 8
+}

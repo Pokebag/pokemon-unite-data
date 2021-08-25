@@ -1,0 +1,12 @@
+{
+  "type": 6,
+  "displayName": "Soft Boiled",
+  "id": "blissey-soft-boiled",
+  "requires": [
+    "pokemon.hasSkill('blissey-heal-pulse')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 3,
+  "cooldown": 2,
+  "description": "Throws an egg to an ally, restoring its HP as well as the user's HP. A maximum of 3 uses can be kept in reserve for this move."
+}

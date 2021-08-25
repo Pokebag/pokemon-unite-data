@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Throw a giant water shuriken toward the designated area, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time when this move hits. The water shuriken then immediately explodes, dealing damage to enemies in the area of effect and throws them. Once this move ends, the user may jump in a designated direction.",
+  "displayName": "Waterburst Shuriken",
+  "id": "greninja-waterburst-shuriken",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

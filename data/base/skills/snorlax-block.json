@@ -1,0 +1,12 @@
+{
+  "type": 2,
+  "displayName": "Block",
+  "id": "snorlax-block",
+  "requires": [
+    "pokemon.hasSkill('snorlax-rest')",
+    "pokemon.lvl >= 8"
+  ],
+  "slot": 3,
+  "cooldown": 11,
+  "description": "Has the user spread its arms wide to create a wall and grants it a shield. Prevents enemies from passing through the wall and shoves them if they run into it."
+}

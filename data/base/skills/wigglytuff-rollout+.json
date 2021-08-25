@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Rollout+",
+  "description": "Perform a quick roll, granting the user a shield. Also deals damage to enemies hit by the roll and throws them. Hitting an obstacle while rolling will change the direction the user is moving and reset the cooldown of Pound, Double Slap, or Dazzling Gleam.\n\nIncreases the length of time enemies are thrown.",
+  "id": "wigglytuff-rollout+",
+  "requires": [
+    "pokemon.hasSkill('wigglytuff-defense-curl')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 3,
+  "type": 2
+}

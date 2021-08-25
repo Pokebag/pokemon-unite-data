@@ -1,0 +1,12 @@
+{
+  "type": 2,
+  "displayName": "Yawn",
+  "id": "snorlax-yawn",
+  "requires": [
+    "pokemon.hasSkill('snorlax-rest')",
+    "pokemon.lvl >= 8"
+  ],
+  "slot": 3,
+  "cooldown": 12,
+  "description": "Has the user let loose a huge yawn that lulls enemies into a sleepy haze, putting enemies hit by this move to sleep."
+}

@@ -1,0 +1,9 @@
+{
+  "type": 5,
+  "description": "Has the user attack by pounding in the designated direction, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time when it hits.",
+  "displayName": "Pound",
+  "id": "blissey-pound",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to enemies in the area of effect and decreases their Sp. Defense by 10% for a short time.",
+  "displayName": "Attack",
+  "id": "gardevoir-attack",
+  "requires": [],
+  "slot": 1
+}

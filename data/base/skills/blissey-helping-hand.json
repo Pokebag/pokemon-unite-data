@@ -1,0 +1,12 @@
+{
+  "type": 3,
+  "displayName": "Helping Hand",
+  "id": "blissey-helping-hand",
+  "requires": [
+    "pokemon.hasSkill('blissey-pound')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 9,
+  "description": "For a short time, greatly increases the user's and nearby allies movement speed and basic attack speed. While this move's effects last, all of the user's basic attacks become boosted attacks."
+}

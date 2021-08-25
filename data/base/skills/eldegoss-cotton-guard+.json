@@ -1,0 +1,12 @@
+{
+  "cooldown": 9,
+  "displayName": "Cotton Guard+",
+  "description": "Protects the user and nearby allies with cotton. The cotton absorbs damage and when the move ends, the cotton restores some HP.\n\nAlso increases the user's movement speed while using this move.",
+  "id": "eldegoss-cotton-guard+",
+  "requires": [
+    "pokemon.hasSkill('eldegoss-synthesis')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 5
+}

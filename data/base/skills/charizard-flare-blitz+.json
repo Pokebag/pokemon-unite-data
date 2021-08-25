@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Flare Blitz+",
+  "description": "Charge forward cloaked in fire, granting the user a shield and throwing enemies hit.\n\nDecreases movement speed of enemies for a short time when they are thrown.",
+  "id": "charizard-flare-blitz+",
+  "requires": [
+    "pokemon.hasSkill('charizard-fire-spin')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 0
+}

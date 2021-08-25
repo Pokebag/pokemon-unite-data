@@ -1,0 +1,12 @@
+{
+  "cooldown": 7.5,
+  "displayName": "Hex+",
+  "description": "Disappear and move to the designated location, dealing damage to enemies in the area of effect when the user reappears. If this hits an enemy that is afflicted by a status condition, it deals increased damage and its cooldown is reduced.\n\nIncreased damage.",
+  "id": "gengar-hex+",
+  "requires": [
+    "pokemon.hasSkill('gengar-lick')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 0
+}

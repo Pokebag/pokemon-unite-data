@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Dive",
+  "id": "cramorant-dive",
+  "requires": [
+    "pokemon.hasSkill('cramorant-whirlpool')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 1.5,
+  "description": "Changes the designated area into a puddle and has the user dive to that area, dealing damage to enemies and shoving them when they're hit. The user also catches Arrokuda or other wild Pokémon as they emerge from the puddle. A maximum of 3 uses can be kept in reserve for this move."
+}

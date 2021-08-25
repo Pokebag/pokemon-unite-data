@@ -1,0 +1,12 @@
+{
+  "cooldown": 11,
+  "displayName": "Petal Dance+",
+  "description": "Scatter petals around the user, increasing movement speed for a short time and dealing damage over time to enemies in the area of effect.\n\nIncreased area of effect.",
+  "id": "venusaur-petal-dance+",
+  "requires": [
+    "pokemon.hasSkill('venusaur-razor-leaf')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 3
+}

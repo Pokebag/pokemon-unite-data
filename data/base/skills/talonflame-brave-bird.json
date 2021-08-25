@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Brave Bird",
+  "id": "talonflame-brave-bird",
+  "requires": [
+    "pokemon.hasSkill('talonflame-acrobatics')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 3,
+  "cooldown": 10,
+  "description": "Dive to the designated location while cloaked in flame, dealing damage to enemies in the area of effect. Also deals recoil damage to the user when it hits. Performing a boosted attack within a set amount of time after this move hits will reset the cooldown of Flame Charge or Aerial Ace."
+}

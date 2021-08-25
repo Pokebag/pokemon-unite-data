@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Has the user lunge forward at a speed that makes it almost invisible, dealing damage to enemies it comes in contact with.",
+  "displayName": "Quick Attack",
+  "id": "lucario-quick-attack",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

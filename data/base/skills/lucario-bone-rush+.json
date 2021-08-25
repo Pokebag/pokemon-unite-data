@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Bone Rush+",
+  "description": "Performs a combo attack with a bone, dealing multiple damaging blows to enemies and shoving them. The final attack sends the bone flying. If used again while the bone is traveling, the user rushes to the location of the bone, dealing damage to nearby enemies.\n\nUsing this move again will reset the cooldown for Extreme Speed or Power-Up Punch.",
+  "id": "lucario-bone-rush+",
+  "requires": [
+    "pokemon.hasSkill('lucario-meteor-mash')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 1
+}

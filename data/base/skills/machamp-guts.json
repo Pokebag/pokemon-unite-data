@@ -1,0 +1,7 @@
+{
+  "description": "Increases Attack when afflicted by a status condition.",
+  "displayName": "Guts",
+  "id": "machamp-guts",
+  "requires": [],
+  "slot": 0
+}

@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Slap its hands together, shoving enemies in front of it.",
+  "displayName": "Fake Out",
+  "id": "mr-mime-fake-out",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 7
+}

@@ -1,0 +1,9 @@
+{
+  "type": 2,
+  "description": "Create a wall of light in the designated area that prevents enemies from passing.",
+  "displayName": "Light Screen",
+  "id": "mr-mime-light-screen",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 8
+}

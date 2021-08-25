@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every fourth attack. This boosted attack spits Arrokuda or other Pokémon at the enemy and deals area damage near the target when it hits.",
+  "displayName": "Attack",
+  "id": "cramorant-attack",
+  "requires": [],
+  "slot": 1
+}

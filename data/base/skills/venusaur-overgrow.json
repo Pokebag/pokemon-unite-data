@@ -1,0 +1,7 @@
+{
+  "description": "When HP is low, increases all damage dealt.",
+  "displayName": "Overgrow",
+  "id": "venusaur-overgrow",
+  "requires": [],
+  "slot": 0
+}

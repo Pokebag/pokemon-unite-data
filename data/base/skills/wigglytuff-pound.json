@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Perform a combo attack in front, dealing damage to enemies and decreasing their movement speed for a short time when the attack hits.",
+  "displayName": "Pound",
+  "id": "wigglytuff-pound",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

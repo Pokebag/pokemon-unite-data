@@ -1,0 +1,12 @@
+{
+  "type": 4,
+  "displayName": "Pollen Puff",
+  "id": "eldegoss-pollen-puff",
+  "requires": [
+    "pokemon.hasSkill('eldegoss-leafage')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Throws a Pollen Puff, which attaches to an enemy. The Pollen Puff restores HP for allies and deals damage to enemies."
+}

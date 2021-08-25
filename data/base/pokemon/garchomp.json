@@ -1,0 +1,135 @@
+{
+  "tier_change": "Up",
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Intermediate",
+    "role": "All-Rounder"
+  },
+  "evolution": [
+    {
+      "name": "Gible",
+      "level": "6"
+    },
+    {
+      "name": "Gabite",
+      "level": "10"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Garchomp",
+  "ratings": {
+    "combat": 7,
+    "resistance": 7,
+    "mobility": 5,
+    "scoring": 5,
+    "assistance": 1,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3050,
+      "attack": 145,
+      "defense": 84,
+      "spAttack": 20,
+      "spDefense": 64
+    },
+    {
+      "hp": 3117,
+      "attack": 150,
+      "defense": 89,
+      "spAttack": 21,
+      "spDefense": 68
+    },
+    {
+      "hp": 3198,
+      "attack": 156,
+      "defense": 95,
+      "spAttack": 23,
+      "spDefense": 72
+    },
+    {
+      "hp": 3295,
+      "attack": 163,
+      "defense": 102,
+      "spAttack": 25,
+      "spDefense": 77
+    },
+    {
+      "hp": 3412,
+      "attack": 172,
+      "defense": 110,
+      "spAttack": 27,
+      "spDefense": 83
+    },
+    {
+      "hp": 3787,
+      "attack": 200,
+      "defense": 137,
+      "spAttack": 35,
+      "spDefense": 103
+    },
+    {
+      "hp": 3955,
+      "attack": 213,
+      "defense": 149,
+      "spAttack": 38,
+      "spDefense": 112
+    },
+    {
+      "hp": 4157,
+      "attack": 228,
+      "defense": 163,
+      "spAttack": 42,
+      "spDefense": 123
+    },
+    {
+      "hp": 4339,
+      "attack": 246,
+      "defense": 180,
+      "spAttack": 47,
+      "spDefense": 136
+    },
+    {
+      "hp": 5159,
+      "attack": 303,
+      "defense": 234,
+      "spAttack": 62,
+      "spDefense": 177
+    },
+    {
+      "hp": 5507,
+      "attack": 329,
+      "defense": 259,
+      "spAttack": 69,
+      "spDefense": 196
+    },
+    {
+      "hp": 5925,
+      "attack": 360,
+      "defense": 289,
+      "spAttack": 77,
+      "spDefense": 219
+    },
+    {
+      "hp": 6426,
+      "attack": 397,
+      "defense": 325,
+      "spAttack": 87,
+      "spDefense": 246
+    },
+    {
+      "hp": 7028,
+      "attack": 442,
+      "defense": 368,
+      "spAttack": 99,
+      "spDefense": 279
+    },
+    {
+      "hp": 7750,
+      "attack": 496,
+      "defense": 420,
+      "spAttack": 114,
+      "spDefense": 318
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 7,
+  "displayName": "Heavy Slam+",
+  "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them.\n\nIncreased damage.",
+  "id": "snorlax-heavy-slam+",
+  "requires": [
+    "pokemon.hasSkill('snorlax-tackle')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 2,
+  "type": 0
+}

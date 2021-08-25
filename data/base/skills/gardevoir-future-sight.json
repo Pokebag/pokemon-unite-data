@@ -1,0 +1,12 @@
+{
+  "type": 3,
+  "displayName": "Future Sight",
+  "id": "gardevoir-future-sight",
+  "requires": [
+    "pokemon.hasSkill('gardevoir-teleport')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 3,
+  "cooldown": 9,
+  "description": "Sets a delayed explosion. When the explosion hits an enemy, it reduces this move's cooldown."
+}

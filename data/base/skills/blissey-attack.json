@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack after a set amount of time passes, dealing increased damage.",
+  "displayName": "Attack",
+  "id": "blissey-attack",
+  "requires": [],
+  "slot": 1
+}

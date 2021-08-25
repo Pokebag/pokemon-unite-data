@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Attack opposing Pokémon with a sharp chop.",
+  "displayName": "Karate Chop",
+  "id": "machamp-karate-chop",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

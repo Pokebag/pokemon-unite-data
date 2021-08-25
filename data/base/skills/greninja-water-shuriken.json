@@ -1,0 +1,12 @@
+{
+  "type": 4,
+  "displayName": "Water Shuriken",
+  "id": "greninja-water-shuriken",
+  "requires": [
+    "pokemon.hasSkill('greninja-bubble')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 2,
+  "cooldown": 5,
+  "description": "Throw shurikens made of water in quick succession. Decreases the movement speed of enemies for a short time and restores the user's HP when it hits. Also increases the user's movement speed while using this move."
+}

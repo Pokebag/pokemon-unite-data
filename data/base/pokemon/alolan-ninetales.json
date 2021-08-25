@@ -1,0 +1,130 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Intermediate",
+    "role": "Attacker"
+  },
+  "evolution": [
+    {
+      "name": "Vulpix",
+      "level": "4"
+    }
+  ],
+  "damageType": "special",
+  "displayName": "Alolan Ninetales",
+  "ratings": {
+    "combat": 8,
+    "resistance": 3,
+    "mobility": 3,
+    "scoring": 5,
+    "assistance": 6,
+    "total": 25
+  },
+  "stats": [
+    {
+      "hp": 3197,
+      "attack": 134,
+      "defense": 35,
+      "spAttack": 51,
+      "spDefense": 27
+    },
+    {
+      "hp": 3266,
+      "attack": 137,
+      "defense": 38,
+      "spAttack": 71,
+      "spDefense": 29
+    },
+    {
+      "hp": 3345,
+      "attack": 141,
+      "defense": 42,
+      "spAttack": 94,
+      "spDefense": 32
+    },
+    {
+      "hp": 3747,
+      "attack": 161,
+      "defense": 60,
+      "spAttack": 211,
+      "spDefense": 46
+    },
+    {
+      "hp": 3852,
+      "attack": 166,
+      "defense": 65,
+      "spAttack": "242",
+      "spDefense": 50
+    },
+    {
+      "hp": 3972,
+      "attack": 172,
+      "defense": 70,
+      "spAttack": "277",
+      "spDefense": 54
+    },
+    {
+      "hp": 4110,
+      "attack": 179,
+      "defense": 76,
+      "spAttack": "317",
+      "spDefense": 59
+    },
+    {
+      "hp": 4269,
+      "attack": 187,
+      "defense": 83,
+      "spAttack": 363,
+      "spDefense": 65
+    },
+    {
+      "hp": 4452,
+      "attack": 196,
+      "defense": 91,
+      "spAttack": 416,
+      "spDefense": 71
+    },
+    {
+      "hp": 4663,
+      "attack": 207,
+      "defense": 101,
+      "spAttack": "477",
+      "spDefense": 78
+    },
+    {
+      "hp": 4906,
+      "attack": 219,
+      "defense": 112,
+      "spAttack": 548,
+      "spDefense": 86
+    },
+    {
+      "hp": 5185,
+      "attack": 233,
+      "defense": 125,
+      "spAttack": 629,
+      "spDefense": 96
+    },
+    {
+      "hp": 5506,
+      "attack": 249,
+      "defense": 139,
+      "spAttack": 723,
+      "spDefense": 107
+    },
+    {
+      "hp": 5875,
+      "attack": 268,
+      "defense": 156,
+      "spAttack": 831,
+      "spDefense": 120
+    },
+    {
+      "hp": 6299,
+      "attack": 289,
+      "defense": 175,
+      "spAttack": "955",
+      "spDefense": 135
+    }
+  ]
+}

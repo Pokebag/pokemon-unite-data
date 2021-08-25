@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Surf",
+  "id": "slowbro-surf",
+  "requires": [
+    "pokemon.hasSkill('slowbro-water-gun')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 9,
+  "description": "Charge forward on a wave, dealing damage in an area and knock opponents back. This is followed by two more waves that deal damage and decrease enemy movement speed."
+}

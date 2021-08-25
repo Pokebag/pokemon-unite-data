@@ -1,0 +1,12 @@
+{
+  "cooldown": 6,
+  "displayName": "Moonblast+",
+  "description": "Has the user attack while moving back to create distance. When the move's blast hits, it deals damage to enemies in a cone and leaves the enemy closest to the user unable to act for a short time.\n\nAlso grants a shield when this move is used.",
+  "id": "gardevoir-moonblast+",
+  "requires": [
+    "pokemon.hasSkill('gardevoir-confusion')",
+    "pokemon.lvl >= 14"
+  ],
+  "slot": 2,
+  "type": 4
+}

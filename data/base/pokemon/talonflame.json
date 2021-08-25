@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Novice",
+    "role": "Speedster"
+  },
+  "evolution": [
+    {
+      "name": "Fletchling",
+      "level": "5"
+    },
+    {
+      "name": "Fletchinder",
+      "level": "7"
+    }
+  ],
+  "damageType": "physical",
+  "displayName": "Talonflame",
+  "ratings": {
+    "combat": 5,
+    "resistance": 3,
+    "mobility": 10,
+    "scoring": 7,
+    "assistance": 1,
+    "total": 26
+  },
+  "stats": [
+    {
+      "hp": 3024,
+      "attack": 170,
+      "defense": 58,
+      "spAttack": 20,
+      "spDefense": 40
+    },
+    {
+      "hp": 3071,
+      "attack": 176,
+      "defense": 61,
+      "spAttack": 21,
+      "spDefense": 42
+    },
+    {
+      "hp": 3127,
+      "attack": 184,
+      "defense": 65,
+      "spAttack": 23,
+      "spDefense": 45
+    },
+    {
+      "hp": 3195,
+      "attack": 193,
+      "defense": 70,
+      "spAttack": 25,
+      "spDefense": 48
+    },
+    {
+      "hp": 3440,
+      "attack": 227,
+      "defense": 87,
+      "spAttack": 32,
+      "spDefense": 60
+    },
+    {
+      "hp": 3538,
+      "attack": 241,
+      "defense": 94,
+      "spAttack": 35,
+      "spDefense": 65
+    },
+    {
+      "hp": 3983,
+      "attack": 303,
+      "defense": 125,
+      "spAttack": 48,
+      "spDefense": 87
+    },
+    {
+      "hp": 4124,
+      "attack": 322,
+      "defense": 135,
+      "spAttack": 52,
+      "spDefense": 94
+    },
+    {
+      "hp": 4293,
+      "attack": 345,
+      "defense": 147,
+      "spAttack": 57,
+      "spDefense": 102
+    },
+    {
+      "hp": 4495,
+      "attack": 373,
+      "defense": 161,
+      "spAttack": 63,
+      "spDefense": 112
+    },
+    {
+      "hp": 4738,
+      "attack": 407,
+      "defense": 178,
+      "spAttack": 70,
+      "spDefense": 124
+    },
+    {
+      "hp": 5029,
+      "attack": 447,
+      "defense": 199,
+      "spAttack": 79,
+      "spDefense": 138
+    },
+    {
+      "hp": 5378,
+      "attack": 495,
+      "defense": 224,
+      "spAttack": 89,
+      "spDefense": 155
+    },
+    {
+      "hp": 5797,
+      "attack": 553,
+      "defense": 254,
+      "spAttack": 102,
+      "spDefense": 175
+    },
+    {
+      "hp": 6300,
+      "attack": 623,
+      "defense": 290,
+      "spAttack": 117,
+      "spDefense": 200
+    }
+  ]
+}

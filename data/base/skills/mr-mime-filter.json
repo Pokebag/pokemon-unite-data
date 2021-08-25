@@ -1,0 +1,7 @@
+{
+  "description": "Reduced damage received for a short time after using a move.",
+  "displayName": "Filter",
+  "id": "mr-mime-filter",
+  "requires": [],
+  "slot": 0
+}

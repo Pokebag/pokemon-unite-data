@@ -1,0 +1,12 @@
+{
+  "cooldown": 6,
+  "displayName": "Aerial Ace+",
+  "description": "Fly at the designated enemy, dealing damage. Also makes the next basic attack a boosted attack.\n\nIncreased damage dealt.",
+  "id": "talonflame-aerial-ace+",
+  "requires": [
+    "pokemon.hasSkill('talonflame-peck')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 0
+}

@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Fire Punch",
+  "id": "charizard-fire-punch",
+  "requires": [
+    "pokemon.hasSkill('charizard-flame-burst')",
+    "pokemon.lvl >= 5"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Punch with a fiery fist, dealing damage and shoving enemies when it hits. Also leaves the enemies it shoves burned."
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 6,
+  "displayName": "Fire Punch+",
+  "description": "Punch with a fiery fist, dealing damage and shoving enemies when it hits. Also leaves the enemies it shoves burned.\n\nReduced cooldown every time a basic attack hits.",
+  "id": "charizard-fire-punch+",
+  "requires": [
+    "pokemon.hasSkill('charizard-flame-burst')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 0
+}

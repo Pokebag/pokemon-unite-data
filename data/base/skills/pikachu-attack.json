@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, dealing increased damage. This boosted attack also paralyzes enemies for a short time when it hits.",
+  "displayName": "Attack",
+  "id": "pikachu-attack",
+  "requires": [],
+  "slot": 1
+}

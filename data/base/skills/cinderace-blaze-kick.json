@@ -1,0 +1,12 @@
+{
+  "type": 7,
+  "displayName": "Blaze Kick",
+  "id": "cinderace-blaze-kick",
+  "requires": [
+    "pokemon.hasSkill('cinderace-ember')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 2,
+  "cooldown": 8,
+  "description": "Perform a fiery flying kick. This move is always a critical hit, and it shoves enemies and leaves them burned for a short time. In addition, become immune to hindrances while using this move."
+}

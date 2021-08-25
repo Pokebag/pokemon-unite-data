@@ -1,0 +1,7 @@
+{
+  "description": "While at half HP or less, critical-hit rate is increased.",
+  "displayName": "Blaze",
+  "id": "charizard-blaze",
+  "requires": [],
+  "slot": 0
+}

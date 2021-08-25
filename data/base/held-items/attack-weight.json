@@ -1,0 +1,25 @@
+{
+  "displayName": "Attack Weight",
+  "description": "Increases Attack after the Pokémon successfully scores a goal.",
+  "tags": ["score"],
+  "special": {
+    "description": "When the Pokémon scores a goal, its Attack increases by {attack}.",
+    "boons": {
+      "1": {
+        "attack": "6"
+      },
+      "10": {
+        "attack": "9"
+      },
+      "20": {
+        "attack": "12"
+      }
+    }
+  },
+  "stats": {
+    "attack": {
+      "formula": "({lvl} * 0.6).toFixed(1)",
+      "type": "flat"
+    }
+  }
+}

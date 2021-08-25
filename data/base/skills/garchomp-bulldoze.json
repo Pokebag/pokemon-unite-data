@@ -1,0 +1,9 @@
+{
+  "type": 3,
+  "description": "Stomp down on the ground, dealing damage to enemies in the area of effect.",
+  "displayName": "Bulldoze",
+  "id": "garchomp-bulldoze",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 5
+}

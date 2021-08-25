@@ -1,0 +1,25 @@
+{
+  "displayName": "Sp. Atk Specs",
+  "description": "Increases Sp. Atk after the Pokémon successfully scores a goal.",
+  "tags": ["score"],
+  "special": {
+    "description": "When the Pokémon scores a goal, its Sp. Atk increases by {spAttack}.",
+    "boons": {
+      "1": {
+        "spAttack": "8"
+      },
+      "10": {
+        "spAttack": "12"
+      },
+      "20": {
+        "spAttack": "16"
+      }
+    }
+  },
+  "stats": {
+    "spAttack": {
+      "formula": "({lvl} * 0.8).toFixed(1)",
+      "type": "flat"
+    }
+  }
+}

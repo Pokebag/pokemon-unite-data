@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Has the user warp to the designated area, increasing the damage dealt by one basic attack after warping.",
+  "displayName": "Teleport",
+  "id": "gardevoir-teleport",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 11
+}

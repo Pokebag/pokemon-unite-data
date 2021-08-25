@@ -1,0 +1,11 @@
+{
+  "type": 7,
+  "description": "Fly up into the air, allowing the user to move freely over obstacles. While this move is being used, basic attacks deal increased damage and leave enemies burned. In addition, when dealing damage to an enemy, recover HP. Using this move again on an enemy will grab it and slam it onto the ground.",
+  "displayName": "Seismic Slam",
+  "id": "charizard-seismic-slam",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

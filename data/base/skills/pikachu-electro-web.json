@@ -1,0 +1,9 @@
+{
+  "type": 2,
+  "description": "Attacks and captures enemies using an electric net, leaving them unable to move.",
+  "displayName": "Electro Web",
+  "id": "pikachu-electro-web",
+  "requires": [],
+  "slot": 3,
+  "cooldown": 9
+}

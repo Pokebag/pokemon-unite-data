@@ -1,0 +1,25 @@
+{
+  "displayName": "Wise Glasses",
+  "description": "Increases Sp. Atk.",
+  "tags": ["attack"],
+  "special": {
+    "description": "Increases Sp. Atk by {spAttack}.",
+    "boons": {
+      "1": {
+        "spAttack": "3%"
+      },
+      "10": {
+        "spAttack": "5%"
+      },
+      "20": {
+        "spAttack": "7%"
+      }
+    }
+  },
+  "stats": {
+    "spAttack": {
+      "formula": "{lvl} + 9",
+      "type": "flat"
+    }
+  }
+}

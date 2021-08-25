@@ -1,0 +1,9 @@
+{
+  "type": 5,
+  "description": "Hurls sand, narrowing the field of vision of enemies and decreases their movement speed for a short time. Also increases movement speed and basic attack speed.",
+  "displayName": "Sand Attack",
+  "id": "garchomp-sand-attack",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

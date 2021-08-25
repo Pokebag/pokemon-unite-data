@@ -1,0 +1,12 @@
+{
+  "cooldown": 5,
+  "displayName": "Scald+",
+  "description": "Deal damage to opposing Pokémon and create steam when it hits. Opposing Pokémon inside the steam's area are left burned and have their movement speed decreased.\n\nIncreased area of effect.",
+  "id": "slowbro-scald+",
+  "requires": [
+    "pokemon.hasSkill('slowbro-water-gun')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 1
+}

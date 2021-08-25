@@ -1,0 +1,9 @@
+{
+  "type": 4,
+  "description": "Shoot multiple sinister flames, dealing damage to enemies and leaving them burned when it hits.",
+  "displayName": "Will-o-Wisp",
+  "id": "gengar-will-o-wisp",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

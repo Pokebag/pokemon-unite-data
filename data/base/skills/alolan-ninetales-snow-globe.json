@@ -1,0 +1,11 @@
+{
+  "type": 3,
+  "description": "Attack with a chilly snow and ice, dealing damage to enemies in the area of effect when it hits. Deals increased damage to enemies that are frozen.",
+  "displayName": "Snow Globe",
+  "id": "alolan-ninetales-snow-globe",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

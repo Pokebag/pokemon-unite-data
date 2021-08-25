@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Spark",
+  "id": "zeraora-spark",
+  "requires": [
+    "pokemon.hasSkill('zeraora-agility')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 10,
+  "description": "Leap at an enemy dealing damage to them. If using your basic attack before reaching the targeted enemy, instead leap at the closest enemy and deal damage to it. This move can be used 3 times before going on cooldown."
+}

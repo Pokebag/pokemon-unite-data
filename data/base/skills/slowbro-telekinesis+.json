@@ -1,0 +1,12 @@
+{
+  "cooldown": 11,
+  "displayName": "Telekinesis+",
+  "description": "Make opposing Pokémon float with psychic power. If used again, pull the opposing Pokémon toward the user.\n\nIncreased range and firing speed.",
+  "id": "slowbro-telekinesis+",
+  "requires": [
+    "pokemon.hasSkill('slowbro-slack-off')",
+    "pokemon.lvl >= 13"
+  ],
+  "slot": 3,
+  "type": 2
+}

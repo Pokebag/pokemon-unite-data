@@ -1,0 +1,11 @@
+{
+  "type": 2,
+  "description": "Stare at an enemy and attack continually, dealing damage and rooting them. Grants a shield and makes the user immune to hindrances while using this move.",
+  "displayName": "Slowbeam",
+  "id": "slowbro-slowbeam",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

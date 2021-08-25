@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Cross Chop",
+  "id": "machamp-cross-chop",
+  "requires": [
+    "pokemon.hasSkill('machamp-karate-chop')",
+    "pokemon.lvl >= 7"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Has the user deliver a double chop with forearms crossed while dashing forward. This increases the user's critical-hit rate."
+}

@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Dragon Rush",
+  "id": "garchomp-dragon-rush",
+  "requires": [
+    "pokemon.hasSkill('garchomp-sand-attack')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 6,
+  "description": "Back up to create distance before diving to attack in the designated direction, shoving enemies. The user can use Dragon Claw while creating distance at the start of this move to create a combo attack."
+}

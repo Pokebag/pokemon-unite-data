@@ -1,0 +1,9 @@
+{
+  "type": 1,
+  "description": "Slowbro channels a fierce stream of water which deals damage and lowers movement speed. Increase the area of effect and damage the longer this move is channeled.",
+  "displayName": "Water Gun",
+  "id": "slowbro-water-gun",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 5
+}

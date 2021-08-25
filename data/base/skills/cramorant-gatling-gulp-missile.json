@@ -1,0 +1,11 @@
+{
+  "type": 4,
+  "description": "Creates a puddle at the user's current location. The user continuously uses its mouth to grab Arrokuda from the puddle and spits them out to attack the nearest enemy. The user cannot move or use other moves while this move is in effect.",
+  "displayName": "Gatling Gulp Missile",
+  "id": "cramorant-gatling-gulp-missile",
+  "requires": [
+    "pokemon.lvl >= 9"
+  ],
+  "slot": 4,
+  "cooldown": 1
+}

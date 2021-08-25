@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "description": "Charge forward belly first, dealing damage when it hits and shoving the first enemy it comes in contact with. After this move, the user's next basic attack becomes a boosted attack.",
+  "displayName": "Tackle",
+  "id": "snorlax-tackle",
+  "requires": [],
+  "slot": 2,
+  "cooldown": 6
+}

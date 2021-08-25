@@ -1,0 +1,7 @@
+{
+  "description": "Gain an electric charge when receiving damage, converting a portion of that damage into additional Attack.",
+  "displayName": "Volt Absorb",
+  "id": "zeraora-volt-absorb",
+  "requires": [],
+  "slot": 0
+}

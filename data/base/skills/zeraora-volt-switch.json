@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Volt Switch",
+  "id": "zeraora-volt-switch",
+  "requires": [
+    "pokemon.hasSkill('zeraora-agility')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 8,
+  "description": "Perform a high-speed dash, dealing damage to enemies hit and increase basic attack speed for a short time. Using this move again within a set period of time will allow the user to immediately dash back to the original position."
+}

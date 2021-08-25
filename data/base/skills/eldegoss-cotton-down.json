@@ -1,0 +1,7 @@
+{
+  "description": "Damages an enemy and decreases its movement speed for a short time after receiving a certain amount of damage. When that happens, also recover HP and gain increased movement speed for a short time.",
+  "displayName": "Cotton Down",
+  "id": "eldegoss-cotton-down",
+  "requires": [],
+  "slot": 0
+}

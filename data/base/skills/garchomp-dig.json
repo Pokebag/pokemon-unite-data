@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "displayName": "Dig",
+  "id": "garchomp-dig",
+  "requires": [
+    "pokemon.hasSkill('garchomp-sand-attack')",
+    "pokemon.lvl >= 6"
+  ],
+  "slot": 2,
+  "cooldown": 8,
+  "description": "Burrow underground and move quickly in the designated direction, jumping out when coming in contact with an enemy or when traveling the maximum distance. This jump deals damage to enemies in the area of effect and throws them."
+}

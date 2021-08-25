@@ -1,0 +1,12 @@
+{
+  "cooldown": 10,
+  "displayName": "Sing+",
+  "description": "Has the user sing, decreasing the movement speed of nearby enemies for a short time. Enemies that stay in the move's area of effect for a while are put to sleep for a short time, which also decreases their Defense and Sp. Defense.\n\nIncreased sleep duration.",
+  "id": "wigglytuff-sing+",
+  "requires": [
+    "pokemon.hasSkill('wigglytuff-defense-curl')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 3,
+  "type": 3
+}

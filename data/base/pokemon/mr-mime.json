@@ -1,0 +1,124 @@
+{
+  "tags": {
+    "range": "Melee",
+    "difficulty": "Intermediate",
+    "role": "Supporter"
+  },
+  "damageType": "special",
+  "displayName": "Mr.Mime",
+  "ratings": {
+    "combat": 3,
+    "resistance": 8,
+    "mobility": 2,
+    "scoring": 3,
+    "assistance": 8,
+    "total": 24
+  },
+  "stats": [
+    {
+      "hp": 3225,
+      "attack": 150,
+      "defense": 70,
+      "spAttack": 50,
+      "spDefense": 60
+    },
+    {
+      "hp": 3445,
+      "attack": 155,
+      "defense": 82,
+      "spAttack": 63,
+      "spDefense": 71
+    },
+    {
+      "hp": 3687,
+      "attack": 161,
+      "defense": 96,
+      "spAttack": 77,
+      "spDefense": 83
+    },
+    {
+      "hp": 3953,
+      "attack": 167,
+      "defense": 111,
+      "spAttack": 93,
+      "spDefense": 96
+    },
+    {
+      "hp": 4245,
+      "attack": 174,
+      "defense": 128,
+      "spAttack": 110,
+      "spDefense": 110
+    },
+    {
+      "hp": 4567,
+      "attack": 181,
+      "defense": 146,
+      "spAttack": 129,
+      "spDefense": 126
+    },
+    {
+      "hp": 4921,
+      "attack": 189,
+      "defense": 166,
+      "spAttack": 150,
+      "spDefense": 143
+    },
+    {
+      "hp": 5331,
+      "attack": 198,
+      "defense": 188,
+      "spAttack": 173,
+      "spDefense": 162
+    },
+    {
+      "hp": 5741,
+      "attack": 208,
+      "defense": 212,
+      "spAttack": 198,
+      "spDefense": 183
+    },
+    {
+      "hp": 6215,
+      "attack": 219,
+      "defense": 239,
+      "spAttack": 226,
+      "spDefense": 206
+    },
+    {
+      "hp": 6737,
+      "attack": 231,
+      "defense": 269,
+      "spAttack": 257,
+      "spDefense": 231
+    },
+    {
+      "hp": 7311,
+      "attack": 244,
+      "defense": 302,
+      "spAttack": 291,
+      "spDefense": 259
+    },
+    {
+      "hp": 7942,
+      "attack": 259,
+      "defense": 338,
+      "spAttack": 328,
+      "spDefense": 290
+    },
+    {
+      "hp": 8637,
+      "attack": 275,
+      "defense": 377,
+      "spAttack": 369,
+      "spDefense": 324
+    },
+    {
+      "hp": 9402,
+      "attack": 293,
+      "defense": 420,
+      "spAttack": 414,
+      "spDefense": 361
+    }
+  ]
+}

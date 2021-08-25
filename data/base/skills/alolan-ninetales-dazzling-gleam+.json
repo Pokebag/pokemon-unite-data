@@ -1,0 +1,12 @@
+{
+  "cooldown": 7.5,
+  "displayName": "Dazzling Gleam+",
+  "description": "Attack with a powerful cone of blinding light, leaving enemies unable to act when this move hits.\n\nIncreased damage dealt and stun duration.",
+  "id": "alolan-ninetales-dazzling-gleam+",
+  "requires": [
+    "pokemon.hasSkill('alolan-ninetales-powder-snow')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 2,
+  "type": 2
+}

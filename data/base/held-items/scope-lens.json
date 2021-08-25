@@ -1,0 +1,18 @@
+{
+  "displayName": "Scope Lens",
+  "description": "Increases critical-hit damage.",
+  "tags": ["attack"],
+  "special": {
+    "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more the damage increases."
+  },
+  "stats": {
+    "critRate": {
+      "formula": "(Math.ceil({lvl} / 2) * 0.4).toFixed(1)",
+      "type": "flat"
+    },
+    "critDamage": {
+      "formula": "(Math.floor({lvl} / 2) * 0.8).toFixed(1)",
+      "type": "flat"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cooldown": 5,
+  "displayName": "Air Slash+",
+  "description": "Shoot out many blades of air while moving backward to create distance. Deals damage to enemies in the area of effect and reduces this move's cooldown when it hits.\n\nRestores the user's HP every time a blade of air hits an enemy.",
+  "id": "cramorant-air-slash+",
+  "requires": [
+    "pokemon.hasSkill('cramorant-feather-dance')",
+    "pokemon.lvl >= 11"
+  ],
+  "slot": 3,
+  "type": 4
+}

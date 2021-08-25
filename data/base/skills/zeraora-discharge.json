@@ -1,0 +1,12 @@
+{
+  "type": 1,
+  "displayName": "Discharge",
+  "id": "zeraora-discharge",
+  "requires": [
+    "pokemon.hasSkill('zeraora-slash')",
+    "pokemon.lvl >= 8"
+  ],
+  "slot": 3,
+  "cooldown": 12,
+  "description": "Release an electrical discharge, dealing damage to nearby enemies and grant the user a shield when it hits. If this move hits enemies that are paralyzed, it pulls them in toward the user once the move ends, dealing damage to them once again and leaving them unable to act."
+}

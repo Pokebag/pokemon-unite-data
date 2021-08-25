@@ -1,0 +1,7 @@
+{
+  "description": "Becomes a boosted attack with every third attack, dealing damage to enemies and lowering their Defense when it hits. If this boosted attack hits only a single target, it deals increased damage.",
+  "displayName": "Attack",
+  "id": "absol-attack",
+  "requires": [],
+  "slot": 1
+}

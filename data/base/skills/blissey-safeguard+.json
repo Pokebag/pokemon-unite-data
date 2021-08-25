@@ -1,0 +1,12 @@
+{
+  "cooldown": 11,
+  "displayName": "Safeguard+",
+  "description": "Removes all status conditions from the designated ally and makes it immune to hindrances for a short time.\n\nAlso grants the designated ally a shield.",
+  "id": "blissey-safeguard+",
+  "requires": [
+    "pokemon.hasSkill('blissey-heal-pulse')",
+    "pokemon.lvl >= 12"
+  ],
+  "slot": 3,
+  "type": 5
+}

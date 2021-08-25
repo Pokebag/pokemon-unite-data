@@ -1,0 +1,12 @@
+{
+  "type": 1,
+  "displayName": "Scald",
+  "id": "slowbro-scald",
+  "requires": [
+    "pokemon.hasSkill('slowbro-water-gun')",
+    "pokemon.lvl >= 4"
+  ],
+  "slot": 2,
+  "cooldown": 5,
+  "description": "Deal damage to opposing Pokémon and create steam when it hits. Opposing Pokémon inside the steam's area are left burned and have their movement speed decreased."
+}
