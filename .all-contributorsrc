@@ -1,0 +1,25 @@
+{
+  "projectName": "pokemon-unite-data",
+  "projectOwner": "Pokebag",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "trezy",
+      "name": "Trezy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/442980?v=4",
+      "profile": "http://trezy.com/",
+      "contributions": [
+        "code",
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

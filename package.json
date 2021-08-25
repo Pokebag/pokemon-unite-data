@@ -6,5 +6,8 @@
   "contributors": [
     "circa <hello.unite.db@gmail.com> (https://unite-db.com)"
   ],
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  }
 }
