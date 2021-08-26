@@ -12,6 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://trezy.com/"><img src="https://avatars.githubusercontent.com/u/442980?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Trezy</b></sub></a><br /><a href="https://github.com/Pokebag/pokemon-unite-data/commits?author=trezy" title="Code">💻</a> <a href="#data-trezy" title="Data">🔣</a></td>
+    <td align="center"><a href="https://github.com/circa"><img src="https://avatars.githubusercontent.com/u/571331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>circa</b></sub></a><br /><a href="#data-circa" title="Data">🔣</a></td>
   </tr>
 </table>
 
