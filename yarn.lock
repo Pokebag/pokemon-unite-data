@@ -379,6 +379,8 @@ __metadata:
   resolution: "@pokebag/pokemon-unite-data@workspace:."
   dependencies:
     all-contributors-cli: ^6.20.0
+    dirname-filename-esm: ^1.1.1
+    lodash-es: ^4.17.21
     semantic-release: ^17.4.6
   languageName: unknown
   linkType: soft
@@ -1397,6 +1399,13 @@ __metadata:
   dependencies:
     path-type: ^4.0.0
   checksum: fa05e18324510d7283f55862f3161c6759a3f2f8dbce491a2fc14c8324c498286c54282c1f0e933cb930da8419b30679389499b919122952a4f8592362ef4615
+  languageName: node
+  linkType: hard
+
+"dirname-filename-esm@npm:^1.1.1":
+  version: 1.1.1
+  resolution: "dirname-filename-esm@npm:1.1.1"
+  checksum: 189edcefe7c3d2de25a1560c6d8eab1f3a607f3b1dd3f7e1ac3923c9c5662cabd5d8a940bb2484ca2acc595d1530d66a52926596707520d82fdc38b6b7dfe1d2
   languageName: node
   linkType: hard
 
@@ -2646,6 +2655,13 @@ __metadata:
   dependencies:
     p-locate: ^4.1.0
   checksum: 83e51725e67517287d73e1ded92b28602e3ae5580b301fe54bfb76c0c723e3f285b19252e375712316774cf52006cb236aed5704692c32db0d5d089b69696e30
+  languageName: node
+  linkType: hard
+
+"lodash-es@npm:^4.17.21":
+  version: 4.17.21
+  resolution: "lodash-es@npm:4.17.21"
+  checksum: 05cbffad6e2adbb331a4e16fbd826e7faee403a1a04873b82b42c0f22090f280839f85b95393f487c1303c8a3d2a010048bf06151a6cbe03eee4d388fb0a12d2
   languageName: node
   linkType: hard
 

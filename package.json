@@ -2,16 +2,23 @@
   "name": "@pokebag/pokemon-unite-data",
   "version": "0.0.0-development",
   "repository": "git@github.com:Pokebag/pokemon-unite-data.git",
+  "main": "manifest.mjs",
   "author": "Trezy <t@trezy.com> (https://trezy.com)",
   "contributors": [
     "circa <hello.unite.db@gmail.com> (https://unite-db.com)"
   ],
   "license": "BSD-3-Clause",
+  "dependencies": {
+    "dirname-filename-esm": "^1.1.1"
+  },
   "devDependencies": {
     "all-contributors-cli": "^6.20.0",
+    "lodash-es": "^4.17.21",
     "semantic-release": "^17.4.6"
   },
   "scripts": {
+    "generate-manifest": "node ./scripts/generateManifest.mjs",
+    "prepublish": "node ./scripts/generateManifest.mjs",
     "semantic-release": "semantic-release"
   }
 }

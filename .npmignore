@@ -1,8 +1,7 @@
 .github
 .npmrc
-.pnp.cjs
 .releaserc
 .yarn
 .yarnrc.yml
-yarn.lock
+scripts
 yarn-error.log
