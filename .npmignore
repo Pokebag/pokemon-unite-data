@@ -5,3 +5,5 @@
 .yarnrc.yml
 scripts
 yarn-error.log
+
+!manifest.json
