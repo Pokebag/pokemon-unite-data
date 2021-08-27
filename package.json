@@ -2,7 +2,7 @@
   "name": "@pokebag/pokemon-unite-data",
   "version": "0.0.0-development",
   "repository": "git@github.com:Pokebag/pokemon-unite-data.git",
-  "main": "manifest.mjs",
+  "main": "index.mjs",
   "author": "Trezy <t@trezy.com> (https://trezy.com)",
   "contributors": [
     "circa <hello.unite.db@gmail.com> (https://unite-db.com)"
