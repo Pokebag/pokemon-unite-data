@@ -6,11 +6,11 @@
     "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more the damage increases."
   },
   "stats": {
-    "critRate": {
+    "critDamage": {
       "formula": "(Math.ceil({lvl} / 2) * 0.4).toFixed(1)",
       "type": "percentage"
     },
-    "critDamage": {
+    "critRate": {
       "formula": "(Math.floor({lvl} / 2) * 0.8).toFixed(1)",
       "type": "percentage"
     }
