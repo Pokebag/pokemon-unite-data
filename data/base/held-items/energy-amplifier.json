@@ -1,7 +1,9 @@
 {
   "displayName": "Energy Amplifier",
   "description": "Has the Pokémon deal increased damage to opposing Pokémon for a short time after it uses its Unite Move.",
-  "tags": ["attack"],
+  "tags": [
+    "attack"
+  ],
   "special": {
     "description": "After the Pokémon uses its Unite Move, the damage the Pokémon deals is increased by {dmg} for a short time.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "(Math.floor({lvl} / 2) * -0.3).toFixed(1)",
       "type": "percentage"
     }
-  }
+  },
+  "id": "energy-amplifier"
 }

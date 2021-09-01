@@ -1,7 +1,9 @@
 {
   "displayName": "Leftovers",
   "description": "Continually restores the Pokémon's HP when it is not in combat.",
-  "tags": ["defense"],
+  "tags": [
+    "defense"
+  ],
   "special": {
     "description": "When the Pokémon drops is not in combat, it recovers {hpRecovery} of its max HP every second.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "(Math.floor({lvl} / 2) * 0.6).toFixed(1)",
       "type": "flat"
     }
-  }
+  },
+  "id": "leftovers"
 }

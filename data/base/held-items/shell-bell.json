@@ -1,7 +1,9 @@
 {
   "displayName": "Shell Bell",
   "description": "Restores some of the Pokémon's HP whenever it successfully lands a move.",
-  "tags": ["attack"],
+  "tags": [
+    "attack"
+  ],
   "special": {
     "description": "When the Pokémon hits with a move, it recovers a minimum of {minHPRecovery} HP. The higher the Pokémon's Sp. Atk, the more HP it recovers.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "(Math.floor({lvl} / 2) * 1.6).toFixed(1)",
       "type": "flat"
     }
-  }
+  },
+  "id": "shell-bell"
 }

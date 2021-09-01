@@ -1,7 +1,9 @@
 {
   "displayName": "Scope Lens",
   "description": "Increases critical-hit damage.",
-  "tags": ["attack"],
+  "tags": [
+    "attack"
+  ],
   "special": {
     "description": "Increases the damage of basic attack critical hits. The higher the Pokémon's Attack, the more the damage increases."
   },
@@ -14,5 +16,6 @@
       "formula": "(Math.floor({lvl} / 2) * 0.8).toFixed(1)",
       "type": "percentage"
     }
-  }
+  },
+  "id": "scope-lens"
 }

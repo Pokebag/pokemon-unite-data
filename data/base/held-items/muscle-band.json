@@ -1,7 +1,9 @@
 {
   "displayName": "Muscle Band",
   "description": "Increases basic attack damage.",
-  "tags": ["attack"],
+  "tags": [
+    "attack"
+  ],
   "special": {
     "description": "When basic attacks hit, the damage is increased by {attackDamage} of the opposing Pokémon's HP.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "(Math.floor({lvl} / 2) * 0.5).toFixed(1)",
       "type": "percentage"
     }
-  }
+  },
+  "id": "muscle-band"
 }

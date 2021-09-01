@@ -1,7 +1,9 @@
 {
   "displayName": "Assault Vest",
   "description": "When the Pokémon is not in combat, grants it a shield that nullifies Sp. Atk damage.",
-  "tags": ["defense"],
+  "tags": [
+    "defense"
+  ],
   "special": {
     "description": "When the Pokémon is not in combat, it is granted a shield that nullifies Sp. Atk damage equal to {spAttackShield} of its max HP.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "(Math.floor({lvl} / 2) * 2.8).toFixed(1)",
       "type": "flat"
     }
-  }
+  },
+  "id": "assault-vest"
 }

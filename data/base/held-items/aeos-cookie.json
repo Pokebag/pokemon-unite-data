@@ -1,7 +1,9 @@
 {
   "displayName": "Aeos Cookie",
   "description": "Increases max HP after the Pokémon successfully scores a goal.",
-  "tags": ["score"],
+  "tags": [
+    "score"
+  ],
   "special": {
     "description": "When the Pokémon scores a goal, its max HP increases by {maxHP}.",
     "boons": {
@@ -21,5 +23,6 @@
       "formula": "{lvl} * 8",
       "type": "flat"
     }
-  }
+  },
+  "id": "aeos-cookie"
 }

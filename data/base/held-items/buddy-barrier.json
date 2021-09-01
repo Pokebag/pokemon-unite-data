@@ -1,7 +1,9 @@
 {
   "displayName": "Buddy Barrier",
   "description": "Grants a shield to the Pokémon and to the nearby ally Pokémon with the lowest HP when the Pokémon uses its Unite Move.",
-  "tags": ["other"],
+  "tags": [
+    "other"
+  ],
   "special": {
     "description": "When the Pokémon uses its Unite Move, that Pokémon and the nearby ally Pokémon with the lowest HP are each granted a shield equal to {shield} of their max HP.",
     "boons": {
@@ -21,5 +23,6 @@
       "formula": "{lvl} * 20",
       "type": "flat"
     }
-  }
+  },
+  "id": "buddy-barrier"
 }

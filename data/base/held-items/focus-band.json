@@ -1,7 +1,9 @@
 {
   "displayName": "Focus Band",
   "description": "Continually restores the Pokémon's HP for a short time when the Pokémon drops to low HP.",
-  "tags": ["defense"],
+  "tags": [
+    "defense"
+  ],
   "special": {
     "description": "When the Pokémon drops to low HP, then each second for three seconds, it recovers {hpRecovery} of the HP it had lost.",
     "boons": {
@@ -25,5 +27,6 @@
       "formula": "Math.floor({lvl} / 2) * 2",
       "type": "flat"
     }
-  }
+  },
+  "id": "focus-band"
 }
