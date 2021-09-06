@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 10,
-  "description": "Blast a bundled beam of light, dealing damage to enemies in a line."
+  "description": "Blast a bundled beam of light, dealing damage to enemies in a line.",
+  "pokemonID": "venusaur"
 }

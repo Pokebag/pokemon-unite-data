@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 5,
-  "description": "Deal damage to opposing Pokémon and create steam when it hits. Opposing Pokémon inside the steam's area are left burned and have their movement speed decreased."
+  "description": "Deal damage to opposing Pokémon and create steam when it hits. Opposing Pokémon inside the steam's area are left burned and have their movement speed decreased.",
+  "pokemonID": "slowbro"
 }

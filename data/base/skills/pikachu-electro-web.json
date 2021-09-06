@@ -5,5 +5,6 @@
   "id": "pikachu-electro-web",
   "requires": [],
   "slot": 3,
-  "cooldown": 9
+  "cooldown": 9,
+  "pokemonID": "pikachu"
 }

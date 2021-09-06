@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 11,
-  "description": "Removes all status conditions from the designated ally and makes it immune to hindrances for a short time."
+  "description": "Removes all status conditions from the designated ally and makes it immune to hindrances for a short time.",
+  "pokemonID": "blissey"
 }

@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 13,
-  "description": "Increases movement speed for a short time and become invincible."
+  "description": "Increases movement speed for a short time and become invincible.",
+  "pokemonID": "cinderace"
 }

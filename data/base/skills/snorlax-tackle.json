@@ -5,5 +5,6 @@
   "id": "snorlax-tackle",
   "requires": [],
   "slot": 2,
-  "cooldown": 6
+  "cooldown": 6,
+  "pokemonID": "snorlax"
 }

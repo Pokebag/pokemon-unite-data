@@ -8,5 +8,6 @@
     "pokemon.lvl >= 14"
   ],
   "slot": 3,
-  "type": 1
+  "type": 1,
+  "pokemonID": "zeraora"
 }

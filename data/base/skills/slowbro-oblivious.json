@@ -3,5 +3,6 @@
   "displayName": "Oblivious",
   "id": "slowbro-oblivious",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "slowbro"
 }

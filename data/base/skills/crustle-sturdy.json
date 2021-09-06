@@ -3,5 +3,6 @@
   "displayName": "Sturdy",
   "id": "crustle-sturdy",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "crustle"
 }

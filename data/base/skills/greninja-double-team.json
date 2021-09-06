@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 9,
-  "description": "Quickly moves the user away from the current position, creating illusory copies of it to aid in battle."
+  "description": "Quickly moves the user away from the current position, creating illusory copies of it to aid in battle.",
+  "pokemonID": "greninja"
 }

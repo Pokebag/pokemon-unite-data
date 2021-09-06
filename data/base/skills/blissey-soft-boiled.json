@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 2,
-  "description": "Throws an egg to an ally, restoring its HP as well as the user's HP. A maximum of 3 uses can be kept in reserve for this move."
+  "description": "Throws an egg to an ally, restoring its HP as well as the user's HP. A maximum of 3 uses can be kept in reserve for this move.",
+  "pokemonID": "blissey"
 }

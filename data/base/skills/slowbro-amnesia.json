@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 13,
-  "description": "Nullify some damage before it takes effect. For a short time after using this move, become immune to hindrances and gain increased defense. Also increase the damage dealt by the next use of Scald or Surf."
+  "description": "Nullify some damage before it takes effect. For a short time after using this move, become immune to hindrances and gain increased defense. Also increase the damage dealt by the next use of Scald or Surf.",
+  "pokemonID": "slowbro"
 }

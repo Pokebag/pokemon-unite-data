@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 7,
-  "description": "Jump high into the air and crash forcefully to the ground, dealing damage to enemies in the area of effect."
+  "description": "Jump high into the air and crash forcefully to the ground, dealing damage to enemies in the area of effect.",
+  "pokemonID": "garchomp"
 }

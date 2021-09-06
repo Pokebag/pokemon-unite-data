@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 4.5,
-  "description": "Emit a powerful flash in the designated direction, dealing damage to enemies in the area of effect twice."
+  "description": "Emit a powerful flash in the designated direction, dealing damage to enemies in the area of effect twice.",
+  "pokemonID": "wigglytuff"
 }

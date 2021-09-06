@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 7,
-  "description": "Convert a set percentage of Defense and Sp. Defense into Attack and Sp. Attack and increase movement speed for a short time."
+  "description": "Convert a set percentage of Defense and Sp. Defense into Attack and Sp. Attack and increase movement speed for a short time.",
+  "pokemonID": "crustle"
 }

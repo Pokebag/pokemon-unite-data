@@ -3,5 +3,6 @@
   "displayName": "Cute Charm",
   "id": "wigglytuff-cute-charm",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "wigglytuff"
 }

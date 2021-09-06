@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 5,
-  "description": "Hurl an electric orb, dealing damage to enemies in the area of effect and leaving them paralyzed for a short time. This move's damage increases the lower the enemies remaining HP is."
+  "description": "Hurl an electric orb, dealing damage to enemies in the area of effect and leaving them paralyzed for a short time. This move's damage increases the lower the enemies remaining HP is.",
+  "pokemonID": "pikachu"
 }

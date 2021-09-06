@@ -3,5 +3,6 @@
   "displayName": "Gale Wings",
   "id": "talonflame-gale-wings",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "talonflame"
 }

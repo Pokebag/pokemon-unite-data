@@ -3,5 +3,6 @@
   "displayName": "Gulp Missle",
   "id": "cramorant-gulp-missle",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "cramorant"
 }

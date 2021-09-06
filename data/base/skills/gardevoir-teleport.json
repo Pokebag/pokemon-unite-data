@@ -5,5 +5,6 @@
   "id": "gardevoir-teleport",
   "requires": [],
   "slot": 3,
-  "cooldown": 11
+  "cooldown": 11,
+  "pokemonID": "gardevoir"
 }

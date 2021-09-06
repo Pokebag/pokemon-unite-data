@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 6,
-  "description": "Fly at the designated enemy, dealing damage. Also makes the next basic attack a boosted attack."
+  "description": "Fly at the designated enemy, dealing damage. Also makes the next basic attack a boosted attack.",
+  "pokemonID": "talonflame"
 }

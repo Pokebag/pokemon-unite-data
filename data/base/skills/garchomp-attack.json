@@ -3,5 +3,6 @@
   "displayName": "Attack",
   "id": "garchomp-attack",
   "requires": [],
-  "slot": 1
+  "slot": 1,
+  "pokemonID": "garchomp"
 }

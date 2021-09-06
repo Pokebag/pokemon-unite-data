@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 11,
-  "description": "Charge in the designated direction. If this move hits an enemy, unleash a combo attack that also deals a set amount of damage to itself. If the user hit an enemy with Volt Switch, Spark, or a boosted attack before using this move, the number of attacks in the combo is increased."
+  "description": "Charge in the designated direction. If this move hits an enemy, unleash a combo attack that also deals a set amount of damage to itself. If the user hit an enemy with Volt Switch, Spark, or a boosted attack before using this move, the number of attacks in the combo is increased.",
+  "pokemonID": "zeraora"
 }

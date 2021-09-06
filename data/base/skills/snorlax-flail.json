@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 6.5,
-  "description": "Has the user flail about, increasing the user's basic attack damage the lower the user's HP is."
+  "description": "Has the user flail about, increasing the user's basic attack damage the lower the user's HP is.",
+  "pokemonID": "snorlax"
 }

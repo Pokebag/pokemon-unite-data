@@ -3,5 +3,6 @@
   "displayName": "Super Luck",
   "id": "absol-super-luck",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "absol"
 }

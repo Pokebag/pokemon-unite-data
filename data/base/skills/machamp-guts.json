@@ -3,5 +3,6 @@
   "displayName": "Guts",
   "id": "machamp-guts",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "machamp"
 }

@@ -3,5 +3,6 @@
   "displayName": "Cotton Down",
   "id": "eldegoss-cotton-down",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "eldegoss"
 }

@@ -3,5 +3,6 @@
   "displayName": "Natural Cure",
   "id": "blissey-natural-cure",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "blissey"
 }

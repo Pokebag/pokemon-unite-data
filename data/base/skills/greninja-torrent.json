@@ -3,5 +3,6 @@
   "displayName": "Torrent",
   "id": "greninja-torrent",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "greninja"
 }

@@ -3,5 +3,6 @@
   "displayName": "Volt Absorb",
   "id": "zeraora-volt-absorb",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "zeraora"
 }

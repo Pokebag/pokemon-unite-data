@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 7.5,
-  "description": "Disappear and move to the designated location, dealing damage to enemies in the area of effect when the user reappears. If this hits an enemy that is afflicted by a status condition, it deals increased damage and its cooldown is reduced."
+  "description": "Disappear and move to the designated location, dealing damage to enemies in the area of effect when the user reappears. If this hits an enemy that is afflicted by a status condition, it deals increased damage and its cooldown is reduced.",
+  "pokemonID": "gengar"
 }

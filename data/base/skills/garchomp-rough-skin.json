@@ -3,5 +3,6 @@
   "displayName": "Rough Skin",
   "id": "garchomp-rough-skin",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "garchomp"
 }

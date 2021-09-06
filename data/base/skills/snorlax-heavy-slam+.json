@@ -8,5 +8,6 @@
     "pokemon.lvl >= 12"
   ],
   "slot": 2,
-  "type": 0
+  "type": 0,
+  "pokemonID": "snorlax"
 }

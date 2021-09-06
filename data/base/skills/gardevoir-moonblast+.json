@@ -8,5 +8,6 @@
     "pokemon.lvl >= 14"
   ],
   "slot": 2,
-  "type": 4
+  "type": 4,
+  "pokemonID": "gardevoir"
 }

@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 8,
-  "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits."
+  "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits.",
+  "pokemonID": "gengar"
 }

@@ -7,5 +7,6 @@
     "pokemon.lvl >= 9"
   ],
   "slot": 4,
-  "cooldown": 1
+  "cooldown": 1,
+  "pokemonID": "machamp"
 }

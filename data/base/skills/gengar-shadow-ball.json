@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 4.5,
-  "description": "Hurl a shadowy blob at the target, decreasing the movement speed and Sp. Defense of enemies for a short time when it hits."
+  "description": "Hurl a shadowy blob at the target, decreasing the movement speed and Sp. Defense of enemies for a short time when it hits.",
+  "pokemonID": "gengar"
 }

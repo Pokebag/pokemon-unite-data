@@ -3,5 +3,6 @@
   "displayName": "Gluttony",
   "id": "snorlax-gluttony",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "snorlax"
 }

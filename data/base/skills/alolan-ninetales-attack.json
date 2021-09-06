@@ -3,5 +3,6 @@
   "displayName": "Attack",
   "id": "alolan-ninetales-attack",
   "requires": [],
-  "slot": 1
+  "slot": 1,
+  "pokemonID": "alolan-ninetales"
 }

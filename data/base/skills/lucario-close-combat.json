@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 9,
-  "description": "Unleash a combo attack, dealing multiple blows to enemies and shoving them."
+  "description": "Unleash a combo attack, dealing multiple blows to enemies and shoving them.",
+  "pokemonID": "lucario"
 }

@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 2,
-  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move."
+  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move.",
+  "pokemonID": "mr-mime"
 }

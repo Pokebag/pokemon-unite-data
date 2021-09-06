@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 7.5,
-  "description": "Hurls an egg at the designated location. The egg then explodes, dealing damage to enemies in the area of effect and throwing them."
+  "description": "Hurls an egg at the designated location. The egg then explodes, dealing damage to enemies in the area of effect and throwing them.",
+  "pokemonID": "blissey"
 }

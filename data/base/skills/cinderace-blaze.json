@@ -3,5 +3,6 @@
   "displayName": "Blaze",
   "id": "cinderace-blaze",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "cinderace"
 }

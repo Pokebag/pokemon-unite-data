@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 7,
-  "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them."
+  "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them.",
+  "pokemonID": "snorlax"
 }

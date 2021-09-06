@@ -8,5 +8,6 @@
     "pokemon.lvl >= 13"
   ],
   "slot": 3,
-  "type": 3
+  "type": 3,
+  "pokemonID": "crustle"
 }

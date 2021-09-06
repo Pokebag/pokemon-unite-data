@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 11,
-  "description": "Scatter petals around the user, increasing movement speed for a short time and dealing damage over time to enemies in the area of effect."
+  "description": "Scatter petals around the user, increasing movement speed for a short time and dealing damage over time to enemies in the area of effect.",
+  "pokemonID": "venusaur"
 }

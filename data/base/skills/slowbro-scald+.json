@@ -8,5 +8,6 @@
     "pokemon.lvl >= 11"
   ],
   "slot": 2,
-  "type": 1
+  "type": 1,
+  "pokemonID": "slowbro"
 }

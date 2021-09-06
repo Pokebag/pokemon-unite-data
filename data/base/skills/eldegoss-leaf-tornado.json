@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 9,
-  "description": "Attack with a tornado of sharp leaves, leaving a path in its wake that increases ally movement speed for a short time."
+  "description": "Attack with a tornado of sharp leaves, leaving a path in its wake that increases ally movement speed for a short time.",
+  "pokemonID": "eldegoss"
 }

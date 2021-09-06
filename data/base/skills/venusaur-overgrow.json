@@ -3,5 +3,6 @@
   "displayName": "Overgrow",
   "id": "venusaur-overgrow",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "venusaur"
 }

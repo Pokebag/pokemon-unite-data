@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 9,
-  "description": "Ride a wave, dealing damage to enemies and restoring the user's HP. If this move knocks out an enemy, its cooldown is reset. In addition, this move deals increased damage to enemies with low HP."
+  "description": "Ride a wave, dealing damage to enemies and restoring the user's HP. If this move knocks out an enemy, its cooldown is reset. In addition, this move deals increased damage to enemies with low HP.",
+  "pokemonID": "greninja"
 }

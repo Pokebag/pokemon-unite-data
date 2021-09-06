@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 8,
-  "description": "Attacks with a wave that deals damage to enemies. Once the wave has traveled its full distance, it returns the way it came, dealing damage to enemies once again and pulling them back with the wave. The user can also catch Arrokuda or other prey by entering the wave."
+  "description": "Attacks with a wave that deals damage to enemies. Once the wave has traveled its full distance, it returns the way it came, dealing damage to enemies once again and pulling them back with the wave. The user can also catch Arrokuda or other prey by entering the wave.",
+  "pokemonID": "cramorant"
 }

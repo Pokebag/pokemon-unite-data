@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 7,
-  "description": "Attack with blades formed by psychic power that decrease the movement speed of enemies for a short time when this move hits. Also increases basic attack damage dealt to the affected enemy for up to 3 attacks after this move hits."
+  "description": "Attack with blades formed by psychic power that decrease the movement speed of enemies for a short time when this move hits. Also increases basic attack damage dealt to the affected enemy for up to 3 attacks after this move hits.",
+  "pokemonID": "absol"
 }

@@ -3,5 +3,6 @@
   "displayName": "Levitate",
   "id": "gengar-levitate",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "gengar"
 }

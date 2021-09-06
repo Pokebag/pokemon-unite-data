@@ -3,5 +3,6 @@
   "displayName": "Attack",
   "id": "lucario-attack",
   "requires": [],
-  "slot": 1
+  "slot": 1,
+  "pokemonID": "lucario"
 }

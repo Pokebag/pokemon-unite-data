@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 9,
-  "description": "Protects the user and nearby allies with cotton. The cotton absorbs damage and when the move ends, the cotton restores some HP."
+  "description": "Protects the user and nearby allies with cotton. The cotton absorbs damage and when the move ends, the cotton restores some HP.",
+  "pokemonID": "eldegoss"
 }

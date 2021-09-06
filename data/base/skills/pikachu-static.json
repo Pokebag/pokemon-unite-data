@@ -3,5 +3,6 @@
   "displayName": "Static",
   "id": "pikachu-static",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "pikachu"
 }

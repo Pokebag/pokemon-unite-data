@@ -3,5 +3,6 @@
   "displayName": "Snow Warning",
   "id": "alolan-ninetales-snow-warning",
   "requires": [],
-  "slot": 0
+  "slot": 0,
+  "pokemonID": "alolan-ninetales"
 }

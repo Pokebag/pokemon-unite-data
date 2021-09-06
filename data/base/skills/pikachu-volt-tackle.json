@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 10,
-  "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon."
+  "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon.",
+  "pokemonID": "pikachu"
 }

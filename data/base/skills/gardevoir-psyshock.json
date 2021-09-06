@@ -8,5 +8,6 @@
   ],
   "slot": 3,
   "cooldown": 10,
-  "description": "Attacks the designated location three times. This move's cooldown is reduced each time one of these attacks hits an enemy."
+  "description": "Attacks the designated location three times. This move's cooldown is reduced each time one of these attacks hits an enemy.",
+  "pokemonID": "gardevoir"
 }

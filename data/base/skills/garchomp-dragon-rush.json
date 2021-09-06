@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 6,
-  "description": "Back up to create distance before diving to attack in the designated direction, shoving enemies. The user can use Dragon Claw while creating distance at the start of this move to create a combo attack."
+  "description": "Back up to create distance before diving to attack in the designated direction, shoving enemies. The user can use Dragon Claw while creating distance at the start of this move to create a combo attack.",
+  "pokemonID": "garchomp"
 }

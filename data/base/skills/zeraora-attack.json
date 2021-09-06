@@ -3,5 +3,6 @@
   "displayName": "Attack",
   "id": "zeraora-attack",
   "requires": [],
-  "slot": 1
+  "slot": 1,
+  "pokemonID": "zeraora"
 }

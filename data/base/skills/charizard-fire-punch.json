@@ -8,5 +8,6 @@
   ],
   "slot": 2,
   "cooldown": 6,
-  "description": "Punch with a fiery fist, dealing damage and shoving enemies when it hits. Also leaves the enemies it shoves burned."
+  "description": "Punch with a fiery fist, dealing damage and shoving enemies when it hits. Also leaves the enemies it shoves burned.",
+  "pokemonID": "charizard"
 }
