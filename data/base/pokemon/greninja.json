@@ -4,16 +4,6 @@
     "difficulty": "Expert",
     "role": "Attacker"
   },
-  "evolution": [
-    {
-      "name": "Froakie",
-      "level": "5"
-    },
-    {
-      "name": "Frogadier",
-      "level": "7"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Greninja",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 1,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Froakie",
+      "level": 5
+    },
+    {
+      "name": "Frogadier",
+      "level": 7
+    }
+  ],
   "stats": [
     {
       "hp": 3000,
@@ -130,6 +130,5 @@
       "spAttack": 119,
       "spDefense": 149
     }
-  ],
-  "id": "greninja"
+  ]
 }

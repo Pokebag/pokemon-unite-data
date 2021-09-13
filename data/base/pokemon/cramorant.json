@@ -14,6 +14,7 @@
     "assistance": 2,
     "total": "25"
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3292,
@@ -120,6 +121,5 @@
       "spAttack": 739,
       "spDefense": 200
     }
-  ],
-  "id": "cramorant"
+  ]
 }

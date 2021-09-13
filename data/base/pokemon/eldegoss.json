@@ -4,12 +4,6 @@
     "difficulty": "Novice",
     "role": "Supporter"
   },
-  "evolution": [
-    {
-      "name": "Gossifleur",
-      "level": "4"
-    }
-  ],
   "damageType": "special",
   "displayName": "Eldegoss",
   "ratings": {
@@ -20,6 +14,12 @@
     "assistance": 8,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Gossifleur",
+      "level": 4
+    }
+  ],
   "stats": [
     {
       "hp": 3278,
@@ -126,6 +126,5 @@
       "spAttack": 670,
       "spDefense": 149
     }
-  ],
-  "id": "eldegoss"
+  ]
 }

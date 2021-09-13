@@ -4,16 +4,6 @@
     "difficulty": "Novice",
     "role": "Speedster"
   },
-  "evolution": [
-    {
-      "name": "Fletchling",
-      "level": "5"
-    },
-    {
-      "name": "Fletchinder",
-      "level": "7"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Talonflame",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 1,
     "total": 26
   },
+  "evolutions": [
+    {
+      "name": "Fletchling",
+      "level": 5
+    },
+    {
+      "name": "Fletchinder",
+      "level": 7
+    }
+  ],
   "stats": [
     {
       "hp": 3024,
@@ -130,6 +130,5 @@
       "spAttack": 117,
       "spDefense": 200
     }
-  ],
-  "id": "talonflame"
+  ]
 }

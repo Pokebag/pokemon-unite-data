@@ -14,6 +14,7 @@
     "assistance": 1,
     "total": 25
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3002,
@@ -120,6 +121,5 @@
       "spAttack": 118,
       "spDefense": 200
     }
-  ],
-  "id": "zeraora"
+  ]
 }

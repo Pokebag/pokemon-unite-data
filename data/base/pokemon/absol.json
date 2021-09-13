@@ -14,6 +14,7 @@
     "assistance": 1,
     "total": 25
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3000,
@@ -82,7 +83,7 @@
       "hp": 4451,
       "attack": 387,
       "defense": 152,
-      "spAttack": 58,
+      "spAttack": 68,
       "spDefense": 106
     },
     {
@@ -120,6 +121,5 @@
       "spAttack": 118,
       "spDefense": 180
     }
-  ],
-  "id": "absol"
+  ]
 }

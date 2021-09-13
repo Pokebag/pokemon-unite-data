@@ -14,6 +14,7 @@
     "assistance": 5,
     "total": 25
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3300,
@@ -120,6 +121,5 @@
       "spAttack": 116,
       "spDefense": 400
     }
-  ],
-  "id": "snorlax"
+  ]
 }

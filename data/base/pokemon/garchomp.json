@@ -1,20 +1,9 @@
 {
-  "tier_change": "Up",
   "tags": {
     "range": "Melee",
     "difficulty": "Intermediate",
     "role": "All-Rounder"
   },
-  "evolution": [
-    {
-      "name": "Gible",
-      "level": "6"
-    },
-    {
-      "name": "Gabite",
-      "level": "10"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Garchomp",
   "ratings": {
@@ -25,6 +14,16 @@
     "assistance": 1,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Gible",
+      "level": 6
+    },
+    {
+      "name": "Gabite",
+      "level": 10
+    }
+  ],
   "stats": [
     {
       "hp": 3050,
@@ -131,6 +130,5 @@
       "spAttack": 114,
       "spDefense": 318
     }
-  ],
-  "id": "garchomp"
+  ]
 }

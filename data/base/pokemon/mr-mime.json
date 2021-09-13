@@ -14,6 +14,7 @@
     "assistance": 8,
     "total": 24
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3225,
@@ -120,6 +121,5 @@
       "spAttack": 414,
       "spDefense": 361
     }
-  ],
-  "id": "mr-mime"
+  ]
 }

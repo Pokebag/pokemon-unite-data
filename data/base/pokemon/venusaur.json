@@ -4,16 +4,6 @@
     "difficulty": "Intermediate",
     "role": "Attacker"
   },
-  "evolution": [
-    {
-      "name": "Bulbasaur",
-      "level": "5"
-    },
-    {
-      "name": "Ivysaur",
-      "level": "9"
-    }
-  ],
   "damageType": "special",
   "displayName": "Venusaur",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 2,
     "total": 24
   },
+  "evolutions": [
+    {
+      "name": "Bulbasaur",
+      "level": 5
+    },
+    {
+      "name": "Ivysaur",
+      "level": 9
+    }
+  ],
   "stats": [
     {
       "hp": 3300,
@@ -130,6 +130,5 @@
       "spAttack": "962",
       "spDefense": 137
     }
-  ],
-  "id": "venusaur"
+  ]
 }

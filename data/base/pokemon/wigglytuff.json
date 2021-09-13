@@ -4,12 +4,6 @@
     "difficulty": "Intermediate",
     "role": "Supporter"
   },
-  "evolution": [
-    {
-      "name": "Jigglypuff",
-      "level": "4"
-    }
-  ],
   "damageType": "special",
   "displayName": "Wigglytuff",
   "ratings": {
@@ -20,6 +14,12 @@
     "assistance": 9,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Jigglypuff",
+      "level": 4
+    }
+  ],
   "stats": [
     {
       "hp": 3278,
@@ -126,6 +126,5 @@
       "spAttack": 627,
       "spDefense": 482
     }
-  ],
-  "id": "wigglytuff"
+  ]
 }

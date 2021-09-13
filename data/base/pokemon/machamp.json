@@ -4,16 +4,6 @@
     "difficulty": "Intermediate",
     "role": "All-Rounder"
   },
-  "evolution": [
-    {
-      "name": "Machop",
-      "level": "5"
-    },
-    {
-      "name": "Machoke",
-      "level": "9"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Machamp",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 2,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Machop",
+      "level": 5
+    },
+    {
+      "name": "Machoke",
+      "level": 9
+    }
+  ],
   "stats": [
     {
       "hp": 3250,
@@ -130,6 +130,5 @@
       "spAttack": 114,
       "spDefense": 320
     }
-  ],
-  "id": "machamp"
+  ]
 }

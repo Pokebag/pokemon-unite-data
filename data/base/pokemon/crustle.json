@@ -4,12 +4,6 @@
     "difficulty": "Novice",
     "role": "Defender"
   },
-  "evolution": [
-    {
-      "name": "Dwebble",
-      "level": "4"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Crustle",
   "ratings": {
@@ -20,6 +14,12 @@
     "assistance": 6,
     "total": "24"
   },
+  "evolutions": [
+    {
+      "name": "Dwebble",
+      "level": 4
+    }
+  ],
   "stats": [
     {
       "hp": 3300,
@@ -126,6 +126,5 @@
       "spAttack": "116",
       "spDefense": 400
     }
-  ],
-  "id": "crustle"
+  ]
 }

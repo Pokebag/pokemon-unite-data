@@ -1,16 +1,9 @@
 {
-  "tier_change": "Down",
   "tags": {
     "range": "Ranged",
     "difficulty": "Intermediate",
     "role": "Defender"
   },
-  "evolution": [
-    {
-      "name": "Slowpoke",
-      "level": "4"
-    }
-  ],
   "damageType": "special",
   "displayName": "Slowbro",
   "ratings": {
@@ -21,6 +14,12 @@
     "assistance": 8,
     "total": 25
   },
+  "evolutions": [
+    {
+      "name": "Slowpoke",
+      "level": 4
+    }
+  ],
   "stats": [
     {
       "hp": 3225,
@@ -127,6 +126,5 @@
       "spAttack": 411,
       "spDefense": 360
     }
-  ],
-  "id": "slowbro"
+  ]
 }

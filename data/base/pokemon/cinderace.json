@@ -4,16 +4,6 @@
     "difficulty": "Novice",
     "role": "Attacker"
   },
-  "evolution": [
-    {
-      "name": "Scorbunny",
-      "level": "5"
-    },
-    {
-      "name": "Raboot",
-      "level": "7"
-    }
-  ],
   "damageType": "physical",
   "displayName": "Cinderace",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 1,
     "total": "23"
   },
+  "evolutions": [
+    {
+      "name": "Scorbunny",
+      "level": 5
+    },
+    {
+      "name": "Raboot",
+      "level": 7
+    }
+  ],
   "stats": [
     {
       "hp": 3000,
@@ -40,18 +40,18 @@
       "spDefense": 32
     },
     {
-      "hp": 3124,
+      "hp": 3075,
+      "attack": 145,
+      "defense": 56,
+      "spAttack": 23,
+      "spDefense": 34
+    },
+    {
+      "hp": 3125,
       "attack": 151,
       "defense": 60,
       "spAttack": 25,
       "spDefense": 36
-    },
-    {
-      "hp": 3304,
-      "attack": 174,
-      "defense": 75,
-      "spAttack": 32,
-      "spDefense": 45
     },
     {
       "hp": 3304,
@@ -130,6 +130,5 @@
       "spAttack": 119,
       "spDefense": 149
     }
-  ],
-  "id": "cinderace"
+  ]
 }

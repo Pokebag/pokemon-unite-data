@@ -14,6 +14,7 @@
     "assistance": 3,
     "total": 24
   },
+  "evolutions": [],
   "stats": [
     {
       "hp": 3292,
@@ -120,6 +121,5 @@
       "spAttack": "954",
       "spDefense": 135
     }
-  ],
-  "id": "pikachu"
+  ]
 }
