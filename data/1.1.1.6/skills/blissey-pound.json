@@ -1,10 +1,17 @@
 {
-  "type": 5,
+  "type": 4,
   "description": "Has the user attack by pounding in the designated direction, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time when it hits.",
+  "pokemonID": "blissey",
+  "upgradeIDs": [
+    "blissey-egg-bomb",
+    "blissey-helping-hand"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Pound",
   "id": "blissey-pound",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "blissey"
+  "level": 1,
+  "cooldown": 6
 }

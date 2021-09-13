@@ -1,8 +1,12 @@
 {
   "description": "Removes all status condition from the Pokémon. This ability goes on cooldown after it's triggered.",
+  "pokemonID": "blissey",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Natural Cure",
   "id": "blissey-natural-cure",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "blissey"
+  "level": 1
 }

@@ -1,12 +1,14 @@
 {
   "type": 5,
+  "level": 8,
   "description": "Has the user dash to the designated ally to give it an egg, granting that ally a shield and increasing its Attack and Sp. Attack for a short time. The user also intercepts a portion of the damage received by that ally for a short time. While dashing, the user throws nearby enemies and those it comes in contact with.",
+  "pokemonID": "blissey",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Bliss Assistance",
   "id": "blissey-bliss-assistance",
-  "requires": [
-    "pokemon.lvl >= 8"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "blissey"
+  "cooldown": 1
 }

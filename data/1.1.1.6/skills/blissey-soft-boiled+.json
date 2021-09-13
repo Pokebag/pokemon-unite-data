@@ -1,0 +1,14 @@
+{
+  "choice": 0,
+  "cooldown": 12,
+  "displayName": "Soft Boiled+",
+  "description": "Throws an egg to an ally, restoring its HP as well as the user's HP. A maximum of 3 uses can be kept in reserve for this move and cannot be used more than once every 2s.\n\nIncreases the maximum number of uses that can be kept in reserve.",
+  "id": "blissey-soft-boiled+",
+  "level": 12,
+  "parentID": "blissey-soft-boiled",
+  "pokemonID": "blissey",
+  "slot": 3,
+  "tier": 2,
+  "type": 6,
+  "upgradeIDs": []
+}

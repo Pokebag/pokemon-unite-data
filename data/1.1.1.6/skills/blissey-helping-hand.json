@@ -1,0 +1,16 @@
+{
+  "type": 5,
+  "pokemonID": "blissey",
+  "upgradeIDs": [
+    "blissey-helping-hand+"
+  ],
+  "slot": 2,
+  "parentID": "blissey-pound",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Helping Hand",
+  "id": "blissey-helping-hand",
+  "level": "6",
+  "cooldown": 9,
+  "description": "For a short time, greatly increases the user's and nearby allies movement speed and basic attack speed. While this move's effects last, all of the user's basic attacks become boosted attacks."
+}

@@ -1,0 +1,16 @@
+{
+  "type": 5,
+  "pokemonID": "blissey",
+  "upgradeIDs": [
+    "blissey-safeguard+"
+  ],
+  "slot": 3,
+  "parentID": "blissey-heal-pulse",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Safeguard",
+  "id": "blissey-safeguard",
+  "level": "4",
+  "cooldown": 11,
+  "description": "Removes all status conditions from the designated ally and makes it immune to hindrances for a short time."
+}

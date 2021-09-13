@@ -1,0 +1,16 @@
+{
+  "type": 4,
+  "pokemonID": "blissey",
+  "upgradeIDs": [
+    "blissey-egg-bomb+"
+  ],
+  "slot": 2,
+  "parentID": "blissey-pound",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Egg Bomb",
+  "id": "blissey-egg-bomb",
+  "level": "6",
+  "cooldown": 7.5,
+  "description": "Hurls an egg at the designated location. The egg then explodes, dealing damage to enemies in the area of effect and throwing them."
+}

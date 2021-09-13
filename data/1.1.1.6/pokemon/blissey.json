@@ -4,12 +4,6 @@
     "difficulty": "Novice",
     "role": "Supporter"
   },
-  "evolution": [
-    {
-      "name": "Chansey",
-      "level": "4"
-    }
-  ],
   "damageType": "special",
   "displayName": "Blissey",
   "ratings": {
@@ -20,6 +14,12 @@
     "assistance": 9,
     "total": 24
   },
+  "evolutions": [
+    {
+      "name": "Chansey",
+      "level": 4
+    }
+  ],
   "stats": [
     {
       "hp": 3278,
@@ -126,6 +126,5 @@
       "spAttack": 600,
       "spDefense": 149
     }
-  ],
-  "id": "blissey"
+  ]
 }

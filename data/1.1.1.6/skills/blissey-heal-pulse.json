@@ -1,0 +1,17 @@
+{
+  "type": 7,
+  "description": "Continually restores the user's and designated ally HP for a short time.",
+  "pokemonID": "blissey",
+  "upgradeIDs": [
+    "blissey-soft-boiled",
+    "blissey-safeguard"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
+  "displayName": "Heal Pulse",
+  "id": "blissey-heal-pulse",
+  "level": 1,
+  "cooldown": 10
+}
