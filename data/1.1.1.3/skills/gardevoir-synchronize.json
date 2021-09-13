@@ -1,8 +1,12 @@
 {
   "description": "When an enemy inflicts decreased movement speed or a damge-over-time condition on the Pokémon, the same is inflicted on that opponent. This ability goes on cooldown after it's triggered.",
+  "pokemonID": "gardevoir",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Synchronize",
   "id": "gardevoir-synchronize",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "gardevoir"
+  "level": 1
 }

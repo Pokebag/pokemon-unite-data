@@ -1,0 +1,16 @@
+{
+  "type": 3,
+  "pokemonID": "gardevoir",
+  "upgradeIDs": [
+    "gardevoir-psyshock+"
+  ],
+  "slot": 3,
+  "parentID": "gardevoir-teleport",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Psyshock",
+  "id": "gardevoir-psyshock",
+  "level": "6",
+  "cooldown": 10,
+  "description": "Attacks the designated location three times. This move's cooldown is reduced each time one of these attacks hits an enemy."
+}

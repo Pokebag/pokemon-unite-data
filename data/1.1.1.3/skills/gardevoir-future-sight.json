@@ -1,0 +1,16 @@
+{
+  "type": 3,
+  "pokemonID": "gardevoir",
+  "upgradeIDs": [
+    "gardevoir-future-sight+"
+  ],
+  "slot": 3,
+  "parentID": "gardevoir-teleport",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Future Sight",
+  "id": "gardevoir-future-sight",
+  "level": "6",
+  "cooldown": 9,
+  "description": "Sets a delayed explosion. When the explosion hits an enemy, it reduces this move's cooldown."
+}

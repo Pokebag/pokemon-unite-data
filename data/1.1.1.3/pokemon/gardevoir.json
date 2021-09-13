@@ -4,16 +4,6 @@
     "difficulty": "Intermediate",
     "role": "Attacker"
   },
-  "evolution": [
-    {
-      "name": "Ralts",
-      "level": "6"
-    },
-    {
-      "name": "Kirlia",
-      "level": "10"
-    }
-  ],
   "damageType": "special",
   "displayName": "Gardevoir",
   "ratings": {
@@ -24,6 +14,16 @@
     "assistance": 3,
     "total": 24
   },
+  "evolutions": [
+    {
+      "name": "Ralts",
+      "level": 6
+    },
+    {
+      "name": "Kirlia",
+      "level": 10
+    }
+  ],
   "stats": [
     {
       "hp": 3200,
@@ -130,6 +130,5 @@
       "spAttack": 1001,
       "spDefense": 138
     }
-  ],
-  "id": "gardevoir"
+  ]
 }
