@@ -1,0 +1,14 @@
+{
+  "choice": 0,
+  "cooldown": 8.5,
+  "displayName": "Hydro Pump+",
+  "description": "Has the user attack by blasing out a huge volume of water, dealing damage to opposing Pokémon and shoving them when it hits.\n\nIncreases damage dealt by this move.",
+  "id": "blastoise-hydro-pump+",
+  "level": 11,
+  "parentID": "blastoise-hydro-pump",
+  "pokemonID": "blastoise",
+  "slot": 2,
+  "tier": 2,
+  "type": 4,
+  "upgradeIDs": []
+}

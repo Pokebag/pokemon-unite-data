@@ -1,0 +1,14 @@
+{
+  "choice": 1,
+  "cooldown": 9,
+  "displayName": "Water Spout+",
+  "description": "Spouts water toward the designated location, decreasing the movement speed of opposing Pokémon in the area of effect for a short time.\n\nIncreases damage dealt by this move.",
+  "id": "blastoise-water-spout+",
+  "level": 11,
+  "parentID": "blastoise-water-spout",
+  "pokemonID": "blastoise",
+  "slot": 2,
+  "tier": 2,
+  "type": 3,
+  "upgradeIDs": []
+}

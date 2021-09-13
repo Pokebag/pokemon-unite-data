@@ -1,0 +1,12 @@
+{
+  "description": "Blastoise’s third auto attack is empowered - dealing 3 instances of damage, slowing enemies hit and reducing Blastoise’s move cooldowns by 1 second each.",
+  "pokemonID": "blastoise",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
+  "displayName": "Attack",
+  "id": "blastoise-attack",
+  "level": 1
+}

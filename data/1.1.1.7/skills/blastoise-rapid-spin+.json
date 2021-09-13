@@ -1,0 +1,14 @@
+{
+  "choice": 1,
+  "cooldown": 11,
+  "displayName": "Rapid Spin+",
+  "description": "Has the user spin rapidly, changing the mechanics of its basic attacks as well as its Hydro Pump and Water Spout moves.\n\nAlso reduces the damage the user receives while using this move.",
+  "id": "blastoise-rapid-spin+",
+  "level": 13,
+  "parentID": "blastoise-rapid-spin",
+  "pokemonID": "blastoise",
+  "slot": 3,
+  "tier": 2,
+  "type": 3,
+  "upgradeIDs": []
+}

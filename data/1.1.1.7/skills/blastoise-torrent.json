@@ -1,0 +1,12 @@
+{
+  "description": "When the Pokémon is at half HP or less, its Attack and Sp. Attack are increased.",
+  "pokemonID": "blastoise",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
+  "displayName": "Torrent",
+  "id": "blastoise-torrent",
+  "level": 1
+}

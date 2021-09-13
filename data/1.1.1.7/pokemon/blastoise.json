@@ -1,0 +1,134 @@
+{
+  "tags": {
+    "range": "Ranged",
+    "difficulty": "Intermediate",
+    "role": "Defender"
+  },
+  "damageType": "special",
+  "displayName": "Blastoise",
+  "ratings": {
+    "combat": 4,
+    "resistance": 7,
+    "mobility": 4,
+    "scoring": 4,
+    "assistance": 6,
+    "total": "25"
+  },
+  "evolutions": [
+    {
+      "name": "Squirtle",
+      "level": 5
+    },
+    {
+      "name": "Wartortle",
+      "level": 9
+    }
+  ],
+  "stats": [
+    {
+      "hp": 3225,
+      "attack": 150,
+      "defense": 100,
+      "spAttack": 50,
+      "spDefense": 70
+    },
+    {
+      "hp": 3319,
+      "attack": 152,
+      "defense": 107,
+      "spAttack": 55,
+      "spDefense": 75
+    },
+    {
+      "hp": 3432,
+      "attack": 154,
+      "defense": 116,
+      "spAttack": 61,
+      "spDefense": 81
+    },
+    {
+      "hp": 3568,
+      "attack": 157,
+      "defense": 126,
+      "spAttack": 68,
+      "spDefense": 88
+    },
+    {
+      "hp": 4060,
+      "attack": 168,
+      "defense": 163,
+      "spAttack": 95,
+      "spDefense": 114
+    },
+    {
+      "hp": 4256,
+      "attack": 172,
+      "defense": 178,
+      "spAttack": 106,
+      "spDefense": 124
+    },
+    {
+      "hp": 4491,
+      "attack": 177,
+      "defense": 196,
+      "spAttack": 119,
+      "spDefense": 137
+    },
+    {
+      "hp": 4773,
+      "attack": 183,
+      "defense": 217,
+      "spAttack": 135,
+      "spDefense": 152
+    },
+    {
+      "hp": 5769,
+      "attack": 204,
+      "defense": 293,
+      "spAttack": 190,
+      "spDefense": 205
+    },
+    {
+      "hp": 6175,
+      "attack": 214,
+      "defense": 324,
+      "spAttack": 212,
+      "spDefense": 227
+    },
+    {
+      "hp": 6662,
+      "attack": 224,
+      "defense": 361,
+      "spAttack": 239,
+      "spDefense": 253
+    },
+    {
+      "hp": 7247,
+      "attack": 238,
+      "defense": 405,
+      "spAttack": 271,
+      "spDefense": 284
+    },
+    {
+      "hp": 7948,
+      "attack": 252,
+      "defense": 458,
+      "spAttack": 310,
+      "spDefense": 321
+    },
+    {
+      "hp": 8790,
+      "attack": 270,
+      "defense": 522,
+      "spAttack": 356,
+      "spDefense": 366
+    },
+    {
+      "hp": 9800,
+      "attack": 292,
+      "defense": 599,
+      "spAttack": 412,
+      "spDefense": 420
+    }
+  ]
+}

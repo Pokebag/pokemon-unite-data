@@ -1,0 +1,16 @@
+{
+  "type": 4,
+  "pokemonID": "blastoise",
+  "upgradeIDs": [
+    "blastoise-hydro-pump+"
+  ],
+  "slot": 2,
+  "parentID": "blastoise-water-gun",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Hydro Pump",
+  "id": "blastoise-hydro-pump",
+  "level": "5",
+  "cooldown": 8.5,
+  "description": "Has the user attack by blasing out a huge volume of water, dealing damage to opposing Pokémon and shoving them when it hits."
+}

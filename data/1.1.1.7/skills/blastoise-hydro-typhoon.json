@@ -1,0 +1,14 @@
+{
+  "type": 2,
+  "level": 9,
+  "description": "Has the user spout water to attack while spinning, throwing enemies in a large area. This also grants the user a shield.",
+  "pokemonID": "blastoise",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
+  "displayName": "Hydro Typhoon",
+  "id": "blastoise-hydro-typhoon",
+  "cooldown": 1
+}

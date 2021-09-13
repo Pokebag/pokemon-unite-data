@@ -1,0 +1,17 @@
+{
+  "type": 0,
+  "description": "Fiercely rams an opposing Pokémon and leaves it unable to act.",
+  "pokemonID": "blastoise",
+  "upgradeIDs": [
+    "blastoise-surf",
+    "blastoise-rapid-spin"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
+  "displayName": "Skull Bash",
+  "id": "blastoise-skull-bash",
+  "level": 1,
+  "cooldown": 10
+}

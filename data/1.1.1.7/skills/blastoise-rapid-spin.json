@@ -1,0 +1,16 @@
+{
+  "type": 3,
+  "pokemonID": "blastoise",
+  "upgradeIDs": [
+    "blastoise-rapid-spin+"
+  ],
+  "slot": 3,
+  "parentID": "blastoise-skull-bash",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Rapid Spin",
+  "id": "blastoise-rapid-spin",
+  "level": "7",
+  "cooldown": 11,
+  "description": "Has the user spin rapidly, changing the mechanics of its basic attacks as well as its Hydro Pump and Water Spout moves."
+}

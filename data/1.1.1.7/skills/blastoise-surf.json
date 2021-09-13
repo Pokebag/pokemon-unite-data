@@ -1,0 +1,16 @@
+{
+  "type": 0,
+  "pokemonID": "blastoise",
+  "upgradeIDs": [
+    "blastoise-surf+"
+  ],
+  "slot": 3,
+  "parentID": "blastoise-skull-bash",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Surf",
+  "id": "blastoise-surf",
+  "level": "7",
+  "cooldown": 12,
+  "description": "Has the user charge forward on a wave, shoving enemies and leaving them unable to act. The user becomes immune to hindrances while using this move and can jump in a designated direction once this move ends."
+}

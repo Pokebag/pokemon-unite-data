@@ -1,0 +1,17 @@
+{
+  "type": 5,
+  "description": "Attacks with a shot of water, shoving enemies and decreasing their movement speed for a short time.",
+  "pokemonID": "blastoise",
+  "upgradeIDs": [
+    "blastoise-hydro-pump",
+    "blastoise-water-spout"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
+  "displayName": "Water Gun",
+  "id": "blastoise-water-gun",
+  "level": 1,
+  "cooldown": 9
+}
