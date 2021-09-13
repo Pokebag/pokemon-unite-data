@@ -1,0 +1,45 @@
++-----------------------------+               +---------------------------+                   +----------------------------------------------+
+| Pokémon                     |               | Pokémon Skill             |                   | Held Item                                    |
++-----------------------------+               +---------------------------+                   +----------------------------------------------+
+|{d}                          |               |{d}                        |                   |{d}                                           |
+| damageType         {string} |               | type               {enum} *-----------\       | displayName                         {string} |
+| displayName        {string} |               | description      {string} |           |       | description                         {string} |
+| id                 {string} |<------\       | displayName      {string} |           |       | id                                  {string} |
+| ratings            {object} |       |       | level            {number} |           |       | special                             {object} |
+| - combat           {number} |       +-------* pokemonID        {string} |           |       | - description                       {string} |
+| - resistance       {number} |       |       | slot               {enum} *-------\   |       | - boons                             {object} |
+| - mobility         {number} |       |       | cooldown         {number} |       |   |   /---* stats           {Record string,HeldItemStat} |
+| - scoring          {number} |       |   /-->| id               {string} |       |   |   |   | tags                                 {array} |
+| - assistance       {number} |       |   |   | choice           {number} |       |   |   |   |                                              |
+| - total            {number} |       |   +- -* parentID         {string} |       |   |   |   \----------------------------------------------/
+| stats         {StatBlock[]} *---\   |   |   | tier             {number} |       |   |   |
+| tags               {object} |   |   |   +---* upgradeIDs     {string[]} |       |   |   |
+| - difficulty       {string} |   |   |   |   |                           |       |   |   |
+| - range            {string} |   |   |   |   +---------------------------+       |   |   |
+| - role             {string} |   |   |   |                                       |   |   |
+|                             |   |   |   |   +-------------------------------+   |   |   |
++-----------------------------+   |   |   |   | Pokémon Skill RSB             |   |   |   |
+                                  |   |   |   +-------------------------------+   |   |   |
+                                  |   |   |   |{d}                            |   |   |   |
+                                  |   |   |   | id                   {string} |   |   |   |
+                                  |   |   \---* skillID              {string} |   |   |   |
+                                  |   \-------* pokemonID            {string} |   |   |   |
+            /---------------------/   /-------* hits        {Skill RSB Hit[]} |   |   |   |
+            |                         |       |                               |   |   |   |
+            |                         |       +-------------------------------+   |   |   \---------------------------\
+            |                         |                                           |   |                               |
+            |                         |                             /-------------/   \-----\                         |
+            |                         |                             |                       |                         |
+ /----------*----------\     /--------*--------------\     /--------*--------\     /--------*--------\     /----------*----------\
+ | StatBlock           |     | Skill RSB Hit         |     | Skill Slot      |     | Skill Type      |     | Held Item Stat      |
+ +---------------------+     +-----------------------+     +----+------------+     +----+------------+     +---------------------+
+ | hp         {number} |     | base         {number} |     |  0 | Passive    |     |  0 | Dash       |     | formula    {string} |
+ | attack     {number} |     | damageType   {string} |     |  1 | Basic      |     |  1 | Melee      |     | type         {enum} |
+ | defense    {number} |     | label        {string} |     |  2 | Move 1     |     |  2 | Hindrance  |     \---------------------/
+ | spAttack   {number} |     | ratio        {number} |     |  3 | Move 2     |     |  3 | Area       |
+ | spDefense  {number} |     | slider       {number} |     |  4 | Unite Move |     |  4 | Ranged     |
+ +---------------------+     \-----------------------/     \----+------------/     |  5 | Buff       |
+                                                                                   |  6 | Recovery   |
+                                                                                   |  7 | Sure Hit   |
+                                                                                   |  8 | Debuff     |
+                                                                                   \----+------------/
