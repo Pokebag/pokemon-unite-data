@@ -1,0 +1,21 @@
+{
+  "id": "venusaur-giga-drain-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 400,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 55,
+      "slider": 16
+    },
+    {
+      "base": 200,
+      "damageType": "SpA",
+      "label": "Healing",
+      "ratio": 27.5,
+      "slider": 8
+    }
+  ],
+  "skillID": "venusaur-giga-drain"
+}

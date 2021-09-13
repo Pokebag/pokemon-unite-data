@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-acrobatics-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 200,
+      "damageType": "Atk",
+      "label": "Damage (3x)",
+      "ratio": 75,
+      "slider": 6
+    }
+  ],
+  "skillID": "talonflame-acrobatics"
+}

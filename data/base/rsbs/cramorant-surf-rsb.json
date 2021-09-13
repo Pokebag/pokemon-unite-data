@@ -1,0 +1,21 @@
+{
+  "id": "cramorant-surf-rsb",
+  "pokemonID": "cramorant",
+  "hits": [
+    {
+      "base": 390,
+      "damageType": "SpA",
+      "label": "First Hit",
+      "ratio": 75,
+      "slider": 9
+    },
+    {
+      "base": 585,
+      "damageType": "SpA",
+      "label": "Damage - Second Hit",
+      "ratio": 112.5,
+      "slider": 14
+    }
+  ],
+  "skillID": "cramorant-surf"
+}

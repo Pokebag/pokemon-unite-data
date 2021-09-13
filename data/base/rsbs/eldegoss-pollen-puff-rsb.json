@@ -1,0 +1,21 @@
+{
+  "id": "eldegoss-pollen-puff-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 180,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 90,
+      "slider": 8
+    },
+    {
+      "base": 270,
+      "damageType": "SpA",
+      "label": "Healing",
+      "ratio": 135,
+      "slider": 12
+    }
+  ],
+  "skillID": "eldegoss-pollen-puff"
+}

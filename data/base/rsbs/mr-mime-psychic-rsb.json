@@ -1,0 +1,14 @@
+{
+  "id": "mr-mime-psychic-rsb",
+  "pokemonID": "mr-mime",
+  "hits": [
+    {
+      "base": 370,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 152,
+      "slider": 16
+    }
+  ],
+  "skillID": "mr-mime-psychic"
+}

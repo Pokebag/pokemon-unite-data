@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-synthesis-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 350,
+      "damageType": "SpA",
+      "label": "Healing",
+      "ratio": 100,
+      "slider": 5
+    }
+  ],
+  "skillID": "eldegoss-synthesis"
+}

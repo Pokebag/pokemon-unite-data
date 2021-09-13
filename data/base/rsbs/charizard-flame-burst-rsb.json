@@ -1,0 +1,21 @@
+{
+  "id": "charizard-flame-burst-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 70,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 105,
+      "slider": 4
+    },
+    {
+      "base": 0,
+      "damageType": "Atk",
+      "label": "Damage - Burn (5 Ticks)",
+      "ratio": 20,
+      "slider": 0
+    }
+  ],
+  "skillID": "charizard-flame-burst"
+}

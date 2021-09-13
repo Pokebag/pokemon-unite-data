@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-cotton-spore-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 310,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 138,
+      "slider": 7
+    }
+  ],
+  "skillID": "eldegoss-cotton-spore"
+}

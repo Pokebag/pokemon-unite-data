@@ -1,0 +1,14 @@
+{
+  "id": "garchomp-dragon-rush-rsb",
+  "pokemonID": "garchomp",
+  "hits": [
+    {
+      "base": 140,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 74,
+      "slider": 3
+    }
+  ],
+  "skillID": "garchomp-dragon-rush"
+}

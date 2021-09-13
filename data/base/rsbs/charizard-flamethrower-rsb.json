@@ -1,0 +1,21 @@
+{
+  "id": "charizard-flamethrower-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 160,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 150,
+      "slider": 6
+    },
+    {
+      "base": 0,
+      "damageType": "Atk",
+      "label": "Damage - Burn (5 Ticks)",
+      "ratio": 20,
+      "slider": 0
+    }
+  ],
+  "skillID": "charizard-flamethrower"
+}

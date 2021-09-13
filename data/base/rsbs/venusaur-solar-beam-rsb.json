@@ -1,0 +1,14 @@
+{
+  "id": "venusaur-solar-beam-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 230,
+      "damageType": "SpA",
+      "label": "Damage (5 Ticks)",
+      "ratio": 27,
+      "slider": 5
+    }
+  ],
+  "skillID": "venusaur-solar-beam"
+}

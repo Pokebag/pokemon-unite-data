@@ -1,0 +1,28 @@
+{
+  "id": "cramorant-whirlpool-rsb",
+  "pokemonID": "cramorant",
+  "hits": [
+    {
+      "base": 100,
+      "damageType": "SpA",
+      "label": "Damage - Initial (2 Ticks)",
+      "ratio": 24,
+      "slider": 5
+    },
+    {
+      "base": 110,
+      "damageType": "SpA",
+      "label": "Damage - Middle (2 Ticks)",
+      "ratio": 27,
+      "slider": 6
+    },
+    {
+      "base": 120,
+      "damageType": "SpA",
+      "label": "Damage - End (6 Ticks)",
+      "ratio": 30,
+      "slider": 7
+    }
+  ],
+  "skillID": "cramorant-whirlpool"
+}

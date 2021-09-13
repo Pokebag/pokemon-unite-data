@@ -1,0 +1,14 @@
+{
+  "id": "pikachu-thunderbolt-rsb",
+  "pokemonID": "pikachu",
+  "hits": [
+    {
+      "base": 500,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 50,
+      "slider": 12
+    }
+  ],
+  "skillID": "pikachu-thunderbolt"
+}

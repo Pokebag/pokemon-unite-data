@@ -1,0 +1,14 @@
+{
+  "id": "venusaur-petal-dance-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 60,
+      "damageType": "SpA",
+      "label": "Damage - Aura (16 Ticks)",
+      "ratio": 7,
+      "slider": 1
+    }
+  ],
+  "skillID": "venusaur-petal-dance"
+}

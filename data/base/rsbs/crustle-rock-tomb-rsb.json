@@ -1,0 +1,28 @@
+{
+  "id": "crustle-rock-tomb-rsb",
+  "pokemonID": "crustle",
+  "hits": [
+    {
+      "base": 260,
+      "damageType": "Atk",
+      "label": "Damage - Projectile",
+      "ratio": 81,
+      "slider": 7
+    },
+    {
+      "base": 130,
+      "damageType": "Atk",
+      "label": "Damage - Barrier Spawn",
+      "ratio": 40.5,
+      "slider": 4
+    },
+    {
+      "base": 130,
+      "damageType": "Atk",
+      "label": "Damage - Barrier De-Spawn",
+      "ratio": 40.5,
+      "slider": 4
+    }
+  ],
+  "skillID": "crustle-rock-tomb"
+}

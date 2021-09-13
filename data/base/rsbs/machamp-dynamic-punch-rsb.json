@@ -1,0 +1,14 @@
+{
+  "id": "machamp-dynamic-punch-rsb",
+  "pokemonID": "machamp",
+  "hits": [
+    {
+      "base": 70,
+      "damageType": "Atk",
+      "label": "Damage - per Tick (4 Ticks)",
+      "ratio": 37,
+      "slider": 2
+    }
+  ],
+  "skillID": "machamp-dynamic-punch"
+}

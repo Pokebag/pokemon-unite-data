@@ -1,0 +1,14 @@
+{
+  "id": "alolan-ninetales-dazzling-gleam-rsb",
+  "pokemonID": "alolan-ninetales",
+  "hits": [
+    {
+      "base": 320,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 60,
+      "slider": 10
+    }
+  ],
+  "skillID": "alolan-ninetales-dazzling-gleam"
+}

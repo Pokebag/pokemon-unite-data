@@ -1,0 +1,21 @@
+{
+  "id": "venusaur-sludge-bomb-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 250,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 37,
+      "slider": 11
+    },
+    {
+      "base": 25,
+      "damageType": "SpA",
+      "label": "Damage - Area  (10 Ticks)",
+      "ratio": 4,
+      "slider": 1
+    }
+  ],
+  "skillID": "venusaur-sludge-bomb"
+}

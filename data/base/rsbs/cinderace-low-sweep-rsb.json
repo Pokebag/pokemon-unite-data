@@ -1,0 +1,14 @@
+{
+  "id": "cinderace-low-sweep-rsb",
+  "pokemonID": "cinderace",
+  "hits": [
+    {
+      "base": 100,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 36,
+      "slider": 3
+    }
+  ],
+  "skillID": "cinderace-low-sweep"
+}

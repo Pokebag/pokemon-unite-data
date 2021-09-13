@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-fly-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 1050,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 255,
+      "slider": 24
+    }
+  ],
+  "skillID": "talonflame-fly"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blissey-pound-rsb",
+  "pokemonID": "blissey",
+  "hits": [
+    {
+      "base": 520,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 47,
+      "slider": 28
+    }
+  ],
+  "skillID": "blissey-pound"
+}

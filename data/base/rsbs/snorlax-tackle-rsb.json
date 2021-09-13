@@ -1,0 +1,14 @@
+{
+  "id": "snorlax-tackle-rsb",
+  "pokemonID": "snorlax",
+  "hits": [
+    {
+      "base": 420,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 211,
+      "slider": 23
+    }
+  ],
+  "skillID": "snorlax-tackle"
+}

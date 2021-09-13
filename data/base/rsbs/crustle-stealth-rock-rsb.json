@@ -1,0 +1,14 @@
+{
+  "id": "crustle-stealth-rock-rsb",
+  "pokemonID": "crustle",
+  "hits": [
+    {
+      "base": 190,
+      "damageType": "Atk",
+      "label": "Damage (8 Ticks)",
+      "ratio": 21,
+      "slider": 8
+    }
+  ],
+  "skillID": "crustle-stealth-rock"
+}

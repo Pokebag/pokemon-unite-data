@@ -1,0 +1,14 @@
+{
+  "id": "machamp-submission-rsb",
+  "pokemonID": "machamp",
+  "hits": [
+    {
+      "base": 170,
+      "damageType": "Atk",
+      "label": "Damage (2x)",
+      "ratio": 91,
+      "slider": 4
+    }
+  ],
+  "skillID": "machamp-submission"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-peck-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 70,
+      "damageType": "Atk",
+      "label": "Damage (3x)",
+      "ratio": 38,
+      "slider": 2
+    }
+  ],
+  "skillID": "talonflame-peck"
+}

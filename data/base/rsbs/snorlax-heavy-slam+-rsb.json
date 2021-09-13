@@ -1,0 +1,14 @@
+{
+  "id": "snorlax-heavy-slam+-rsb",
+  "pokemonID": "snorlax",
+  "hits": [
+    {
+      "base": 520,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 262,
+      "slider": 21
+    }
+  ],
+  "skillID": "snorlax-heavy-slam+"
+}

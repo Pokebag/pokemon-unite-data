@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-leaf-tornado-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 280,
+      "damageType": "SpA",
+      "label": "Damage - First Hit",
+      "ratio": 125,
+      "slider": 7
+    }
+  ],
+  "skillID": "eldegoss-leaf-tornado"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gengar-lick-rsb",
+  "pokemonID": "gengar",
+  "hits": [
+    {
+      "base": 140,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 113,
+      "slider": 7
+    }
+  ],
+  "skillID": "gengar-lick"
+}

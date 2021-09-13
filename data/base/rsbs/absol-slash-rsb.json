@@ -1,0 +1,14 @@
+{
+  "id": "absol-slash-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 200,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 89,
+      "slider": 6
+    }
+  ],
+  "skillID": "absol-slash"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "charizard-flamethrower+-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 190,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 176,
+      "slider": 8
+    }
+  ],
+  "skillID": "charizard-flamethrower+"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pikachu-volt-tackle-rsb",
+  "pokemonID": "pikachu",
+  "hits": [
+    {
+      "base": 90,
+      "damageType": "SpA",
+      "label": "Damage (5x)",
+      "ratio": 9,
+      "slider": 2
+    }
+  ],
+  "skillID": "pikachu-volt-tackle"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "blissey-soft-boiled-rsb",
+  "pokemonID": "blissey",
+  "hits": [
+    {
+      "base": 250,
+      "damageType": "SpA",
+      "label": "Healing",
+      "ratio": 200,
+      "slider": 0
+    },
+    {
+      "base": 100,
+      "damageType": "SpA",
+      "label": "Healing - HoT (2x)",
+      "ratio": 80,
+      "slider": 0
+    }
+  ],
+  "skillID": "blissey-soft-boiled"
+}

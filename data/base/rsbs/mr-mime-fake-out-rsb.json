@@ -1,0 +1,14 @@
+{
+  "id": "mr-mime-fake-out-rsb",
+  "pokemonID": "mr-mime",
+  "hits": [
+    {
+      "base": 470,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 194,
+      "slider": 25
+    }
+  ],
+  "skillID": "mr-mime-fake-out"
+}

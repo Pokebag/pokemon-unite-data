@@ -1,0 +1,21 @@
+{
+  "id": "mr-mime-confusion+-rsb",
+  "pokemonID": "mr-mime",
+  "hits": [
+    {
+      "base": 510,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 213,
+      "slider": 23
+    },
+    {
+      "base": 612,
+      "damageType": "SpA",
+      "label": "Damage - Wall Hit",
+      "ratio": 255.6,
+      "slider": 27
+    }
+  ],
+  "skillID": "mr-mime-confusion+"
+}

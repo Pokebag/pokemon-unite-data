@@ -1,0 +1,14 @@
+{
+  "id": "alolan-ninetales-icy-wind-rsb",
+  "pokemonID": "alolan-ninetales",
+  "hits": [
+    {
+      "base": 240,
+      "damageType": "SpA",
+      "label": "Damage (x2)",
+      "ratio": 61,
+      "slider": 7
+    }
+  ],
+  "skillID": "alolan-ninetales-icy-wind"
+}

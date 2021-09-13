@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-flame-charge-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 340,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 106,
+      "slider": 14
+    }
+  ],
+  "skillID": "talonflame-flame-charge"
+}

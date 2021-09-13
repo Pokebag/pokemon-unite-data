@@ -1,0 +1,14 @@
+{
+  "id": "absol-feint-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 130,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 66,
+      "slider": 7
+    }
+  ],
+  "skillID": "absol-feint"
+}

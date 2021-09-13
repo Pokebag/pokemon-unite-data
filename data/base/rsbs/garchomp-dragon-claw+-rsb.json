@@ -1,0 +1,21 @@
+{
+  "id": "garchomp-dragon-claw+-rsb",
+  "pokemonID": "garchomp",
+  "hits": [
+    {
+      "base": 160,
+      "damageType": "Atk",
+      "label": "Damage - Initial",
+      "ratio": 96,
+      "slider": 6
+    },
+    {
+      "base": 193,
+      "damageType": "Atk",
+      "label": "Damage - Second Hit",
+      "ratio": 115,
+      "slider": 7
+    }
+  ],
+  "skillID": "garchomp-dragon-claw+"
+}

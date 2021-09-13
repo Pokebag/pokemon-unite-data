@@ -1,0 +1,14 @@
+{
+  "id": "blastoise-skull-bash-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 310,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 54,
+      "slider": 10
+    }
+  ],
+  "skillID": "blastoise-skull-bash"
+}

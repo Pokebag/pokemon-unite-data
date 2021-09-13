@@ -1,0 +1,28 @@
+{
+  "id": "absol-night-slash+-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 180,
+      "damageType": "Atk",
+      "label": "Damage - First Hit",
+      "ratio": 78,
+      "slider": 4
+    },
+    {
+      "base": 270,
+      "damageType": "Atk",
+      "label": "Damage - Second Hit",
+      "ratio": 117,
+      "slider": 6
+    },
+    {
+      "base": 95,
+      "damageType": "Atk",
+      "label": "Healing",
+      "ratio": 41.6,
+      "slider": 2
+    }
+  ],
+  "skillID": "absol-night-slash+"
+}

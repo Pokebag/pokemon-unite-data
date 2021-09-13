@@ -1,0 +1,14 @@
+{
+  "id": "wigglytuff-double-slap-rsb",
+  "pokemonID": "wigglytuff",
+  "hits": [
+    {
+      "base": 200,
+      "damageType": "SpA",
+      "label": "Damage - per Slap",
+      "ratio": 18,
+      "slider": 9
+    }
+  ],
+  "skillID": "wigglytuff-double-slap"
+}

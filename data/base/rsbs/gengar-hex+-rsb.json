@@ -1,0 +1,14 @@
+{
+  "id": "gengar-hex+-rsb",
+  "pokemonID": "gengar",
+  "hits": [
+    {
+      "base": 260,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 124,
+      "slider": 6
+    }
+  ],
+  "skillID": "gengar-hex+"
+}

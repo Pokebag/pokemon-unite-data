@@ -1,0 +1,14 @@
+{
+  "id": "absol-sucker-punch-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 165,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 105,
+      "slider": 6
+    }
+  ],
+  "skillID": "absol-sucker-punch"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cramorant-dive-rsb",
+  "pokemonID": "cramorant",
+  "hits": [
+    {
+      "base": 320,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 78,
+      "slider": 14
+    }
+  ],
+  "skillID": "cramorant-dive"
+}

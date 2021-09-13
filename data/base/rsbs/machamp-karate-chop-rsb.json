@@ -1,0 +1,14 @@
+{
+  "id": "machamp-karate-chop-rsb",
+  "pokemonID": "machamp",
+  "hits": [
+    {
+      "base": 270,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 205,
+      "slider": 15
+    }
+  ],
+  "skillID": "machamp-karate-chop"
+}

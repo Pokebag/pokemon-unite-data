@@ -1,0 +1,14 @@
+{
+  "id": "pikachu-electro-ball-rsb",
+  "pokemonID": "pikachu",
+  "hits": [
+    {
+      "base": 530,
+      "damageType": "SpA",
+      "label": "Damage - Area",
+      "ratio": 66,
+      "slider": 25
+    }
+  ],
+  "skillID": "pikachu-electro-ball"
+}

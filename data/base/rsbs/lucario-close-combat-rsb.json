@@ -1,0 +1,14 @@
+{
+  "id": "lucario-close-combat-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 60,
+      "damageType": "Atk",
+      "label": "Damage - per Hit",
+      "ratio": 52,
+      "slider": 1
+    }
+  ],
+  "skillID": "lucario-close-combat"
+}

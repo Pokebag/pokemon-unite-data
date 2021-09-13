@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-flame-sweep-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 600,
+      "damageType": "Atk",
+      "label": "Damage (2x)",
+      "ratio": 146,
+      "slider": 12
+    }
+  ],
+  "skillID": "talonflame-flame-sweep"
+}

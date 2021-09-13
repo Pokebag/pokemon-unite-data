@@ -1,0 +1,28 @@
+{
+  "id": "crustle-x-scissor-rsb",
+  "pokemonID": "crustle",
+  "hits": [
+    {
+      "base": 120,
+      "damageType": "Atk",
+      "label": "Damage - First Hit",
+      "ratio": 128,
+      "slider": 3
+    },
+    {
+      "base": 130,
+      "damageType": "Atk",
+      "label": "Damage - Second Hit",
+      "ratio": 158,
+      "slider": 3
+    },
+    {
+      "base": 140,
+      "damageType": "Atk",
+      "label": "Damage - Third Hit",
+      "ratio": 188,
+      "slider": 3
+    }
+  ],
+  "skillID": "crustle-x-scissor"
+}

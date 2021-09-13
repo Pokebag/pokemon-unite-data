@@ -1,0 +1,14 @@
+{
+  "id": "cinderace-blaze-kick-rsb",
+  "pokemonID": "cinderace",
+  "hits": [
+    {
+      "base": 150,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 64,
+      "slider": 6
+    }
+  ],
+  "skillID": "cinderace-blaze-kick"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "venusaur-seed-bomb-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 190,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 55,
+      "slider": 10
+    }
+  ],
+  "skillID": "venusaur-seed-bomb"
+}

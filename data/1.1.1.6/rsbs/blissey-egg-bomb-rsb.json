@@ -1,0 +1,14 @@
+{
+  "id": "blissey-egg-bomb-rsb",
+  "pokemonID": "blissey",
+  "hits": [
+    {
+      "base": 760,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 62,
+      "slider": 21
+    }
+  ],
+  "skillID": "blissey-egg-bomb"
+}

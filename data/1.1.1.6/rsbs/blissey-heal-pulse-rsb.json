@@ -1,0 +1,14 @@
+{
+  "id": "blissey-heal-pulse-rsb",
+  "pokemonID": "blissey",
+  "hits": [
+    {
+      "base": 60,
+      "damageType": "SpA",
+      "label": "Healing (4x)",
+      "ratio": 40,
+      "slider": 0
+    }
+  ],
+  "skillID": "blissey-heal-pulse"
+}

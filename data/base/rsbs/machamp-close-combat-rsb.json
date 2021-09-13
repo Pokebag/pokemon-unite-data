@@ -1,0 +1,21 @@
+{
+  "id": "machamp-close-combat-rsb",
+  "pokemonID": "machamp",
+  "hits": [
+    {
+      "base": 50,
+      "damageType": "Atk",
+      "label": "Damage - per Hit (4 hits)",
+      "ratio": 59,
+      "slider": 2
+    },
+    {
+      "base": 150,
+      "damageType": "Atk",
+      "label": "Damage - Final Hit",
+      "ratio": 177,
+      "slider": 6
+    }
+  ],
+  "skillID": "machamp-close-combat"
+}

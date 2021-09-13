@@ -1,0 +1,14 @@
+{
+  "id": "venusaur-razor-leaf-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 70,
+      "damageType": "SpA",
+      "label": "Damage (10x)",
+      "ratio": 17,
+      "slider": 2
+    }
+  ],
+  "skillID": "venusaur-razor-leaf"
+}

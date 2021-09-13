@@ -1,0 +1,21 @@
+{
+  "id": "gengar-dream-eater+-rsb",
+  "pokemonID": "gengar",
+  "hits": [
+    {
+      "base": 620,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 293,
+      "slider": 14
+    },
+    {
+      "base": 310,
+      "damageType": "SpA",
+      "label": "Healing",
+      "ratio": 52,
+      "slider": 5
+    }
+  ],
+  "skillID": "gengar-dream-eater+"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lucario-meteor-mash-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 200,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 200,
+      "slider": 10
+    }
+  ],
+  "skillID": "lucario-meteor-mash"
+}

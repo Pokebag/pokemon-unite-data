@@ -1,0 +1,21 @@
+{
+  "id": "slowbro-scald-rsb",
+  "pokemonID": "slowbro",
+  "hits": [
+    {
+      "base": 135,
+      "damageType": "SpA",
+      "label": "Damage - per Hit (3 Hits)",
+      "ratio": 72,
+      "slider": 6
+    },
+    {
+      "base": 27,
+      "damageType": "SpA",
+      "label": "Damage - Burn (5 Ticks)",
+      "ratio": 14.4,
+      "slider": 1
+    }
+  ],
+  "skillID": "slowbro-scald"
+}

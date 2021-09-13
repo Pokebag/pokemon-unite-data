@@ -1,0 +1,14 @@
+{
+  "id": "pikachu-thunder-rsb",
+  "pokemonID": "pikachu",
+  "hits": [
+    {
+      "base": 180,
+      "damageType": "SpA",
+      "label": "Damage - Area (5x)",
+      "ratio": 18,
+      "slider": 5
+    }
+  ],
+  "skillID": "pikachu-thunder"
+}

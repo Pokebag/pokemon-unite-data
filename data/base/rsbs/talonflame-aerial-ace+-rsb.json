@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-aerial-ace+-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 370,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 103,
+      "slider": 16
+    }
+  ],
+  "skillID": "talonflame-aerial-ace+"
+}

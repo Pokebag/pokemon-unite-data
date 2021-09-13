@@ -1,0 +1,14 @@
+{
+  "id": "lucario-power-up-punch-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 220,
+      "damageType": "Atk",
+      "label": "Damage - Fully Charged",
+      "ratio": 528,
+      "slider": 5
+    }
+  ],
+  "skillID": "lucario-power-up-punch"
+}

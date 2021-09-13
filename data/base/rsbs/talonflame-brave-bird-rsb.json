@@ -1,0 +1,14 @@
+{
+  "id": "talonflame-brave-bird-rsb",
+  "pokemonID": "talonflame",
+  "hits": [
+    {
+      "base": 600,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 230,
+      "slider": 12
+    }
+  ],
+  "skillID": "talonflame-brave-bird"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "charizard-seismic-slam-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 380,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 307,
+      "slider": 8
+    }
+  ],
+  "skillID": "charizard-seismic-slam"
+}

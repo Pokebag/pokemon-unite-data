@@ -1,0 +1,14 @@
+{
+  "id": "blastoise-rapid-spin-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 140,
+      "damageType": "SpA",
+      "label": "Damage (10 hits)",
+      "ratio": 21,
+      "slider": 3
+    }
+  ],
+  "skillID": "blastoise-rapid-spin"
+}

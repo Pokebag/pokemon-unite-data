@@ -1,0 +1,14 @@
+{
+  "id": "gengar-sludge-bomb-rsb",
+  "pokemonID": "gengar",
+  "hits": [
+    {
+      "base": 230,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 106,
+      "slider": 6
+    }
+  ],
+  "skillID": "gengar-sludge-bomb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "alolan-ninetales-avalanche-rsb",
+  "pokemonID": "alolan-ninetales",
+  "hits": [
+    {
+      "base": 190,
+      "damageType": "SpA",
+      "label": "Damage - Wind or Wall",
+      "ratio": 36,
+      "slider": 8
+    }
+  ],
+  "skillID": "alolan-ninetales-avalanche"
+}

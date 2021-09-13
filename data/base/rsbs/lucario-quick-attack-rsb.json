@@ -1,0 +1,14 @@
+{
+  "id": "lucario-quick-attack-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 240,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 221,
+      "slider": 11
+    }
+  ],
+  "skillID": "lucario-quick-attack"
+}

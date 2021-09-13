@@ -1,0 +1,21 @@
+{
+  "id": "wigglytuff-dazzling-gleam-rsb",
+  "pokemonID": "wigglytuff",
+  "hits": [
+    {
+      "base": 166,
+      "damageType": "SpA",
+      "label": "Damage - First Hit",
+      "ratio": 15,
+      "slider": 7
+    },
+    {
+      "base": 830,
+      "damageType": "SpA",
+      "label": "Damage - Second Hit",
+      "ratio": 75,
+      "slider": 38
+    }
+  ],
+  "skillID": "wigglytuff-dazzling-gleam"
+}

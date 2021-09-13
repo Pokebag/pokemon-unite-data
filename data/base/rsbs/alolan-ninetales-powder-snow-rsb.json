@@ -1,0 +1,14 @@
+{
+  "id": "alolan-ninetales-powder-snow-rsb",
+  "pokemonID": "alolan-ninetales",
+  "hits": [
+    {
+      "base": 240,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 78,
+      "slider": 13
+    }
+  ],
+  "skillID": "alolan-ninetales-powder-snow"
+}

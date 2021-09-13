@@ -1,0 +1,14 @@
+{
+  "id": "crustle-fury-cutter-rsb",
+  "pokemonID": "crustle",
+  "hits": [
+    {
+      "base": 290,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 117,
+      "slider": 15
+    }
+  ],
+  "skillID": "crustle-fury-cutter"
+}

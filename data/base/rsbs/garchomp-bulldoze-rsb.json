@@ -1,0 +1,14 @@
+{
+  "id": "garchomp-bulldoze-rsb",
+  "pokemonID": "garchomp",
+  "hits": [
+    {
+      "base": 240,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 145,
+      "slider": 13
+    }
+  ],
+  "skillID": "garchomp-bulldoze"
+}

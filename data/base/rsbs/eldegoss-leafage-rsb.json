@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-leafage-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 210,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 129,
+      "slider": 11
+    }
+  ],
+  "skillID": "eldegoss-leafage"
+}

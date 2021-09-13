@@ -1,0 +1,14 @@
+{
+  "id": "blastoise-hydro-pump+-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 400,
+      "damageType": "SpA",
+      "label": "Damage (3 Hits)",
+      "ratio": 63,
+      "slider": 10
+    }
+  ],
+  "skillID": "blastoise-hydro-pump+"
+}

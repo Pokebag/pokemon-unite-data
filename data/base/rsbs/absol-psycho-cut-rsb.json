@@ -1,0 +1,14 @@
+{
+  "id": "absol-psycho-cut-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 60,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 30.5,
+      "slider": 3
+    }
+  ],
+  "skillID": "absol-psycho-cut"
+}

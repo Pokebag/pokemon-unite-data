@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-cotton-guard-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 300,
+      "damageType": "SpA",
+      "label": "Shielding",
+      "ratio": 175,
+      "slider": 27
+    }
+  ],
+  "skillID": "eldegoss-cotton-guard"
+}

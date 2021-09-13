@@ -1,0 +1,14 @@
+{
+  "id": "zeraora-spark-rsb",
+  "pokemonID": "zeraora",
+  "hits": [
+    {
+      "base": 110,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 56,
+      "slider": 3
+    }
+  ],
+  "skillID": "zeraora-spark"
+}

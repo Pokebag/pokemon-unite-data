@@ -1,0 +1,14 @@
+{
+  "id": "charizard-flare-blitz-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 210,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 174,
+      "slider": 5
+    }
+  ],
+  "skillID": "charizard-flare-blitz"
+}

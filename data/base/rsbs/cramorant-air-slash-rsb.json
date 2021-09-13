@@ -1,0 +1,14 @@
+{
+  "id": "cramorant-air-slash-rsb",
+  "pokemonID": "cramorant",
+  "hits": [
+    {
+      "base": 150,
+      "damageType": "SpA",
+      "label": "Damage - per Blade (4 blades)",
+      "ratio": 35,
+      "slider": 6
+    }
+  ],
+  "skillID": "cramorant-air-slash"
+}

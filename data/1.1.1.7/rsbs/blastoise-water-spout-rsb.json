@@ -1,0 +1,21 @@
+{
+  "id": "blastoise-water-spout-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 120,
+      "damageType": "SpA",
+      "label": "Damage - Area (6 Hits)",
+      "ratio": 36,
+      "slider": 4
+    },
+    {
+      "base": 120,
+      "damageType": "SpA",
+      "label": "Damage - Area (8 Hits) During Rapid Spin",
+      "ratio": 36,
+      "slider": 4
+    }
+  ],
+  "skillID": "blastoise-water-spout"
+}

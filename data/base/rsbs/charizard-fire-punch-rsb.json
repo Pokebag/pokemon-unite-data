@@ -1,0 +1,21 @@
+{
+  "id": "charizard-fire-punch-rsb",
+  "pokemonID": "charizard",
+  "hits": [
+    {
+      "base": 240,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 224,
+      "slider": 10
+    },
+    {
+      "base": 0,
+      "damageType": "Atk",
+      "label": "Damage - Burn (5 Ticks)",
+      "ratio": 20,
+      "slider": 0
+    }
+  ],
+  "skillID": "charizard-fire-punch"
+}

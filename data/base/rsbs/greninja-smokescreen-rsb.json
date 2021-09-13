@@ -1,0 +1,14 @@
+{
+  "id": "greninja-smokescreen-rsb",
+  "pokemonID": "greninja",
+  "hits": [
+    {
+      "base": 1,
+      "damageType": "Atk",
+      "label": "Bonus Damage",
+      "ratio": 4.82,
+      "slider": 0
+    }
+  ],
+  "skillID": "greninja-smokescreen"
+}

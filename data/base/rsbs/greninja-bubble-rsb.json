@@ -1,0 +1,14 @@
+{
+  "id": "greninja-bubble-rsb",
+  "pokemonID": "greninja",
+  "hits": [
+    {
+      "base": 190,
+      "damageType": "Atk",
+      "label": "Damage - per Hit (2 Hits)",
+      "ratio": 103,
+      "slider": 6
+    }
+  ],
+  "skillID": "greninja-bubble"
+}

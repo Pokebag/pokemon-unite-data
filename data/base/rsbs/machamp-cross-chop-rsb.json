@@ -1,0 +1,14 @@
+{
+  "id": "machamp-cross-chop-rsb",
+  "pokemonID": "machamp",
+  "hits": [
+    {
+      "base": 290,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 98,
+      "slider": 13
+    }
+  ],
+  "skillID": "machamp-cross-chop"
+}

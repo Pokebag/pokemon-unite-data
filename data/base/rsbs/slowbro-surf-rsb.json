@@ -1,0 +1,14 @@
+{
+  "id": "slowbro-surf-rsb",
+  "pokemonID": "slowbro",
+  "hits": [
+    {
+      "base": 210,
+      "damageType": "SpA",
+      "label": "Damage - per Wave (3 Waves)",
+      "ratio": 103,
+      "slider": 6
+    }
+  ],
+  "skillID": "slowbro-surf"
+}

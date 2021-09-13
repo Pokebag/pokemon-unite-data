@@ -1,0 +1,14 @@
+{
+  "id": "absol-pursuit-rsb",
+  "pokemonID": "absol",
+  "hits": [
+    {
+      "base": 396,
+      "damageType": "Atk",
+      "label": "Damage - From The Back",
+      "ratio": 198,
+      "slider": 19
+    }
+  ],
+  "skillID": "absol-pursuit"
+}

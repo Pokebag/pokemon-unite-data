@@ -1,0 +1,21 @@
+{
+  "id": "crustle-rubble-rouser-rsb",
+  "pokemonID": "crustle",
+  "hits": [
+    {
+      "base": 270,
+      "damageType": "Atk",
+      "label": "Damage - Revenge",
+      "ratio": 120,
+      "slider": 10
+    },
+    {
+      "base": 90,
+      "damageType": "Atk",
+      "label": "Damage - Aura",
+      "ratio": 40,
+      "slider": 3.33
+    }
+  ],
+  "skillID": "crustle-rubble-rouser"
+}

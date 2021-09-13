@@ -1,0 +1,14 @@
+{
+  "id": "greninja-surf+-rsb",
+  "pokemonID": "greninja",
+  "hits": [
+    {
+      "base": 150,
+      "damageType": "Atk",
+      "label": "Healing",
+      "ratio": 54.24,
+      "slider": 6
+    }
+  ],
+  "skillID": "greninja-surf+"
+}

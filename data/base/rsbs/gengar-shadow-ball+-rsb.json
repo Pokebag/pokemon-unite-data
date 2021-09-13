@@ -1,0 +1,14 @@
+{
+  "id": "gengar-shadow-ball+-rsb",
+  "pokemonID": "gengar",
+  "hits": [
+    {
+      "base": 840,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 128,
+      "slider": 36
+    }
+  ],
+  "skillID": "gengar-shadow-ball+"
+}

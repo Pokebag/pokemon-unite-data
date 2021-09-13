@@ -1,0 +1,14 @@
+{
+  "id": "blastoise-surf-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 800,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 125,
+      "slider": 18
+    }
+  ],
+  "skillID": "blastoise-surf"
+}

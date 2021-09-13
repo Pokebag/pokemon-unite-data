@@ -1,0 +1,28 @@
+{
+  "id": "greninja-surf-rsb",
+  "pokemonID": "greninja",
+  "hits": [
+    {
+      "base": 410,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 226,
+      "slider": 9
+    },
+    {
+      "base": 205,
+      "damageType": "Atk",
+      "label": "Damage - Bonus",
+      "ratio": 113,
+      "slider": 5
+    },
+    {
+      "base": 82,
+      "damageType": "Atk",
+      "label": "Healing",
+      "ratio": 45.2,
+      "slider": 5
+    }
+  ],
+  "skillID": "greninja-surf"
+}

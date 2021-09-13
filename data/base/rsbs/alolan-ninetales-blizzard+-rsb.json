@@ -1,0 +1,28 @@
+{
+  "id": "alolan-ninetales-blizzard+-rsb",
+  "pokemonID": "alolan-ninetales",
+  "hits": [
+    {
+      "base": 300,
+      "damageType": "SpA",
+      "label": "Damage - Initial Blast",
+      "ratio": 40,
+      "slider": 8
+    },
+    {
+      "base": 360,
+      "damageType": "SpA",
+      "label": "Damage - Second Hit",
+      "ratio": 48,
+      "slider": 9
+    },
+    {
+      "base": 420,
+      "damageType": "SpA",
+      "label": "Damage - Obstacle Impact",
+      "ratio": 56,
+      "slider": 9
+    }
+  ],
+  "skillID": "alolan-ninetales-blizzard+"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cinderace-flame-charge-rsb",
+  "pokemonID": "cinderace",
+  "hits": [
+    {
+      "base": 130,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 47,
+      "slider": 3
+    }
+  ],
+  "skillID": "cinderace-flame-charge"
+}

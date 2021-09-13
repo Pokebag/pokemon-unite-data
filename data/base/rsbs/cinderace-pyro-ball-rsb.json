@@ -1,0 +1,14 @@
+{
+  "id": "cinderace-pyro-ball-rsb",
+  "pokemonID": "cinderace",
+  "hits": [
+    {
+      "base": 475,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 200,
+      "slider": 18
+    }
+  ],
+  "skillID": "cinderace-pyro-ball"
+}

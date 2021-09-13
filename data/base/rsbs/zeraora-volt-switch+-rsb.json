@@ -1,0 +1,14 @@
+{
+  "id": "zeraora-volt-switch+-rsb",
+  "pokemonID": "zeraora",
+  "hits": [
+    {
+      "base": 220,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 71,
+      "slider": 5
+    }
+  ],
+  "skillID": "zeraora-volt-switch+"
+}

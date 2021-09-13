@@ -1,0 +1,14 @@
+{
+  "id": "eldegoss-pollen-puff+-rsb",
+  "pokemonID": "eldegoss",
+  "hits": [
+    {
+      "base": 18,
+      "damageType": "SpA",
+      "label": "Damage - Dot (every .5s, up to 5 times)",
+      "ratio": 9,
+      "slider": 1
+    }
+  ],
+  "skillID": "eldegoss-pollen-puff+"
+}

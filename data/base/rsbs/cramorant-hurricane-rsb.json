@@ -1,0 +1,14 @@
+{
+  "id": "cramorant-hurricane-rsb",
+  "pokemonID": "cramorant",
+  "hits": [
+    {
+      "base": 540,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 103,
+      "slider": 10
+    }
+  ],
+  "skillID": "cramorant-hurricane"
+}

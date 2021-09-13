@@ -1,0 +1,14 @@
+{
+  "id": "garchomp-dig-rsb",
+  "pokemonID": "garchomp",
+  "hits": [
+    {
+      "base": 220,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 116,
+      "slider": 5
+    }
+  ],
+  "skillID": "garchomp-dig"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lucario-bone-rush-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 50,
+      "damageType": "Atk",
+      "label": "Damage - per Hit",
+      "ratio": 41,
+      "slider": 1
+    }
+  ],
+  "skillID": "lucario-bone-rush"
+}

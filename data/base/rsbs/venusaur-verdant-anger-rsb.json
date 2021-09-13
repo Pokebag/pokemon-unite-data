@@ -1,0 +1,21 @@
+{
+  "id": "venusaur-verdant-anger-rsb",
+  "pokemonID": "venusaur",
+  "hits": [
+    {
+      "base": 1080,
+      "damageType": "SpA",
+      "label": "Damage - Initial",
+      "ratio": 131,
+      "slider": 23
+    },
+    {
+      "base": 540,
+      "damageType": "SpA",
+      "label": "Damage - Secondary",
+      "ratio": 65.5,
+      "slider": 12
+    }
+  ],
+  "skillID": "venusaur-verdant-anger"
+}

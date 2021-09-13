@@ -1,0 +1,21 @@
+{
+  "id": "lucario-extreme-speed-rsb",
+  "pokemonID": "lucario",
+  "hits": [
+    {
+      "base": 280,
+      "damageType": "Atk",
+      "label": "Damage",
+      "ratio": 225,
+      "slider": 6
+    },
+    {
+      "base": 56,
+      "damageType": "Atk",
+      "label": "Healing",
+      "ratio": 45,
+      "slider": 1
+    }
+  ],
+  "skillID": "lucario-extreme-speed"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blastoise-water-gun-rsb",
+  "pokemonID": "blastoise",
+  "hits": [
+    {
+      "base": 510,
+      "damageType": "SpA",
+      "label": "Damage",
+      "ratio": 88,
+      "slider": 16
+    }
+  ],
+  "skillID": "blastoise-water-gun"
+}

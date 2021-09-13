@@ -1,0 +1,35 @@
+{
+  "id": "slowbro-water-gun-rsb",
+  "pokemonID": "slowbro",
+  "hits": [
+    {
+      "base": 210,
+      "damageType": "SpA",
+      "label": "Damage - Uncharged",
+      "ratio": 132,
+      "slider": 11
+    },
+    {
+      "base": 280,
+      "damageType": "SpA",
+      "label": "Damage - Low Charge",
+      "ratio": 176,
+      "slider": 15
+    },
+    {
+      "base": 350,
+      "damageType": "SpA",
+      "label": "Damage - Mid Charge",
+      "ratio": 220,
+      "slider": 19
+    },
+    {
+      "base": 420,
+      "damageType": "SpA",
+      "label": "Damage - High Charge",
+      "ratio": 264,
+      "slider": 23
+    }
+  ],
+  "skillID": "slowbro-water-gun"
+}

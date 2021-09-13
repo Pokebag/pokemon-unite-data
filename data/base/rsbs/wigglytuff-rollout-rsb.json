@@ -1,0 +1,14 @@
+{
+  "id": "wigglytuff-rollout-rsb",
+  "pokemonID": "wigglytuff",
+  "hits": [
+    {
+      "base": 590,
+      "damageType": "SpA",
+      "label": "Damage - per Hit",
+      "ratio": 47,
+      "slider": 14
+    }
+  ],
+  "skillID": "wigglytuff-rollout"
+}
