@@ -1,13 +1,16 @@
 {
   "type": 2,
-  "displayName": "Thunderbolt",
-  "id": "pikachu-thunderbolt",
-  "requires": [
-    "pokemon.hasSkill('pikachu-electro-web')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "pikachu",
+  "upgradeIDs": [
+    "pikachu-thunderbolt+"
   ],
   "slot": 3,
+  "parentID": "pikachu-electro-web",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Thunderbolt",
+  "id": "pikachu-thunderbolt",
+  "level": "6",
   "cooldown": 8,
-  "description": "Attack with a strong electric blast, dealing damage to enemies in the area of effect and leaving them unable to act.",
-  "pokemonID": "pikachu"
+  "description": "Attack with a strong electric blast, dealing damage to enemies in the area of effect and leaving them unable to act."
 }

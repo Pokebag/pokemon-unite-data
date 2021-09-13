@@ -1,10 +1,17 @@
 {
   "type": 0,
   "description": "Has the user lunge forward at a speed that makes it almost invisible, dealing damage to enemies it comes in contact with.",
+  "pokemonID": "lucario",
+  "upgradeIDs": [
+    "lucario-extreme-speed",
+    "lucario-power-up-punch"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Quick Attack",
   "id": "lucario-quick-attack",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "lucario"
+  "level": 1,
+  "cooldown": 6
 }

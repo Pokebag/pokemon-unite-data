@@ -1,10 +1,17 @@
 {
-  "type": 2,
+  "type": 6,
   "description": "Has the user fall asleep on the spot and restores its HP. Blocks the movement of all enemies while this move is in effect.",
+  "pokemonID": "snorlax",
+  "upgradeIDs": [
+    "snorlax-block",
+    "snorlax-yawn"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Rest",
   "id": "snorlax-rest",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 10,
-  "pokemonID": "snorlax"
+  "level": 1,
+  "cooldown": 10
 }

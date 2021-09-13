@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Shoot multiple sinister flames, dealing damage to enemies and leaving them burned when it hits.",
+  "pokemonID": "gengar",
+  "upgradeIDs": [
+    "gengar-shadow-ball",
+    "gengar-sludge-bomb"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Will-o-Wisp",
   "id": "gengar-will-o-wisp",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 5,
-  "pokemonID": "gengar"
+  "level": 1,
+  "cooldown": 5
 }

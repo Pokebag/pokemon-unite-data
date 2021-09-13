@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 6,
   "displayName": "Confusion+",
   "description": "Attacks straight in front of the user, dealing damage to enemies and shoving them. If an enemy shoved by this move hits an obstacle, it receives increased damage from this move and is left unable to act for a short time. If the enemy is currently guard-swapped, it is not shoved but receives increased damage from this move and is left unable to act for a short time.\n\nIncreased damage.",
   "id": "mr-mime-confusion+",
-  "requires": [
-    "pokemon.hasSkill('mr-mime-fake-out')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "mr-mime-confusion",
+  "pokemonID": "mr-mime",
   "slot": 2,
+  "tier": 2,
   "type": 4,
-  "pokemonID": "mr-mime"
+  "upgradeIDs": []
 }

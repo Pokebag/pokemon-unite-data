@@ -1,12 +1,14 @@
 {
   "type": 5,
+  "level": 8,
   "description": "Begin performing a recital, granting the user and nearby allies a shield as well as removing all status conditions from the affected allies and make them immune to hindrances for a short time.",
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Starlight Recital",
   "id": "wigglytuff-starlight-recital",
-  "requires": [
-    "pokemon.lvl >= 8"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "wigglytuff"
+  "cooldown": 1
 }

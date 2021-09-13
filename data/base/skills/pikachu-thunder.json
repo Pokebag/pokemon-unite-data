@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Thunder",
-  "id": "pikachu-thunder",
-  "requires": [
-    "pokemon.hasSkill('pikachu-thunder-shock')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "pikachu",
+  "upgradeIDs": [
+    "pikachu-thunder+"
   ],
   "slot": 2,
+  "parentID": "pikachu-thunder-shock",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Thunder",
+  "id": "pikachu-thunder",
+  "level": "4",
   "cooldown": 8,
-  "description": "Drop wicked thunderbolts, dealing damage to enemies in the area of effect.",
-  "pokemonID": "pikachu"
+  "description": "Drop wicked thunderbolts, dealing damage to enemies in the area of effect."
 }

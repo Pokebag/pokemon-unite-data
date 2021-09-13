@@ -1,10 +1,17 @@
 {
   "type": 2,
   "description": "Create a wall of light in the designated area that prevents enemies from passing.",
+  "pokemonID": "mr-mime",
+  "upgradeIDs": [
+    "mr-mime-barrier",
+    "mr-mime-guard-swap"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Light Screen",
   "id": "mr-mime-light-screen",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "mr-mime"
+  "level": 1,
+  "cooldown": 8
 }

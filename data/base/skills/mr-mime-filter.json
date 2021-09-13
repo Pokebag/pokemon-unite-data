@@ -1,8 +1,12 @@
 {
   "description": "Reduced damage received for a short time after using a move.",
+  "pokemonID": "mr-mime",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Filter",
   "id": "mr-mime-filter",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "mr-mime"
+  "level": 1
 }

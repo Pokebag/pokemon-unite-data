@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Slash with sharp claws in front of the user, increasing this move's critical-hit rate.",
+  "pokemonID": "absol",
+  "upgradeIDs": [
+    "absol-psycho-cut",
+    "absol-sucker-punch"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Slash",
   "id": "absol-slash",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 6,
-  "pokemonID": "absol"
+  "level": 1,
+  "cooldown": 6
 }

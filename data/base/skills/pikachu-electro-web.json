@@ -1,10 +1,17 @@
 {
   "type": 2,
   "description": "Attacks and captures enemies using an electric net, leaving them unable to move.",
+  "pokemonID": "pikachu",
+  "upgradeIDs": [
+    "pikachu-volt-tackle",
+    "pikachu-thunderbolt"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Electro Web",
   "id": "pikachu-electro-web",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 9,
-  "pokemonID": "pikachu"
+  "level": 1,
+  "cooldown": 9
 }

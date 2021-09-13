@@ -1,8 +1,12 @@
 {
   "description": "Gain an electric charge when receiving damage, converting a portion of that damage into additional Attack.",
+  "pokemonID": "zeraora",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Volt Absorb",
   "id": "zeraora-volt-absorb",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "zeraora"
+  "level": 1
 }

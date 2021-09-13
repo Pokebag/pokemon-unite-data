@@ -1,13 +1,16 @@
 {
   "type": 2,
-  "displayName": "Barrier",
-  "id": "mr-mime-barrier",
-  "requires": [
-    "pokemon.hasSkill('mr-mime-light-screen')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "mr-mime",
+  "upgradeIDs": [
+    "mr-mime-barrier+"
   ],
   "slot": 3,
-  "cooldown": 2,
-  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move.",
-  "pokemonID": "mr-mime"
+  "parentID": "mr-mime-light-screen",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Barrier",
+  "id": "mr-mime-barrier",
+  "level": "6",
+  "cooldown": 8,
+  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move and cannot be used more than once every 2s."
 }

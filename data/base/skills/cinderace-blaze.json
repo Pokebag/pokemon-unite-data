@@ -1,8 +1,12 @@
 {
   "description": "When using a move, the next basic attack becomes a boosted attack. When hitting an enemy with a basic attack or move, a cinder is placed on that enemy. Attacking a cindered enemy a certain number of times will cause the cinder to flare, dealing damage to the enemy. When at half HP or less, critical-hit rate and basic attack speed are increased for a short time.",
+  "pokemonID": "cinderace",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Blaze",
   "id": "cinderace-blaze",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "cinderace"
+  "level": 1
 }

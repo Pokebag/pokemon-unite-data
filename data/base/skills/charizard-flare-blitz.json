@@ -1,13 +1,16 @@
 {
   "type": 0,
-  "displayName": "Flare Blitz",
-  "id": "charizard-flare-blitz",
-  "requires": [
-    "pokemon.hasSkill('charizard-fire-spin')",
-    "pokemon.lvl >= 7"
+  "pokemonID": "charizard",
+  "upgradeIDs": [
+    "charizard-flare-blitz+"
   ],
   "slot": 3,
+  "parentID": "charizard-fire-spin",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Flare Blitz",
+  "id": "charizard-flare-blitz",
+  "level": "7",
   "cooldown": 10,
-  "description": "Charge forward cloaked in fire, granting the user a shield and throwing enemies hit.",
-  "pokemonID": "charizard"
+  "description": "Charge forward cloaked in fire, granting the user a shield and throwing enemies hit."
 }

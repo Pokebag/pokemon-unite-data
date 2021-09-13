@@ -1,13 +1,16 @@
 {
   "type": 2,
-  "displayName": "Submission",
-  "id": "machamp-submission",
-  "requires": [
-    "pokemon.hasSkill('machamp-bulk-up')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "machamp",
+  "upgradeIDs": [
+    "machamp-submission+"
   ],
   "slot": 3,
+  "parentID": "machamp-bulk-up",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Submission",
+  "id": "machamp-submission",
+  "level": "5",
   "cooldown": 11,
-  "description": "Increases movement speed and become immune to hindrances. When the next basic attack hits, the attack deals increased damage and slams the enemy onto the ground, leaving it unable to act. Once this move ends, the user's critical-hit rate and basic attack speed are increased for a short time.",
-  "pokemonID": "machamp"
+  "description": "Increases movement speed and become immune to hindrances. When the next basic attack hits, the attack deals increased damage and slams the enemy onto the ground, leaving it unable to act. Once this move ends, the user's critical-hit rate and basic attack speed are increased for a short time."
 }

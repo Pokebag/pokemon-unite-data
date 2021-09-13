@@ -1,8 +1,12 @@
 {
   "description": "While at low HP, gain a shield and increased movement speed.",
+  "pokemonID": "lucario",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Steadfast",
   "id": "lucario-steadfast",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "lucario"
+  "level": 1
 }

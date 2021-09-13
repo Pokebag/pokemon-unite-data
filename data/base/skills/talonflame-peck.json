@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Fly toward an enemy and attack 3 times.",
+  "pokemonID": "talonflame",
+  "upgradeIDs": [
+    "talonflame-flame-charge",
+    "talonflame-aerial-ace"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Peck",
   "id": "talonflame-peck",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 5,
-  "pokemonID": "talonflame"
+  "level": 1,
+  "cooldown": 5
 }

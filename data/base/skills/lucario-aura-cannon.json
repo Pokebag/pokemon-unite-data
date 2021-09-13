@@ -1,12 +1,14 @@
 {
   "type": 4,
+  "level": 9,
   "description": "Deals damage to enemies in the area of effect. Increases the damage dealt by the user's next Power-Up Punch after using this move.",
+  "pokemonID": "lucario",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Aura Cannon",
   "id": "lucario-aura-cannon",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "lucario"
+  "cooldown": 1
 }

@@ -1,13 +1,16 @@
 {
   "type": 1,
-  "displayName": "Double Slap",
-  "id": "wigglytuff-double-slap",
-  "requires": [
-    "pokemon.hasSkill('wigglytuff-pound')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [
+    "wigglytuff-double-slap+"
   ],
   "slot": 2,
+  "parentID": "wigglytuff-pound",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Double Slap",
+  "id": "wigglytuff-double-slap",
+  "level": "6",
   "cooldown": 5,
-  "description": "Perform a combo attack in front, dealing damage to enemies and decreasing their movement speed for a short time when the attack hits.",
-  "pokemonID": "wigglytuff"
+  "description": "Perform a combo attack in front, dealing damage to enemies and decreasing their movement speed for a short time when the attack hits."
 }

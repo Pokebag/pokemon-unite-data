@@ -1,10 +1,17 @@
 {
   "type": 0,
   "description": "Fly toward the designated area and attack multiple times. Escape in a direction of your choice after using this move.",
+  "pokemonID": "talonflame",
+  "upgradeIDs": [
+    "talonflame-fly",
+    "talonflame-brave-bird"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Acrobatics",
   "id": "talonflame-acrobatics",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "talonflame"
+  "level": 1,
+  "cooldown": 8
 }

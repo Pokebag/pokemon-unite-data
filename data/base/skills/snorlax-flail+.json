@@ -1,13 +1,14 @@
 {
+  "choice": 1,
   "cooldown": 6.5,
   "displayName": "Flail+",
   "description": "Has the user flail about, increasing the user's basic attack damage the lower the user's HP is.\n\nIncreased damage. If the user has low HP while using this move, its basic attacks that hit enemies will restore the user's HP.",
   "id": "snorlax-flail+",
-  "requires": [
-    "pokemon.hasSkill('snorlax-tackle')",
-    "pokemon.lvl >= 12"
-  ],
+  "level": 12,
+  "parentID": "snorlax-flail",
+  "pokemonID": "snorlax",
   "slot": 2,
-  "type": 2,
-  "pokemonID": "snorlax"
+  "tier": 2,
+  "type": 5,
+  "upgradeIDs": []
 }

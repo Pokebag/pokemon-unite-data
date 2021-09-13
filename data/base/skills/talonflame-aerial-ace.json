@@ -1,13 +1,16 @@
 {
   "type": 0,
-  "displayName": "Aerial Ace",
-  "id": "talonflame-aerial-ace",
-  "requires": [
-    "pokemon.hasSkill('talonflame-peck')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "talonflame",
+  "upgradeIDs": [
+    "talonflame-aerial-ace+"
   ],
   "slot": 2,
+  "parentID": "talonflame-peck",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Aerial Ace",
+  "id": "talonflame-aerial-ace",
+  "level": "5",
   "cooldown": 6,
-  "description": "Fly at the designated enemy, dealing damage. Also makes the next basic attack a boosted attack.",
-  "pokemonID": "talonflame"
+  "description": "Fly at the designated enemy, dealing damage. Also makes the next basic attack a boosted attack."
 }

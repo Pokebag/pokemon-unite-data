@@ -1,13 +1,16 @@
 {
   "type": 0,
-  "displayName": "Night Slash",
-  "id": "absol-night-slash",
-  "requires": [
-    "pokemon.hasSkill('absol-feint')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "absol",
+  "upgradeIDs": [
+    "absol-night-slash+"
   ],
   "slot": 2,
+  "parentID": "absol-feint",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Night Slash",
+  "id": "absol-night-slash",
+  "level": "5",
   "cooldown": 5,
-  "description": "Dash in an outward arc, dealing damage to enemies. If this first attack hits, a second attack can also be performed. The second attack has the user dash straight ahead, dealing damage to enemies and increasing the user's critical-hit rate. The lower the enemies HP, the more the user's critical-hit rate is increased.",
-  "pokemonID": "absol"
+  "description": "Dash in an outward arc, dealing damage to enemies. If this first attack hits, a second attack can also be performed. The second attack has the user dash straight ahead, dealing damage to enemies and increasing the user's critical-hit rate. The lower the enemies HP, the more the user's critical-hit rate is increased."
 }

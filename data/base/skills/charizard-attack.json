@@ -1,8 +1,12 @@
 {
   "description": "Deals continual damage. Deals increased damage to enemies that are burned and increases range when the user evolves.",
+  "pokemonID": "charizard",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "charizard-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "charizard"
+  "level": 1
 }

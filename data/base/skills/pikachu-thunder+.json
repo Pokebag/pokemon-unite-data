@@ -1,13 +1,14 @@
 {
+  "choice": 1,
   "cooldown": 8,
   "displayName": "Thunder+",
   "description": "Drop wicked thunderbolts, dealing damage to enemies in the area of effect.\n\nIncreases the number of times this move attacks.",
   "id": "pikachu-thunder+",
-  "requires": [
-    "pokemon.hasSkill('pikachu-thunder-shock')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "pikachu-thunder",
+  "pokemonID": "pikachu",
   "slot": 2,
+  "tier": 2,
   "type": 3,
-  "pokemonID": "pikachu"
+  "upgradeIDs": []
 }

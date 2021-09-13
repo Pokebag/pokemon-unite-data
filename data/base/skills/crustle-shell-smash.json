@@ -1,13 +1,16 @@
 {
   "type": 5,
-  "displayName": "Shell Smash",
-  "id": "crustle-shell-smash",
-  "requires": [
-    "pokemon.hasSkill('crustle-rock-slide')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "crustle",
+  "upgradeIDs": [
+    "crustle-shell-smash+"
   ],
   "slot": 2,
+  "parentID": "crustle-rock-slide",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Shell Smash",
+  "id": "crustle-shell-smash",
+  "level": "4",
   "cooldown": 7,
-  "description": "Convert a set percentage of Defense and Sp. Defense into Attack and Sp. Attack and increase movement speed for a short time.",
-  "pokemonID": "crustle"
+  "description": "Convert a set percentage of Defense and Sp. Defense into Attack and Sp. Attack and increase movement speed for a short time."
 }

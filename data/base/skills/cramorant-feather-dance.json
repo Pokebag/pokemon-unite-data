@@ -1,10 +1,17 @@
 {
   "type": 2,
   "description": "Decreases the Attack and movement speed of enemies for a short time.",
+  "pokemonID": "cramorant",
+  "upgradeIDs": [
+    "cramorant-hurricane",
+    "cramorant-air-slash"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Feather Dance",
   "id": "cramorant-feather-dance",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "cramorant"
+  "level": 1,
+  "cooldown": 8
 }

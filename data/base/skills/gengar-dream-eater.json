@@ -1,13 +1,16 @@
 {
   "type": 4,
-  "displayName": "Dream Eater",
-  "id": "gengar-dream-eater",
-  "requires": [
-    "pokemon.hasSkill('gengar-lick')",
-    "pokemon.lvl >= 7"
+  "pokemonID": "gengar",
+  "upgradeIDs": [
+    "gengar-dream-eater+"
   ],
   "slot": 3,
+  "parentID": "gengar-lick",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Dream Eater",
+  "id": "gengar-dream-eater",
+  "level": "7",
   "cooldown": 8,
-  "description": "Puts enemies to sleep when it hits. If used again while a nearby enemy is asleep, the user appears behind the target and attacks, restoring HP and reducing the cooldown of Shadow Ball or Sludge Bomb.",
-  "pokemonID": "gengar"
+  "description": "Puts enemies to sleep when it hits. If used again while a nearby enemy is asleep, the user appears behind the target and attacks, restoring HP and reducing the cooldown of Shadow Ball or Sludge Bomb."
 }

@@ -1,13 +1,16 @@
 {
   "type": 1,
-  "displayName": "Dragon Claw",
-  "id": "garchomp-dragon-claw",
-  "requires": [
-    "pokemon.hasSkill('garchomp-bulldoze')",
-    "pokemon.lvl >= 8"
+  "pokemonID": "garchomp",
+  "upgradeIDs": [
+    "garchomp-dragon-claw+"
   ],
   "slot": 3,
+  "parentID": "garchomp-bulldoze",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Dragon Claw",
+  "id": "garchomp-dragon-claw",
+  "level": "8",
   "cooldown": 5,
-  "description": "Attack twice in front of itself using its claws. The first attack deals damage to enemies and throws them. The second attack deals increased damage. After the move ends, basic attack speed is increased for a short time.",
-  "pokemonID": "garchomp"
+  "description": "Attack twice in front of itself using its claws. The first attack deals damage to enemies and throws them. The second attack deals increased damage. After the move ends, basic attack speed is increased for a short time."
 }

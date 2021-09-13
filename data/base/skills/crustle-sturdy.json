@@ -1,8 +1,12 @@
 {
-  "description": "When losing a certain amount of HP, Defense and Sp. Defense are increased. (Stacks up to 10 times based on remaining HP).",
+  "description": "Gains a stacking Def/SpDef buff for every 7% HP missing. Stacks up to 10 times.",
+  "pokemonID": "crustle",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Sturdy",
   "id": "crustle-sturdy",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "crustle"
+  "level": 1
 }

@@ -1,8 +1,12 @@
 {
   "description": "When hit by an enemies attack at close range, make that enemy infatuated for a short time. Infatuated enemies become enthralled and approach Wigglytuff against their will. The effects of this ability have a cooldown and cannot trigger on the same enemy in quick succession.",
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Cute Charm",
   "id": "wigglytuff-cute-charm",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "wigglytuff"
+  "level": 1
 }

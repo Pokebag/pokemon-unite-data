@@ -1,13 +1,16 @@
 {
   "type": 4,
-  "displayName": "Flamethrower",
-  "id": "charizard-flamethrower",
-  "requires": [
-    "pokemon.hasSkill('charizard-flame-burst')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "charizard",
+  "upgradeIDs": [
+    "charizard-flamethrower+"
   ],
   "slot": 2,
+  "parentID": "charizard-flame-burst",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Flamethrower",
+  "id": "charizard-flamethrower",
+  "level": "5",
   "cooldown": 5.5,
-  "description": "Attack with an intense blast of fire. When this move hits, it leaves enemies burned and increases the user's movement speed for a short time.",
-  "pokemonID": "charizard"
+  "description": "Attack with an intense blast of fire. When this move hits, it leaves enemies burned and increases the user's movement speed for a short time."
 }

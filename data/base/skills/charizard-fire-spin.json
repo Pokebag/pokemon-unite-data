@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Encircles enemies in the area of effect in a vortex of fire. After this move hits, it deals damage over time and decreases the movement speed of enemies for a short time.",
+  "pokemonID": "charizard",
+  "upgradeIDs": [
+    "charizard-fire-blast",
+    "charizard-flare-blitz"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Fire Spin",
   "id": "charizard-fire-spin",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 10,
-  "pokemonID": "charizard"
+  "level": 1,
+  "cooldown": 10
 }

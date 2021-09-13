@@ -1,8 +1,12 @@
 {
   "description": "Causes snow to fall on an enemy, dealing damage to it and decreasing their movement speed for a short time. Boosted attacks and moves (except Aurora Veil) sling snow, and hitting the same target with snow multiple times will freeze it for a short time.",
+  "pokemonID": "alolan-ninetales",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Snow Warning",
   "id": "alolan-ninetales-snow-warning",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "alolan-ninetales"
+  "level": 1
 }

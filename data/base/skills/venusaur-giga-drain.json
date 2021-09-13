@@ -1,13 +1,16 @@
 {
   "type": 6,
-  "displayName": "Giga Drain",
-  "id": "venusaur-giga-drain",
-  "requires": [
-    "pokemon.hasSkill('venusaur-seed-bomb')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "venusaur",
+  "upgradeIDs": [
+    "venusaur-giga-drain+"
   ],
   "slot": 2,
+  "parentID": "venusaur-seed-bomb",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Giga Drain",
+  "id": "venusaur-giga-drain",
+  "level": "5",
   "cooldown": 7,
-  "description": "Drain HP from enemies in the area of effect, dealing damage to them and restoring HP when this hits. Also reduces damage received for a short time.",
-  "pokemonID": "venusaur"
+  "description": "Drain HP from enemies in the area of effect, dealing damage to them and restoring HP when this hits. Also reduces damage received for a short time."
 }

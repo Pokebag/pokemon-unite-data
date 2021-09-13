@@ -1,13 +1,16 @@
 {
-  "type": 1,
-  "displayName": "Surf",
-  "id": "greninja-surf",
-  "requires": [
-    "pokemon.hasSkill('greninja-bubble')",
-    "pokemon.lvl >= 7"
+  "type": 0,
+  "pokemonID": "greninja",
+  "upgradeIDs": [
+    "greninja-surf+"
   ],
   "slot": 2,
+  "parentID": "greninja-bubble",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Surf",
+  "id": "greninja-surf",
+  "level": "7",
   "cooldown": 9,
-  "description": "Ride a wave, dealing damage to enemies and restoring the user's HP. If this move knocks out an enemy, its cooldown is reset. In addition, this move deals increased damage to enemies with low HP.",
-  "pokemonID": "greninja"
+  "description": "Ride a wave, dealing damage to enemies and restoring the user's HP. If this move knocks out an enemy, its cooldown is reset. In addition, this move deals increased damage to enemies with low HP."
 }

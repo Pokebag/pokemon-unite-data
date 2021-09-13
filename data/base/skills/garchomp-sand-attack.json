@@ -1,10 +1,17 @@
 {
   "type": 5,
   "description": "Hurls sand, narrowing the field of vision of enemies and decreases their movement speed for a short time. Also increases movement speed and basic attack speed.",
+  "pokemonID": "garchomp",
+  "upgradeIDs": [
+    "garchomp-dig",
+    "garchomp-dragon-rush"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Sand Attack",
   "id": "garchomp-sand-attack",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "garchomp"
+  "level": 1,
+  "cooldown": 6
 }

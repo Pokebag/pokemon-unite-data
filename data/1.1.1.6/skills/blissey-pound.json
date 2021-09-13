@@ -1,5 +1,5 @@
 {
-  "type": 4,
+  "type": 1,
   "description": "Has the user attack by pounding in the designated direction, dealing damage to enemies in the area of effect and decreasing their movement speed for a short time when it hits.",
   "pokemonID": "blissey",
   "upgradeIDs": [

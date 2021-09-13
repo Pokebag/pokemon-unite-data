@@ -1,13 +1,16 @@
 {
   "type": 4,
-  "displayName": "Pyro Ball",
-  "id": "cinderace-pyro-ball",
-  "requires": [
-    "pokemon.hasSkill('cinderace-ember')",
-    "pokemon.lvl >= 7"
+  "pokemonID": "cinderace",
+  "upgradeIDs": [
+    "cinderace-pyro-ball+"
   ],
   "slot": 2,
+  "parentID": "cinderace-ember",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Pyro Ball",
+  "id": "cinderace-pyro-ball",
+  "level": "7",
   "cooldown": 7,
-  "description": "Kick a ball of flame in the designated direction, dealing damage to enemies and leaving them burned for a short time when this move hits.",
-  "pokemonID": "cinderace"
+  "description": "Kick a ball of flame in the designated direction, dealing damage to enemies and leaving them burned for a short time when this move hits."
 }

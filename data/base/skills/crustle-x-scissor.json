@@ -1,13 +1,16 @@
 {
   "type": 1,
-  "displayName": "X-Scissor",
-  "id": "crustle-x-scissor",
-  "requires": [
-    "pokemon.hasSkill('crustle-fury-cutter')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "crustle",
+  "upgradeIDs": [
+    "crustle-x-scissor+"
   ],
   "slot": 3,
+  "parentID": "crustle-fury-cutter",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "X-Scissor",
+  "id": "crustle-x-scissor",
+  "level": "6",
   "cooldown": 9,
-  "description": "Dash forward with crossed claws, dealing damage to enemies multiple times and shoving them. Leaves enemies unable to act if they hit an object when shoved.",
-  "pokemonID": "crustle"
+  "description": "Dash forward with crossed claws, dealing damage to enemies multiple times and shoving them. Leaves enemies unable to act if they hit an object when shoved."
 }

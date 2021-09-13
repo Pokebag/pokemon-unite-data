@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Slashes enemies with claws, dealing damage to them. Hitting the same enemy multiple times in succession with this move increases the damage dealt.",
+  "pokemonID": "crustle",
+  "upgradeIDs": [
+    "crustle-stealth-rock",
+    "crustle-x-scissor"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Fury Cutter",
   "id": "crustle-fury-cutter",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 3.5,
-  "pokemonID": "crustle"
+  "level": 1,
+  "cooldown": 3.5
 }

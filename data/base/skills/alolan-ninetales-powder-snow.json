@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Attack with a chilly gust of powdery snow, decreasing the movement speed of enemies for a short time when it hits.",
+  "pokemonID": "alolan-ninetales",
+  "upgradeIDs": [
+    "alolan-ninetales-avalanche",
+    "alolan-ninetales-dazzling-gleam"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Powder Snow",
   "id": "alolan-ninetales-powder-snow",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 5,
-  "pokemonID": "alolan-ninetales"
+  "level": 1,
+  "cooldown": 5
 }

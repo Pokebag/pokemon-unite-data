@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, it deals damage to nearby enemies and decreases their movement speed for a short time.",
+  "pokemonID": "alolan-ninetales",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "alolan-ninetales-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "alolan-ninetales"
+  "level": 1
 }

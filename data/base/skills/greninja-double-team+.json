@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 9,
   "displayName": "Double Team+",
   "description": "Quickly moves the user away from the current position, creating illusory copies of it to aid in battle.\n\nReduced cooldown.",
   "id": "greninja-double-team+",
-  "requires": [
-    "pokemon.hasSkill('greninja-substitute')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "greninja-double-team",
+  "pokemonID": "greninja",
   "slot": 3,
+  "tier": 2,
   "type": 0,
-  "pokemonID": "greninja"
+  "upgradeIDs": []
 }

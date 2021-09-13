@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 7,
   "displayName": "Heavy Slam+",
   "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them.\n\nIncreased damage.",
   "id": "snorlax-heavy-slam+",
-  "requires": [
-    "pokemon.hasSkill('snorlax-tackle')",
-    "pokemon.lvl >= 12"
-  ],
+  "level": 12,
+  "parentID": "snorlax-heavy-slam",
+  "pokemonID": "snorlax",
   "slot": 2,
+  "tier": 2,
   "type": 0,
-  "pokemonID": "snorlax"
+  "upgradeIDs": []
 }

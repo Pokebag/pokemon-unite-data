@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, performing a combo attack with a bone. Deals damage to enemies in the area of effect and throws them.",
+  "pokemonID": "lucario",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "lucario-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "lucario"
+  "level": 1
 }

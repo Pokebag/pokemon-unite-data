@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Blast forward with a punch like a comet, dealing damage to enemies and shoving them.",
+  "pokemonID": "lucario",
+  "upgradeIDs": [
+    "lucario-bone-rush",
+    "lucario-close-combat"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Meteor Mash",
   "id": "lucario-meteor-mash",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 7,
-  "pokemonID": "lucario"
+  "level": 1,
+  "cooldown": 7
 }

@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Dazzling Gleam",
-  "id": "wigglytuff-dazzling-gleam",
-  "requires": [
-    "pokemon.hasSkill('wigglytuff-pound')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [
+    "wigglytuff-dazzling-gleam+"
   ],
   "slot": 2,
+  "parentID": "wigglytuff-pound",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Dazzling Gleam",
+  "id": "wigglytuff-dazzling-gleam",
+  "level": "6",
   "cooldown": 4.5,
-  "description": "Emit a powerful flash in the designated direction, dealing damage to enemies in the area of effect twice.",
-  "pokemonID": "wigglytuff"
+  "description": "Emit a powerful flash in the designated direction, dealing damage to enemies in the area of effect twice."
 }

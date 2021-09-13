@@ -1,13 +1,14 @@
 {
+  "choice": 1,
   "cooldown": 9,
   "displayName": "Close Combat+",
   "description": "Unleash a combo attack, dealing multiple blows to enemies and shoving them.\n\nIncreased damage.",
   "id": "lucario-close-combat+",
-  "requires": [
-    "pokemon.hasSkill('lucario-meteor-mash')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "lucario-close-combat",
+  "pokemonID": "lucario",
   "slot": 3,
+  "tier": 2,
   "type": 1,
-  "pokemonID": "lucario"
+  "upgradeIDs": []
 }

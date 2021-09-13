@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 8,
   "displayName": "Dynamic Punch+",
   "description": "Jump to the designated location, dealing damage to enemies in the area of effect and leaving them unable to act when it hits. After using this move, the user becomes immune to hindrances, their movement speed and basic attack speed is increased. The next basic attack also becomes a boosted attack.\n\nIncreased Attack and movement speed.",
   "id": "machamp-dynamic-punch+",
-  "requires": [
-    "pokemon.hasSkill('machamp-bulk-up')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "machamp-dynamic-punch",
+  "pokemonID": "machamp",
   "slot": 3,
+  "tier": 2,
   "type": 0,
-  "pokemonID": "machamp"
+  "upgradeIDs": []
 }

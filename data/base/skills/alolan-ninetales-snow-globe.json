@@ -1,12 +1,14 @@
 {
   "type": 3,
-  "description": "Attack with a chilly snow and ice, dealing damage to enemies in the area of effect when it hits. Deals increased damage to enemies that are frozen.",
+  "level": 9,
+  "description": "Attacks with a chilly blast of snow and ice, dealing damage to enemies in the area of effect when it hits. Deals increased damage to enemies that are frozen.",
+  "pokemonID": "alolan-ninetales",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Snow Globe",
   "id": "alolan-ninetales-snow-globe",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "alolan-ninetales"
+  "cooldown": 1
 }

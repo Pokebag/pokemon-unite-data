@@ -1,12 +1,14 @@
 {
   "type": 3,
+  "level": 9,
   "description": "Jump to the designated location and start a pantomime performance, dealing damage over time to enemies in the area of effect and leaving them unable to act for a short time.",
+  "pokemonID": "mr-mime",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Showtime",
   "id": "mr-mime-showtime",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "mr-mime"
+  "cooldown": 1
 }

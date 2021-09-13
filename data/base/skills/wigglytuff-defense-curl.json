@@ -1,10 +1,17 @@
 {
   "type": 2,
   "description": "Perform a quick roll, granting the user a shield and throwing any enemies hit by the roll. Hitting an obstacle while rolling will change the direction the user is moving and reset the cooldown of Pound, Double Slap, or Dazzling Gleam.",
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [
+    "wigglytuff-rollout",
+    "wigglytuff-sing"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Defense Curl",
   "id": "wigglytuff-defense-curl",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "wigglytuff"
+  "level": 1,
+  "cooldown": 8
 }

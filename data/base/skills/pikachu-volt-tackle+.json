@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 10,
   "displayName": "Volt Tackle+",
   "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon.\n\nReduced cooldown.",
   "id": "pikachu-volt-tackle+",
-  "requires": [
-    "pokemon.hasSkill('pikachu-electro-web')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "pikachu-volt-tackle",
+  "pokemonID": "pikachu",
   "slot": 3,
+  "tier": 2,
   "type": 2,
-  "pokemonID": "pikachu"
+  "upgradeIDs": []
 }

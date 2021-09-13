@@ -1,13 +1,16 @@
 {
   "type": 2,
-  "displayName": "Volt Tackle",
-  "id": "pikachu-volt-tackle",
-  "requires": [
-    "pokemon.hasSkill('pikachu-electro-web')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "pikachu",
+  "upgradeIDs": [
+    "pikachu-volt-tackle+"
   ],
   "slot": 3,
+  "parentID": "pikachu-electro-web",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Volt Tackle",
+  "id": "pikachu-volt-tackle",
+  "level": "6",
   "cooldown": 10,
-  "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon.",
-  "pokemonID": "pikachu"
+  "description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon."
 }

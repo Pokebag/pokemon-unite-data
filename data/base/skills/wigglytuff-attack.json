@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, dealing damage to enemies and spinning them around when it hits.",
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "wigglytuff-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "wigglytuff"
+  "level": 1
 }

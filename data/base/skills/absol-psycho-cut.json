@@ -1,13 +1,16 @@
 {
   "type": 1,
-  "displayName": "Psycho Cut",
-  "id": "absol-psycho-cut",
-  "requires": [
-    "pokemon.hasSkill('absol-slash')",
-    "pokemon.lvl >= 7"
+  "pokemonID": "absol",
+  "upgradeIDs": [
+    "absol-psycho-cut+"
   ],
   "slot": 3,
+  "parentID": "absol-slash",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Psycho Cut",
+  "id": "absol-psycho-cut",
+  "level": "7",
   "cooldown": 7,
-  "description": "Attack with blades formed by psychic power that decrease the movement speed of enemies for a short time when this move hits. Also increases basic attack damage dealt to the affected enemy for up to 3 attacks after this move hits.",
-  "pokemonID": "absol"
+  "description": "Attack with blades formed by psychic power that decrease the movement speed of enemies for a short time when this move hits. Also increases basic attack damage dealt to the affected enemy for up to 3 attacks after this move hits."
 }

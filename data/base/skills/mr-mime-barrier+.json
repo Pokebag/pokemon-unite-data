@@ -1,13 +1,14 @@
 {
-  "cooldown": 2,
+  "choice": 0,
+  "cooldown": 8,
   "displayName": "Barrier+",
-  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move.\n\nIncreases the max number of uses that can be kept in reserve.",
+  "description": "Create a translucent wall in the designated location that prevents enemies from passing. A maximum of two uses can be kept in reserve for this move and cannot be used more than once every 2s.\n\nIncreases the max number of uses that can be kept in reserve.",
   "id": "mr-mime-barrier+",
-  "requires": [
-    "pokemon.hasSkill('mr-mime-light-screen')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "mr-mime-barrier",
+  "pokemonID": "mr-mime",
   "slot": 3,
+  "tier": 2,
   "type": 2,
-  "pokemonID": "mr-mime"
+  "upgradeIDs": []
 }

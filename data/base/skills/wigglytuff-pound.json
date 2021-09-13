@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Perform a combo attack in front, dealing damage to enemies and decreasing their movement speed for a short time when the attack hits.",
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [
+    "wigglytuff-double-slap",
+    "wigglytuff-dazzling-gleam"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Pound",
   "id": "wigglytuff-pound",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 5,
-  "pokemonID": "wigglytuff"
+  "level": 1,
+  "cooldown": 5
 }

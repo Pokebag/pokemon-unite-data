@@ -1,13 +1,16 @@
 {
   "type": 4,
-  "displayName": "Leaf Tornado",
-  "id": "eldegoss-leaf-tornado",
-  "requires": [
-    "pokemon.hasSkill('eldegoss-leafage')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "eldegoss",
+  "upgradeIDs": [
+    "eldegoss-leaf-tornado+"
   ],
   "slot": 2,
+  "parentID": "eldegoss-leafage",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Leaf Tornado",
+  "id": "eldegoss-leaf-tornado",
+  "level": "4",
   "cooldown": 9,
-  "description": "Attack with a tornado of sharp leaves, leaving a path in its wake that increases ally movement speed for a short time.",
-  "pokemonID": "eldegoss"
+  "description": "Attack with a tornado of sharp leaves, leaving a path in its wake that increases ally movement speed for a short time."
 }

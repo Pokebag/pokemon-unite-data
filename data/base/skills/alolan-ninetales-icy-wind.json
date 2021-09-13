@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Attack with a gust of freezing air, dealing damage to enemies in the area of effect and decreases their movement speed for a short time when it hits.",
+  "pokemonID": "alolan-ninetales",
+  "upgradeIDs": [
+    "alolan-ninetales-blizzard",
+    "alolan-ninetales-aurora-veil"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Icy Wind",
   "id": "alolan-ninetales-icy-wind",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "alolan-ninetales"
+  "level": 1,
+  "cooldown": 8
 }

@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, attaching a bit of cotton fluff to the enemy. The user's basic attacks against an enemy with cotton fluff on it deal increased damage and decreases the enemies movement speed for a short time.",
+  "pokemonID": "eldegoss",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "eldegoss-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "eldegoss"
+  "level": 1
 }

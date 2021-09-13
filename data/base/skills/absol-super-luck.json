@@ -1,8 +1,12 @@
 {
   "description": "Increased critical-hit rate.",
+  "pokemonID": "absol",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Super Luck",
   "id": "absol-super-luck",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "absol"
+  "level": 1
 }

@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Earthquake",
-  "id": "garchomp-earthquake",
-  "requires": [
-    "pokemon.hasSkill('garchomp-bulldoze')",
-    "pokemon.lvl >= 8"
+  "pokemonID": "garchomp",
+  "upgradeIDs": [
+    "garchomp-earthquake+"
   ],
   "slot": 3,
+  "parentID": "garchomp-bulldoze",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Earthquake",
+  "id": "garchomp-earthquake",
+  "level": "8",
   "cooldown": 7,
-  "description": "Jump high into the air and crash forcefully to the ground, dealing damage to enemies in the area of effect.",
-  "pokemonID": "garchomp"
+  "description": "Jump high into the air and crash forcefully to the ground, dealing damage to enemies in the area of effect."
 }

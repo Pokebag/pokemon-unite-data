@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 6,
   "displayName": "Flame Charge+",
   "description": "Charge forward cloaked in flame, dealing damage to any enemy hit.\n\nThe next boosted attack after this move ends also decreases the movement speed of enemies hit for a short time.",
   "id": "cinderace-flame-charge+",
-  "requires": [
-    "pokemon.hasSkill('cinderace-low-sweep')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "cinderace-flame-charge",
+  "pokemonID": "cinderace",
   "slot": 3,
+  "tier": 2,
   "type": 0,
-  "pokemonID": "cinderace"
+  "upgradeIDs": []
 }

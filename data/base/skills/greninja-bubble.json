@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Attack with a spray of bubbles, decreasing the movement speed of enemies when it hits.",
+  "pokemonID": "greninja",
+  "upgradeIDs": [
+    "greninja-water-shuriken",
+    "greninja-surf"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Bubble",
   "id": "greninja-bubble",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 9,
-  "pokemonID": "greninja"
+  "level": 1,
+  "cooldown": 9
 }

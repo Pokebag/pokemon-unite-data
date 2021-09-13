@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 5.5,
   "displayName": "Flamethrower+",
   "description": "Attack with an intense blast of fire. When this move hits, it leaves enemies burned and increases the user's movement speed for a short time.\n\nIncreased damage and the damage caused by burning.",
   "id": "charizard-flamethrower+",
-  "requires": [
-    "pokemon.hasSkill('charizard-flame-burst')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "charizard-flamethrower",
+  "pokemonID": "charizard",
   "slot": 2,
+  "tier": 2,
   "type": 4,
-  "pokemonID": "charizard"
+  "upgradeIDs": []
 }

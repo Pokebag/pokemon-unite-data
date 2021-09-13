@@ -1,12 +1,14 @@
 {
   "type": 7,
+  "level": 9,
   "description": "Create a giant ball of flame and kick it toward the designated location. The ball releases a fierce shock wave that deals damage to enemies in the area of effect. Also increases movement speed for a short time when it hits.",
+  "pokemonID": "cinderace",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Blazing Bicycle Kick",
   "id": "cinderace-blazing-bicycle-kick",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "cinderace"
+  "cooldown": 1
 }

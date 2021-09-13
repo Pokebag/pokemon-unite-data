@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Sludge Bomb",
-  "id": "gengar-sludge-bomb",
-  "requires": [
-    "pokemon.hasSkill('gengar-will-o-wisp')",
-    "pokemon.lvl >= 5"
+  "pokemonID": "gengar",
+  "upgradeIDs": [
+    "gengar-sludge-bomb+"
   ],
   "slot": 2,
+  "parentID": "gengar-will-o-wisp",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Sludge Bomb",
+  "id": "gengar-sludge-bomb",
+  "level": "5",
   "cooldown": 8,
-  "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits.",
-  "pokemonID": "gengar"
+  "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits."
 }

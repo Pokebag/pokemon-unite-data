@@ -1,12 +1,14 @@
 {
   "type": 3,
+  "level": 9,
   "description": "Attacks enemies near the user with tremendous bolts of lightning.",
+  "pokemonID": "pikachu",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Thunderstorm",
   "id": "pikachu-thunderstorm",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "pikachu"
+  "cooldown": 1
 }

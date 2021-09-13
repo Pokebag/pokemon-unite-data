@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 7,
   "displayName": "Earthquake+",
   "description": "Jump high into the air and crash forcefully to the ground, dealing damage to enemies in the area of effect.\n\nDecrease the movement speed of enemies for a short time if they are in this move's area of effect.",
   "id": "garchomp-earthquake+",
-  "requires": [
-    "pokemon.hasSkill('garchomp-bulldoze')",
-    "pokemon.lvl >= 14"
-  ],
+  "level": 14,
+  "parentID": "garchomp-earthquake",
+  "pokemonID": "garchomp",
   "slot": 3,
+  "tier": 2,
   "type": 3,
-  "pokemonID": "garchomp"
+  "upgradeIDs": []
 }

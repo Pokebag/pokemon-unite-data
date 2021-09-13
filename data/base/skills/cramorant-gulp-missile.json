@@ -1,8 +1,12 @@
 {
   "description": "When Cramorant uses a move, it catches some form of prey in its mouth. Afterward, when Cramorant receives damage, it spits the prey out as a counterattack at an enemy. The type of prey and effect differ based on the user's HP.",
-  "displayName": "Gulp Missle",
-  "id": "cramorant-gulp-missle",
-  "requires": [],
+  "pokemonID": "cramorant",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
   "slot": 0,
-  "pokemonID": "cramorant"
+  "choice": 0,
+  "displayName": "Gulp Missile",
+  "id": "cramorant-gulp-missile",
+  "level": 1
 }

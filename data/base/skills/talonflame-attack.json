@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack every third attack, creating a fiery whirlwind that deals damage to enemies in the area of effect. This boosted attack remains readied even after leaving combat for a prolonged period of time.",
+  "pokemonID": "talonflame",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "talonflame-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "talonflame"
+  "level": 1
 }

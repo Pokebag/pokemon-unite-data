@@ -1,13 +1,16 @@
 {
   "type": 5,
-  "displayName": "Cotton Guard",
-  "id": "eldegoss-cotton-guard",
-  "requires": [
-    "pokemon.hasSkill('eldegoss-synthesis')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "eldegoss",
+  "upgradeIDs": [
+    "eldegoss-cotton-guard+"
   ],
   "slot": 3,
+  "parentID": "eldegoss-synthesis",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Cotton Guard",
+  "id": "eldegoss-cotton-guard",
+  "level": "6",
   "cooldown": 9,
-  "description": "Protects the user and nearby allies with cotton. The cotton absorbs damage and when the move ends, the cotton restores some HP.",
-  "pokemonID": "eldegoss"
+  "description": "Protects the user and nearby allies with cotton. The cotton absorbs damage and when the move ends, the cotton restores some HP."
 }

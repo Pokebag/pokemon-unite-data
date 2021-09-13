@@ -1,13 +1,16 @@
 {
   "type": 2,
-  "displayName": "Block",
-  "id": "snorlax-block",
-  "requires": [
-    "pokemon.hasSkill('snorlax-rest')",
-    "pokemon.lvl >= 8"
+  "pokemonID": "snorlax",
+  "upgradeIDs": [
+    "snorlax-block+"
   ],
   "slot": 3,
+  "parentID": "snorlax-rest",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Block",
+  "id": "snorlax-block",
+  "level": "8",
   "cooldown": 11,
-  "description": "Has the user spread its arms wide to create a wall and grants it a shield. Prevents enemies from passing through the wall and shoves them if they run into it.",
-  "pokemonID": "snorlax"
+  "description": "Has the user spread its arms wide to create a wall and grants it a shield. Prevents enemies from passing through the wall and shoves them if they run into it."
 }

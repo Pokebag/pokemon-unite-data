@@ -1,13 +1,16 @@
 {
-  "type": 2,
-  "displayName": "Flail",
-  "id": "snorlax-flail",
-  "requires": [
-    "pokemon.hasSkill('snorlax-tackle')",
-    "pokemon.lvl >= 6"
+  "type": 5,
+  "pokemonID": "snorlax",
+  "upgradeIDs": [
+    "snorlax-flail+"
   ],
   "slot": 2,
+  "parentID": "snorlax-tackle",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Flail",
+  "id": "snorlax-flail",
+  "level": "6",
   "cooldown": 6.5,
-  "description": "Has the user flail about, increasing the user's basic attack damage the lower the user's HP is.",
-  "pokemonID": "snorlax"
+  "description": "Has the user flail about, increasing the user's basic attack damage the lower the user's HP is."
 }

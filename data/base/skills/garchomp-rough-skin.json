@@ -1,8 +1,12 @@
 {
   "description": "When struck by a melee attack, a portion of the damage received is reflected back at the attacker.",
+  "pokemonID": "garchomp",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Rough Skin",
   "id": "garchomp-rough-skin",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "garchomp"
+  "level": 1
 }

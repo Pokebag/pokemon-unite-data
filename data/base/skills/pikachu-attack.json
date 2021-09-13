@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, dealing increased damage. This boosted attack also paralyzes enemies for a short time when it hits.",
+  "pokemonID": "pikachu",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "pikachu-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "pikachu"
+  "level": 1
 }

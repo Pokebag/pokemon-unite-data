@@ -11,6 +11,6 @@
   "displayName": "Safeguard",
   "id": "blissey-safeguard",
   "level": "4",
-  "cooldown": 11,
-  "description": "Removes all status conditions from the designated ally and makes it immune to hindrances for a short time."
+  "cooldown": 8,
+  "description": "Blissey grants both the targeted ally and themself a shield, purging hindrances and making both immune to hindrances as long as the shield lasts."
 }

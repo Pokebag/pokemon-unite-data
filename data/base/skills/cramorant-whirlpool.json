@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Creates a whirlpool that deals damage to enemies in the area of effect. The area of effect slowly shrinks, but the damage dealt slowly increases. Just before the whirlpool disappears, it decreases the movement speed of enemies in the area of effect for a short time. The user can also catch Arrokuda or other prey by entering the whirlpool.",
+  "pokemonID": "cramorant",
+  "upgradeIDs": [
+    "cramorant-surf",
+    "cramorant-dive"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Whirlpool",
   "id": "cramorant-whirlpool",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 5,
-  "pokemonID": "cramorant"
+  "level": 1,
+  "cooldown": 5
 }

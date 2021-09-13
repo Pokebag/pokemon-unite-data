@@ -1,13 +1,16 @@
 {
   "type": 0,
-  "displayName": "Heavy Slam",
-  "id": "snorlax-heavy-slam",
-  "requires": [
-    "pokemon.hasSkill('snorlax-tackle')",
-    "pokemon.lvl >= 6"
+  "pokemonID": "snorlax",
+  "upgradeIDs": [
+    "snorlax-heavy-slam+"
   ],
   "slot": 2,
+  "parentID": "snorlax-tackle",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Heavy Slam",
+  "id": "snorlax-heavy-slam",
+  "level": "6",
   "cooldown": 7,
-  "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them.",
-  "pokemonID": "snorlax"
+  "description": "Has the user slam its heavy body down, dealing damage to enemies in the area of effect and throwing them."
 }

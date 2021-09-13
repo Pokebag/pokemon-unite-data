@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Launch many sharp-edged leaves in a quick succession of attacks, dealing damage to enemies in the area of effect.",
+  "pokemonID": "venusaur",
+  "upgradeIDs": [
+    "venusaur-solar-beam",
+    "venusaur-petal-dance"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Razor Leaf",
   "id": "venusaur-razor-leaf",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 9,
-  "pokemonID": "venusaur"
+  "level": 1,
+  "cooldown": 9
 }

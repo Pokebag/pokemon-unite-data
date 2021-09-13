@@ -1,10 +1,17 @@
 {
   "type": 6,
   "description": "Restores the HP of the user and nearby allies.",
+  "pokemonID": "eldegoss",
+  "upgradeIDs": [
+    "eldegoss-cotton-guard",
+    "eldegoss-cotton-spore"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Synthesis",
   "id": "eldegoss-synthesis",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8,
-  "pokemonID": "eldegoss"
+  "level": 1,
+  "cooldown": 8
 }

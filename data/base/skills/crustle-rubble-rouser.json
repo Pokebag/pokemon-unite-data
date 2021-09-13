@@ -1,12 +1,14 @@
 {
   "type": 5,
+  "level": 9,
   "description": "Gain a shield for a short time and leave nearby enemies unable to act, dealing damage over time to them. If the user receives damage while this move is in effect, the move deals additional hits to nearby enemies.",
+  "pokemonID": "crustle",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Rubble Rouser",
   "id": "crustle-rubble-rouser",
-  "requires": [
-    "pokemon.lvl >= 9"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "crustle"
+  "cooldown": 1
 }

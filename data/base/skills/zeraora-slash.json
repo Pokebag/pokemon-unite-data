@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Pounce at an enemy and attack with sharp claws. This move's final attack throws enemies.",
+  "pokemonID": "zeraora",
+  "upgradeIDs": [
+    "zeraora-discharge",
+    "zeraora-wild-charge"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Slash",
   "id": "zeraora-slash",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 8.5,
-  "pokemonID": "zeraora"
+  "level": 1,
+  "cooldown": 8.5
 }

@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Fire Blast",
-  "id": "charizard-fire-blast",
-  "requires": [
-    "pokemon.hasSkill('charizard-fire-spin')",
-    "pokemon.lvl >= 7"
+  "pokemonID": "charizard",
+  "upgradeIDs": [
+    "charizard-fire-blast+"
   ],
   "slot": 3,
+  "parentID": "charizard-fire-spin",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Fire Blast",
+  "id": "charizard-fire-blast",
+  "level": "7",
   "cooldown": 8,
-  "description": "Blasts intense, all-consuming fire, dealing damage over time to enemies while the flames continue to burn on the ground and decreasing the movement speed of enemies for a short time.",
-  "pokemonID": "charizard"
+  "description": "Blasts intense, all-consuming fire, dealing damage over time to enemies while the flames continue to burn on the ground and decreasing the movement speed of enemies for a short time."
 }

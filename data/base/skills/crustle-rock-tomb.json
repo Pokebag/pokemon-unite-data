@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Rock Tomb",
-  "id": "crustle-rock-tomb",
-  "requires": [
-    "pokemon.hasSkill('crustle-rock-slide')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "crustle",
+  "upgradeIDs": [
+    "crustle-rock-tomb+"
   ],
   "slot": 2,
+  "parentID": "crustle-rock-slide",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Rock Tomb",
+  "id": "crustle-rock-tomb",
+  "level": "4",
   "cooldown": 5,
-  "description": "Splits open the ground toward the designated area, dealing damage to enemies in the area of effect and creating a barricade of rock. Activating this move again removes the barricade.",
-  "pokemonID": "crustle"
+  "description": "Splits open the ground toward the designated area, dealing damage to enemies in the area of effect and creating a barricade of rock. Activating this move again removes the barricade."
 }

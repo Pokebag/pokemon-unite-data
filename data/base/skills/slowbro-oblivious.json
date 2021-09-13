@@ -1,8 +1,12 @@
 {
   "description": "When Slowbro receives damage, the HP loss is gradual. When damaging an opponent with a move, restore some of the remaining gradual HP loss and decrease the target's Sp. Defense.",
+  "pokemonID": "slowbro",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Oblivious",
   "id": "slowbro-oblivious",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "slowbro"
+  "level": 1
 }

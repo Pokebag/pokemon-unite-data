@@ -1,12 +1,14 @@
 {
   "type": 7,
+  "level": 10,
   "description": "Unleash a blast of lightning, dealing damage to enemies in the area of effect and throw them. This also creates a zone of plasma that increases the user's basic attack range and damage dealt while inside this zone.",
+  "pokemonID": "zeraora",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 4,
+  "choice": 0,
   "displayName": "Plasma Gale",
   "id": "zeraora-plasma-gale",
-  "requires": [
-    "pokemon.lvl >= 10"
-  ],
-  "slot": 4,
-  "cooldown": 1,
-  "pokemonID": "zeraora"
+  "cooldown": 1
 }

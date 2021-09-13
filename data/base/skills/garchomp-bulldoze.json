@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Stomp down on the ground, dealing damage to enemies in the area of effect.",
+  "pokemonID": "garchomp",
+  "upgradeIDs": [
+    "garchomp-earthquake",
+    "garchomp-dragon-claw"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Bulldoze",
   "id": "garchomp-bulldoze",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 5,
-  "pokemonID": "garchomp"
+  "level": 1,
+  "cooldown": 5
 }

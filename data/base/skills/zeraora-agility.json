@@ -1,10 +1,17 @@
 {
   "type": 0,
   "description": "Perform a quick dash and increase basic attack speed for a short time afterward.",
+  "pokemonID": "zeraora",
+  "upgradeIDs": [
+    "zeraora-volt-switch",
+    "zeraora-spark"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Agility",
   "id": "zeraora-agility",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "zeraora"
+  "level": 1,
+  "cooldown": 6
 }

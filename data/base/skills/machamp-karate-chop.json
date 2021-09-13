@@ -1,10 +1,17 @@
 {
   "type": 1,
   "description": "Attack opposing Pokémon with a sharp chop.",
+  "pokemonID": "machamp",
+  "upgradeIDs": [
+    "machamp-close-combat",
+    "machamp-cross-chop"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Karate Chop",
   "id": "machamp-karate-chop",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "machamp"
+  "level": 1,
+  "cooldown": 6
 }

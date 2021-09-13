@@ -1,13 +1,14 @@
 {
+  "choice": 1,
   "cooldown": 13,
   "displayName": "Feint+",
   "description": "Increases movement speed for a short time and become invincible.\n\nAfter this move is used, basic attacks that hit enemies restore HP (up to 3 times).",
   "id": "cinderace-feint+",
-  "requires": [
-    "pokemon.hasSkill('cinderace-low-sweep')",
-    "pokemon.lvl >= 13"
-  ],
+  "level": 13,
+  "parentID": "cinderace-feint",
+  "pokemonID": "cinderace",
   "slot": 3,
+  "tier": 2,
   "type": 5,
-  "pokemonID": "cinderace"
+  "upgradeIDs": []
 }

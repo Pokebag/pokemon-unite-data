@@ -1,13 +1,16 @@
 {
   "type": 5,
-  "displayName": "Feint",
-  "id": "cinderace-feint",
-  "requires": [
-    "pokemon.hasSkill('cinderace-low-sweep')",
-    "pokemon.lvl >= 8"
+  "pokemonID": "cinderace",
+  "upgradeIDs": [
+    "cinderace-feint+"
   ],
   "slot": 3,
+  "parentID": "cinderace-low-sweep",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Feint",
+  "id": "cinderace-feint",
+  "level": "8",
   "cooldown": 13,
-  "description": "Increases movement speed for a short time and become invincible.",
-  "pokemonID": "cinderace"
+  "description": "Increases movement speed for a short time and become invincible."
 }

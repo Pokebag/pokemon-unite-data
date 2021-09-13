@@ -1,8 +1,12 @@
 {
   "description": "While at half HP or less, critical-hit rate is increased.",
+  "pokemonID": "charizard",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Blaze",
   "id": "charizard-blaze",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "charizard"
+  "level": 1
 }

@@ -1,13 +1,14 @@
 {
+  "choice": 1,
   "cooldown": 8,
   "displayName": "Sludge Bomb+",
   "description": "Hurl unsanitary sludge to the designated area, leaving enemies poisoned when it hits.\n\nIncreased poison duration.",
   "id": "gengar-sludge-bomb+",
-  "requires": [
-    "pokemon.hasSkill('gengar-will-o-wisp')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "gengar-sludge-bomb",
+  "pokemonID": "gengar",
   "slot": 2,
+  "tier": 2,
   "type": 3,
-  "pokemonID": "gengar"
+  "upgradeIDs": []
 }

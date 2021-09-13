@@ -1,13 +1,16 @@
 {
   "type": 3,
-  "displayName": "Sing",
-  "id": "wigglytuff-sing",
-  "requires": [
-    "pokemon.hasSkill('wigglytuff-defense-curl')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "wigglytuff",
+  "upgradeIDs": [
+    "wigglytuff-sing+"
   ],
   "slot": 3,
+  "parentID": "wigglytuff-defense-curl",
+  "tier": 1,
+  "choice": 1,
+  "displayName": "Sing",
+  "id": "wigglytuff-sing",
+  "level": "4",
   "cooldown": 10,
-  "description": "Has the user sing, decreasing the movement speed of nearby enemies for a short time. Enemies that stay in the move's area of effect for a while are put to sleep for a short time, which also decreases their Defense and Sp. Defense.",
-  "pokemonID": "wigglytuff"
+  "description": "Has the user sing, decreasing the movement speed of nearby enemies for a short time. Enemies that stay in the move's area of effect for a while are put to sleep for a short time, which also decreases their Defense and Sp. Defense."
 }

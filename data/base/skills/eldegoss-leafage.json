@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Pelt the target with leaves, decreasing the movement speed of enemies for a short time when it hits.",
+  "pokemonID": "eldegoss",
+  "upgradeIDs": [
+    "eldegoss-pollen-puff",
+    "eldegoss-leaf-tornado"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Leafage",
   "id": "eldegoss-leafage",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 4.5,
-  "pokemonID": "eldegoss"
+  "level": 1,
+  "cooldown": 4.5
 }

@@ -1,13 +1,16 @@
 {
   "type": 4,
-  "displayName": "Hurricane",
-  "id": "cramorant-hurricane",
-  "requires": [
-    "pokemon.hasSkill('cramorant-feather-dance')",
-    "pokemon.lvl >= 4"
+  "pokemonID": "cramorant",
+  "upgradeIDs": [
+    "cramorant-hurricane+"
   ],
   "slot": 3,
+  "parentID": "cramorant-feather-dance",
+  "tier": 1,
+  "choice": 0,
+  "displayName": "Hurricane",
+  "id": "cramorant-hurricane",
+  "level": "4",
   "cooldown": 9,
-  "description": "Creates a fierce wind, dealing damage to enemies that get caught in it and throws them.",
-  "pokemonID": "cramorant"
+  "description": "Creates a fierce wind, dealing damage to enemies that get caught in it and throws them."
 }

@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, dealing increased damage and paralyzing the enemy while restoring some of Zeraora's HP.",
+  "pokemonID": "zeraora",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "zeraora-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "zeraora"
+  "level": 1
 }

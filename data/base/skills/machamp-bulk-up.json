@@ -1,10 +1,17 @@
 {
   "type": 5,
   "description": "Become immune to hindrances for a short time. Increases movement speed, basic attack speed, and Attack. The next basic attack also becomes a boosted attack.",
+  "pokemonID": "machamp",
+  "upgradeIDs": [
+    "machamp-dynamic-punch",
+    "machamp-submission"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Bulk Up",
   "id": "machamp-bulk-up",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 9,
-  "pokemonID": "machamp"
+  "level": 1,
+  "cooldown": 9
 }

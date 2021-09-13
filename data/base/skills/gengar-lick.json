@@ -1,10 +1,17 @@
 {
   "type": 3,
   "description": "Attacks with the user's tongue and pulls enemies toward the user.",
+  "pokemonID": "gengar",
+  "upgradeIDs": [
+    "gengar-dream-eater",
+    "gengar-hex"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 3,
+  "choice": 0,
   "displayName": "Lick",
   "id": "gengar-lick",
-  "requires": [],
-  "slot": 3,
-  "cooldown": 7,
-  "pokemonID": "gengar"
+  "level": 1,
+  "cooldown": 7
 }

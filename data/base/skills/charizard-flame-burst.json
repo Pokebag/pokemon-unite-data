@@ -1,10 +1,17 @@
 {
   "type": 4,
   "description": "Attack with a bursting flame. When this move hits, it leaves enemies burned and increases the user's movement speed for a short time.",
+  "pokemonID": "charizard",
+  "upgradeIDs": [
+    "charizard-flamethrower",
+    "charizard-fire-punch"
+  ],
+  "parentID": null,
+  "tier": 0,
+  "slot": 2,
+  "choice": 0,
   "displayName": "Flame Burst",
   "id": "charizard-flame-burst",
-  "requires": [],
-  "slot": 2,
-  "cooldown": 6,
-  "pokemonID": "charizard"
+  "level": 1,
+  "cooldown": 6
 }

@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack. When this boosted attack hits, deal damage to nearby opposing Pokémon and decrease their movement speed.",
+  "pokemonID": "slowbro",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "slowbro-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "slowbro"
+  "level": 1
 }

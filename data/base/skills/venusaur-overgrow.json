@@ -1,8 +1,12 @@
 {
   "description": "When HP is low, increases all damage dealt.",
+  "pokemonID": "venusaur",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 0,
+  "choice": 0,
   "displayName": "Overgrow",
   "id": "venusaur-overgrow",
-  "requires": [],
-  "slot": 0,
-  "pokemonID": "venusaur"
+  "level": 1
 }

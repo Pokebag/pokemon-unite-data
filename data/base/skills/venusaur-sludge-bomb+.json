@@ -1,13 +1,14 @@
 {
+  "choice": 0,
   "cooldown": 6,
   "displayName": "Sludge Bomb+",
   "description": "Hurl unsanitary sludge to the designated area, dealing damage to enemies in the area of effect, leaving them poisoned and decreasing their movement speed and Sp. Defense for a short time\n\nIncreased area of effect.",
   "id": "venusaur-sludge-bomb+",
-  "requires": [
-    "pokemon.hasSkill('venusaur-seed-bomb')",
-    "pokemon.lvl >= 11"
-  ],
+  "level": 11,
+  "parentID": "venusaur-sludge-bomb",
+  "pokemonID": "venusaur",
   "slot": 2,
+  "tier": 2,
   "type": 4,
-  "pokemonID": "venusaur"
+  "upgradeIDs": []
 }

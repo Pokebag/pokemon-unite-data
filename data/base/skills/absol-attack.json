@@ -1,8 +1,12 @@
 {
   "description": "Becomes a boosted attack with every third attack, dealing damage to enemies and lowering their Defense when it hits. If this boosted attack hits only a single target, it deals increased damage.",
+  "pokemonID": "absol",
+  "upgradeIDs": [],
+  "parentID": null,
+  "tier": 0,
+  "slot": 1,
+  "choice": 0,
   "displayName": "Attack",
   "id": "absol-attack",
-  "requires": [],
-  "slot": 1,
-  "pokemonID": "absol"
+  "level": 1
 }
